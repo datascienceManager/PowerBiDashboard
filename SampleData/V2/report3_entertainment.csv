@@ -1,0 +1,1001 @@
+customer_id,group,content_language,user_type,content_category,content_title,viewed,content_discovered,view_date
+E00001,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-25
+E00002,Control,English,Existing Football User,Magazine Shows,Pitch Talk,1,0,2026-06-04
+E00003,Target,Arabic,Existing Football User,Documentaries,The Beautiful Game,1,1,2026-06-25
+E00004,Control,English,New World Cup User,Originals,Team Spirit,1,0,2026-06-11
+E00005,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,1,1,2026-06-25
+E00006,Target,English,Existing Football User,Highlights,Goal Fest,1,0,2026-06-11
+E00007,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,0,1,2026-06-21
+E00008,Target,Arabic,Existing Football User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-01
+E00009,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,0,0,2026-06-01
+E00010,Target,English,Existing Football User,Highlights,Goal Fest,1,0,2026-06-06
+E00011,Target,Arabic,New World Cup User,Highlights,Daily Highlights,1,1,2026-06-19
+E00012,Target,Arabic,New World Cup User,Highlights,Top 10 Saves,0,0,2026-06-04
+E00013,Control,English,Existing Football User,Highlights,Goal Fest,0,1,2026-06-24
+E00014,Target,English,New World Cup User,Magazine Shows,WC Weekly,0,0,2026-06-29
+E00015,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,0,1,2026-06-26
+E00016,Target,Arabic,New World Cup User,Magazine Shows,Studio 26,1,1,2026-06-05
+E00017,Control,Arabic,Existing Football User,Originals,The Last Match,0,1,2026-06-08
+E00018,Target,Arabic,New World Cup User,Documentaries,The Beautiful Game,1,1,2026-06-29
+E00019,Target,Arabic,New World Cup User,Originals,Behind the Badge,1,1,2026-06-15
+E00020,Target,English,Existing Football User,Highlights,Top 10 Saves,1,1,2026-06-29
+E00021,Target,English,New World Cup User,Originals,Team Spirit,1,1,2026-06-23
+E00022,Target,English,Existing Football User,Highlights,Top 10 Saves,0,0,2026-06-09
+E00023,Target,Arabic,Existing Football User,Pre-match Analysis,Pre-Match Special,1,1,2026-06-12
+E00024,Target,English,New World Cup User,Pre-match Analysis,Tactics Board,0,0,2026-06-19
+E00025,Control,English,New World Cup User,Magazine Shows,Studio 26,0,0,2026-06-16
+E00026,Target,English,Existing Football User,Documentaries,The Beautiful Game,1,1,2026-06-05
+E00027,Target,Arabic,Existing Football User,Originals,The Last Match,1,0,2026-06-30
+E00028,Target,Arabic,Existing Football User,Originals,FIFA Stories,1,1,2026-06-11
+E00029,Target,English,Existing Football User,Documentaries,90 Minutes,0,1,2026-06-09
+E00030,Target,Arabic,Existing Football User,Highlights,Goal Fest,1,0,2026-06-09
+E00031,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,1,2026-06-08
+E00032,Target,English,New World Cup User,Documentaries,Road to Glory,1,0,2026-06-07
+E00033,Target,English,Existing Football User,Magazine Shows,Pitch Talk,1,0,2026-06-20
+E00034,Target,Arabic,New World Cup User,Documentaries,90 Minutes,0,1,2026-06-26
+E00035,Target,English,Existing Football User,Originals,The Last Match,0,0,2026-06-06
+E00036,Target,English,New World Cup User,Originals,Behind the Badge,0,1,2026-06-09
+E00037,Target,English,New World Cup User,Documentaries,Sons of the Desert,1,1,2026-06-17
+E00038,Target,Arabic,Existing Football User,Documentaries,90 Minutes,0,1,2026-06-28
+E00039,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,0,2026-06-11
+E00040,Target,English,Existing Football User,Originals,Team Spirit,0,1,2026-06-06
+E00041,Target,English,Existing Football User,Highlights,Top 10 Saves,1,0,2026-06-16
+E00042,Target,English,New World Cup User,Highlights,Daily Highlights,1,0,2026-06-10
+E00043,Target,English,New World Cup User,Originals,Behind the Badge,1,0,2026-06-13
+E00044,Target,Arabic,New World Cup User,Documentaries,90 Minutes,1,0,2026-06-15
+E00045,Target,Arabic,Existing Football User,Highlights,Daily Highlights,1,1,2026-06-11
+E00046,Target,English,New World Cup User,Pre-match Analysis,Tactics Board,0,0,2026-06-15
+E00047,Control,Arabic,Existing Football User,Highlights,Top 10 Saves,1,0,2026-06-24
+E00048,Target,Arabic,New World Cup User,Magazine Shows,Pitch Talk,1,0,2026-06-13
+E00049,Target,Arabic,New World Cup User,Originals,Behind the Badge,1,1,2026-06-16
+E00050,Target,Arabic,New World Cup User,Magazine Shows,Pitch Talk,0,0,2026-06-19
+E00051,Target,Arabic,New World Cup User,Highlights,Daily Highlights,1,0,2026-06-09
+E00052,Target,English,Existing Football User,Highlights,Best Goals WC26,0,0,2026-06-24
+E00053,Target,English,New World Cup User,Highlights,Top 10 Saves,1,1,2026-06-12
+E00054,Target,English,New World Cup User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-14
+E00055,Target,English,Existing Football User,Pre-match Analysis,Kick-Off Show,0,0,2026-06-01
+E00056,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,1,1,2026-06-03
+E00057,Target,Arabic,Existing Football User,Pre-match Analysis,Tactics Board,0,0,2026-06-03
+E00058,Target,English,Existing Football User,Documentaries,90 Minutes,0,0,2026-06-29
+E00059,Control,Arabic,New World Cup User,Documentaries,Sons of the Desert,0,0,2026-06-17
+E00060,Target,English,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-01
+E00061,Target,English,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-25
+E00062,Target,English,Existing Football User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-19
+E00063,Target,Arabic,Existing Football User,Originals,Team Spirit,1,0,2026-06-28
+E00064,Target,Arabic,New World Cup User,Documentaries,The Beautiful Game,0,0,2026-06-22
+E00065,Target,English,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-25
+E00066,Target,Arabic,New World Cup User,Documentaries,90 Minutes,1,0,2026-06-28
+E00067,Target,English,Existing Football User,Magazine Shows,Studio 26,1,1,2026-06-13
+E00068,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,1,1,2026-06-16
+E00069,Target,English,New World Cup User,Magazine Shows,Pitch Talk,1,1,2026-06-17
+E00070,Target,English,Existing Football User,Magazine Shows,WC Weekly,1,0,2026-06-13
+E00071,Control,Arabic,New World Cup User,Originals,Behind the Badge,0,0,2026-06-28
+E00072,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,1,0,2026-06-24
+E00073,Target,English,Existing Football User,Highlights,Top 10 Saves,1,1,2026-06-17
+E00074,Target,English,Existing Football User,Documentaries,Sons of the Desert,0,0,2026-06-12
+E00075,Target,Arabic,New World Cup User,Highlights,Top 10 Saves,0,0,2026-06-24
+E00076,Control,Arabic,New World Cup User,Documentaries,Sons of the Desert,1,1,2026-06-13
+E00077,Target,English,New World Cup User,Documentaries,Road to Glory,1,0,2026-06-02
+E00078,Target,Arabic,New World Cup User,Documentaries,90 Minutes,0,0,2026-06-06
+E00079,Target,Arabic,New World Cup User,Highlights,Best Goals WC26,1,1,2026-06-16
+E00080,Target,English,New World Cup User,Highlights,Best Goals WC26,1,0,2026-06-29
+E00081,Target,English,New World Cup User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-28
+E00082,Target,Arabic,Existing Football User,Pre-match Analysis,Tactics Board,0,1,2026-06-22
+E00083,Target,Arabic,New World Cup User,Originals,FIFA Stories,1,1,2026-06-24
+E00084,Target,English,New World Cup User,Pre-match Analysis,Pre-Match Special,0,1,2026-06-14
+E00085,Target,Arabic,Existing Football User,Magazine Shows,WC Weekly,0,0,2026-06-01
+E00086,Target,Arabic,Existing Football User,Highlights,Goal Fest,1,0,2026-06-16
+E00087,Control,Arabic,New World Cup User,Magazine Shows,Pitch Talk,1,1,2026-06-15
+E00088,Target,English,New World Cup User,Originals,Team Spirit,1,0,2026-06-16
+E00089,Target,English,Existing Football User,Originals,Behind the Badge,1,0,2026-06-21
+E00090,Target,Arabic,Existing Football User,Highlights,Goal Fest,0,1,2026-06-23
+E00091,Target,English,New World Cup User,Magazine Shows,Studio 26,1,0,2026-06-28
+E00092,Control,Arabic,New World Cup User,Pre-match Analysis,Tactics Board,1,0,2026-06-25
+E00093,Target,English,Existing Football User,Pre-match Analysis,Kick-Off Show,0,0,2026-06-08
+E00094,Target,Arabic,New World Cup User,Highlights,Best Goals WC26,1,0,2026-06-28
+E00095,Target,Arabic,New World Cup User,Highlights,Daily Highlights,1,0,2026-06-13
+E00096,Target,English,New World Cup User,Magazine Shows,Match Day,1,0,2026-06-01
+E00097,Target,English,Existing Football User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-05
+E00098,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,0,1,2026-06-07
+E00099,Target,English,Existing Football User,Highlights,Daily Highlights,1,0,2026-06-24
+E00100,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,0,0,2026-06-01
+E00101,Target,English,Existing Football User,Pre-match Analysis,The Preview,1,0,2026-06-27
+E00102,Target,English,Existing Football User,Documentaries,The Beautiful Game,0,0,2026-06-02
+E00103,Target,English,Existing Football User,Magazine Shows,Studio 26,0,0,2026-06-23
+E00104,Control,English,New World Cup User,Highlights,Best Goals WC26,1,0,2026-06-20
+E00105,Control,Arabic,New World Cup User,Magazine Shows,Studio 26,1,1,2026-06-25
+E00106,Target,English,New World Cup User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-12
+E00107,Target,Arabic,New World Cup User,Highlights,Goal Fest,1,0,2026-06-09
+E00108,Target,English,New World Cup User,Pre-match Analysis,The Preview,1,1,2026-06-27
+E00109,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,0,2026-06-29
+E00110,Target,English,Existing Football User,Originals,The Last Match,0,0,2026-06-17
+E00111,Target,English,New World Cup User,Documentaries,Sons of the Desert,1,1,2026-06-11
+E00112,Target,English,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-12
+E00113,Control,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,0,2026-06-21
+E00114,Target,Arabic,Existing Football User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-25
+E00115,Control,English,Existing Football User,Originals,Behind the Badge,0,0,2026-06-27
+E00116,Control,English,New World Cup User,Documentaries,Road to Glory,0,0,2026-06-16
+E00117,Target,English,Existing Football User,Originals,The Last Match,1,0,2026-06-29
+E00118,Target,Arabic,Existing Football User,Originals,FIFA Stories,1,0,2026-06-30
+E00119,Target,English,Existing Football User,Magazine Shows,WC Weekly,1,1,2026-06-20
+E00120,Control,English,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-30
+E00121,Target,English,Existing Football User,Originals,Team Spirit,1,1,2026-06-18
+E00122,Target,English,Existing Football User,Magazine Shows,Pitch Talk,0,0,2026-06-08
+E00123,Control,English,Existing Football User,Highlights,Best Goals WC26,1,0,2026-06-28
+E00124,Target,English,New World Cup User,Pre-match Analysis,Tactics Board,1,0,2026-06-19
+E00125,Target,English,New World Cup User,Originals,Behind the Badge,1,0,2026-06-30
+E00126,Control,English,New World Cup User,Documentaries,Sons of the Desert,1,0,2026-06-23
+E00127,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,1,1,2026-06-27
+E00128,Target,English,Existing Football User,Magazine Shows,Match Day,0,1,2026-06-20
+E00129,Target,English,Existing Football User,Highlights,Best Goals WC26,0,0,2026-06-02
+E00130,Control,English,Existing Football User,Documentaries,The Beautiful Game,1,0,2026-06-19
+E00131,Target,Arabic,New World Cup User,Magazine Shows,Pitch Talk,0,1,2026-06-15
+E00132,Target,English,New World Cup User,Highlights,Goal Fest,1,0,2026-06-22
+E00133,Target,Arabic,Existing Football User,Originals,FIFA Stories,0,1,2026-06-03
+E00134,Target,Arabic,Existing Football User,Highlights,Top 10 Saves,0,1,2026-06-30
+E00135,Target,Arabic,New World Cup User,Documentaries,Road to Glory,0,0,2026-06-22
+E00136,Target,English,New World Cup User,Magazine Shows,Pitch Talk,0,1,2026-06-10
+E00137,Target,English,New World Cup User,Magazine Shows,WC Weekly,1,0,2026-06-08
+E00138,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,1,2026-06-20
+E00139,Target,Arabic,New World Cup User,Documentaries,Sons of the Desert,1,0,2026-06-01
+E00140,Target,English,New World Cup User,Documentaries,The Beautiful Game,0,0,2026-06-07
+E00141,Target,English,Existing Football User,Pre-match Analysis,Tactics Board,0,1,2026-06-22
+E00142,Control,English,Existing Football User,Magazine Shows,Pitch Talk,0,0,2026-06-15
+E00143,Target,Arabic,Existing Football User,Originals,Behind the Badge,1,0,2026-06-19
+E00144,Target,Arabic,New World Cup User,Highlights,Top 10 Saves,0,0,2026-06-15
+E00145,Control,English,New World Cup User,Documentaries,Road to Glory,1,0,2026-06-08
+E00146,Control,English,Existing Football User,Magazine Shows,WC Weekly,1,0,2026-06-30
+E00147,Target,Arabic,Existing Football User,Originals,The Last Match,0,0,2026-06-10
+E00148,Target,English,Existing Football User,Originals,The Last Match,1,0,2026-06-16
+E00149,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,1,1,2026-06-26
+E00150,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,1,0,2026-06-29
+E00151,Target,Arabic,New World Cup User,Documentaries,Road to Glory,1,1,2026-06-07
+E00152,Target,Arabic,New World Cup User,Pre-match Analysis,Tactics Board,1,0,2026-06-02
+E00153,Control,Arabic,New World Cup User,Highlights,Top 10 Saves,0,1,2026-06-07
+E00154,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,0,1,2026-06-10
+E00155,Target,Arabic,New World Cup User,Highlights,Goal Fest,0,1,2026-06-27
+E00156,Target,Arabic,Existing Football User,Pre-match Analysis,Tactics Board,0,1,2026-06-30
+E00157,Target,English,Existing Football User,Originals,The Last Match,0,0,2026-06-14
+E00158,Target,Arabic,New World Cup User,Originals,FIFA Stories,1,1,2026-06-23
+E00159,Target,Arabic,Existing Football User,Documentaries,Road to Glory,1,0,2026-06-16
+E00160,Target,English,Existing Football User,Originals,The Last Match,1,1,2026-06-28
+E00161,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,0,0,2026-06-16
+E00162,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,1,2026-06-13
+E00163,Target,Arabic,Existing Football User,Magazine Shows,Match Day,1,1,2026-06-20
+E00164,Target,Arabic,Existing Football User,Originals,FIFA Stories,1,0,2026-06-11
+E00165,Control,English,Existing Football User,Originals,The Last Match,1,0,2026-06-13
+E00166,Target,English,Existing Football User,Highlights,Top 10 Saves,0,1,2026-06-24
+E00167,Target,English,Existing Football User,Highlights,Daily Highlights,0,1,2026-06-11
+E00168,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,1,1,2026-06-30
+E00169,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,1,2026-06-02
+E00170,Control,Arabic,Existing Football User,Documentaries,Road to Glory,1,0,2026-06-16
+E00171,Control,English,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-22
+E00172,Target,English,New World Cup User,Magazine Shows,Studio 26,0,1,2026-06-18
+E00173,Control,Arabic,Existing Football User,Originals,Team Spirit,0,0,2026-06-09
+E00174,Control,English,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-23
+E00175,Control,Arabic,New World Cup User,Highlights,Daily Highlights,1,0,2026-06-29
+E00176,Target,English,New World Cup User,Magazine Shows,Studio 26,1,1,2026-06-13
+E00177,Target,Arabic,Existing Football User,Highlights,Top 10 Saves,1,0,2026-06-24
+E00178,Target,English,New World Cup User,Pre-match Analysis,The Preview,1,1,2026-06-13
+E00179,Target,Arabic,New World Cup User,Originals,The Last Match,1,1,2026-06-18
+E00180,Control,English,New World Cup User,Highlights,Goal Fest,1,1,2026-06-19
+E00181,Target,English,Existing Football User,Magazine Shows,Pitch Talk,1,1,2026-06-08
+E00182,Control,Arabic,New World Cup User,Originals,FIFA Stories,0,0,2026-06-03
+E00183,Target,Arabic,New World Cup User,Documentaries,The Beautiful Game,0,1,2026-06-24
+E00184,Target,Arabic,New World Cup User,Documentaries,The Beautiful Game,1,1,2026-06-29
+E00185,Control,English,New World Cup User,Highlights,Daily Highlights,1,0,2026-06-06
+E00186,Control,Arabic,Existing Football User,Magazine Shows,WC Weekly,0,0,2026-06-06
+E00187,Target,English,New World Cup User,Highlights,Best Goals WC26,0,1,2026-06-15
+E00188,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,1,1,2026-06-01
+E00189,Target,English,New World Cup User,Pre-match Analysis,Tactics Board,1,1,2026-06-16
+E00190,Control,English,New World Cup User,Documentaries,The Beautiful Game,1,1,2026-06-10
+E00191,Target,Arabic,Existing Football User,Highlights,Daily Highlights,1,0,2026-06-26
+E00192,Target,English,Existing Football User,Pre-match Analysis,The Preview,0,0,2026-06-09
+E00193,Target,English,Existing Football User,Magazine Shows,Match Day,0,1,2026-06-08
+E00194,Target,English,New World Cup User,Magazine Shows,Match Day,1,0,2026-06-25
+E00195,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-20
+E00196,Target,Arabic,New World Cup User,Magazine Shows,Pitch Talk,0,1,2026-06-02
+E00197,Target,English,New World Cup User,Originals,Behind the Badge,0,0,2026-06-26
+E00198,Target,English,Existing Football User,Originals,Behind the Badge,0,0,2026-06-09
+E00199,Target,English,Existing Football User,Originals,FIFA Stories,1,1,2026-06-25
+E00200,Target,Arabic,Existing Football User,Originals,FIFA Stories,1,0,2026-06-25
+E00201,Target,Arabic,Existing Football User,Documentaries,The Beautiful Game,0,0,2026-06-05
+E00202,Target,English,New World Cup User,Documentaries,Road to Glory,1,1,2026-06-30
+E00203,Target,Arabic,Existing Football User,Documentaries,Road to Glory,1,0,2026-06-08
+E00204,Target,Arabic,New World Cup User,Originals,Team Spirit,1,1,2026-06-16
+E00205,Target,Arabic,New World Cup User,Originals,FIFA Stories,1,0,2026-06-03
+E00206,Target,Arabic,New World Cup User,Highlights,Top 10 Saves,0,0,2026-06-03
+E00207,Target,English,Existing Football User,Highlights,Goal Fest,0,0,2026-06-20
+E00208,Target,English,Existing Football User,Magazine Shows,Match Day,0,0,2026-06-17
+E00209,Target,English,New World Cup User,Highlights,Best Goals WC26,1,0,2026-06-29
+E00210,Target,English,Existing Football User,Magazine Shows,WC Weekly,0,0,2026-06-11
+E00211,Target,English,Existing Football User,Pre-match Analysis,Pre-Match Special,0,1,2026-06-12
+E00212,Target,English,New World Cup User,Magazine Shows,Match Day,0,1,2026-06-24
+E00213,Target,Arabic,Existing Football User,Originals,The Last Match,1,0,2026-06-30
+E00214,Target,English,New World Cup User,Magazine Shows,Studio 26,1,0,2026-06-13
+E00215,Target,Arabic,Existing Football User,Originals,The Last Match,0,0,2026-06-13
+E00216,Target,English,Existing Football User,Highlights,Top 10 Saves,1,1,2026-06-16
+E00217,Target,English,Existing Football User,Documentaries,90 Minutes,1,1,2026-06-28
+E00218,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,1,0,2026-06-06
+E00219,Target,Arabic,New World Cup User,Documentaries,Road to Glory,0,0,2026-06-20
+E00220,Target,Arabic,New World Cup User,Highlights,Goal Fest,1,0,2026-06-21
+E00221,Target,English,New World Cup User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-11
+E00222,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-14
+E00223,Target,English,Existing Football User,Originals,The Last Match,0,0,2026-06-19
+E00224,Target,Arabic,Existing Football User,Originals,Team Spirit,0,0,2026-06-27
+E00225,Control,English,New World Cup User,Documentaries,The Beautiful Game,0,1,2026-06-25
+E00226,Target,English,Existing Football User,Pre-match Analysis,The Preview,1,0,2026-06-24
+E00227,Target,English,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-25
+E00228,Target,Arabic,Existing Football User,Documentaries,The Beautiful Game,1,0,2026-06-18
+E00229,Target,English,New World Cup User,Magazine Shows,Match Day,1,0,2026-06-27
+E00230,Control,Arabic,Existing Football User,Originals,FIFA Stories,0,1,2026-06-26
+E00231,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,1,2026-06-10
+E00232,Target,English,Existing Football User,Originals,The Last Match,0,0,2026-06-15
+E00233,Target,Arabic,New World Cup User,Originals,FIFA Stories,0,0,2026-06-07
+E00234,Target,English,New World Cup User,Highlights,Top 10 Saves,1,1,2026-06-02
+E00235,Control,English,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-01
+E00236,Target,English,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-21
+E00237,Target,Arabic,Existing Football User,Highlights,Goal Fest,1,1,2026-06-05
+E00238,Target,Arabic,Existing Football User,Documentaries,The Beautiful Game,0,1,2026-06-14
+E00239,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,0,2026-06-13
+E00240,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,1,0,2026-06-09
+E00241,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,1,2026-06-25
+E00242,Target,Arabic,Existing Football User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-22
+E00243,Target,English,New World Cup User,Documentaries,90 Minutes,1,1,2026-06-19
+E00244,Target,Arabic,New World Cup User,Documentaries,The Beautiful Game,0,0,2026-06-12
+E00245,Target,Arabic,New World Cup User,Highlights,Top 10 Saves,1,0,2026-06-24
+E00246,Target,English,New World Cup User,Pre-match Analysis,The Preview,1,1,2026-06-20
+E00247,Target,Arabic,New World Cup User,Originals,The Last Match,1,1,2026-06-01
+E00248,Target,English,Existing Football User,Highlights,Best Goals WC26,1,0,2026-06-24
+E00249,Control,Arabic,Existing Football User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-29
+E00250,Target,English,New World Cup User,Magazine Shows,WC Weekly,0,1,2026-06-29
+E00251,Control,English,Existing Football User,Pre-match Analysis,Kick-Off Show,1,1,2026-06-06
+E00252,Control,Arabic,New World Cup User,Magazine Shows,Match Day,1,0,2026-06-25
+E00253,Target,English,New World Cup User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-08
+E00254,Target,Arabic,Existing Football User,Documentaries,Road to Glory,0,0,2026-06-30
+E00255,Target,English,New World Cup User,Pre-match Analysis,Tactics Board,1,0,2026-06-21
+E00256,Target,English,New World Cup User,Documentaries,The Beautiful Game,1,1,2026-06-25
+E00257,Target,Arabic,New World Cup User,Highlights,Daily Highlights,1,0,2026-06-26
+E00258,Control,Arabic,Existing Football User,Magazine Shows,Pitch Talk,1,1,2026-06-08
+E00259,Target,English,New World Cup User,Documentaries,90 Minutes,1,0,2026-06-07
+E00260,Target,English,Existing Football User,Documentaries,90 Minutes,1,0,2026-06-06
+E00261,Control,Arabic,Existing Football User,Originals,Behind the Badge,0,1,2026-06-09
+E00262,Target,English,Existing Football User,Highlights,Goal Fest,0,0,2026-06-02
+E00263,Control,English,New World Cup User,Highlights,Best Goals WC26,1,1,2026-06-12
+E00264,Target,English,Existing Football User,Originals,Behind the Badge,0,0,2026-06-11
+E00265,Target,English,New World Cup User,Highlights,Goal Fest,1,0,2026-06-25
+E00266,Target,English,New World Cup User,Originals,The Last Match,1,1,2026-06-05
+E00267,Target,English,New World Cup User,Magazine Shows,Pitch Talk,0,1,2026-06-30
+E00268,Control,Arabic,New World Cup User,Pre-match Analysis,Tactics Board,0,0,2026-06-27
+E00269,Target,English,Existing Football User,Magazine Shows,WC Weekly,0,0,2026-06-17
+E00270,Target,Arabic,New World Cup User,Pre-match Analysis,Tactics Board,0,0,2026-06-26
+E00271,Target,Arabic,New World Cup User,Originals,The Last Match,1,0,2026-06-08
+E00272,Target,English,Existing Football User,Highlights,Goal Fest,1,0,2026-06-25
+E00273,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,0,0,2026-06-10
+E00274,Target,English,New World Cup User,Highlights,Best Goals WC26,0,1,2026-06-01
+E00275,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,1,0,2026-06-04
+E00276,Target,English,New World Cup User,Documentaries,The Beautiful Game,1,0,2026-06-10
+E00277,Target,English,Existing Football User,Magazine Shows,WC Weekly,1,0,2026-06-09
+E00278,Target,English,Existing Football User,Magazine Shows,Match Day,0,0,2026-06-01
+E00279,Target,English,Existing Football User,Magazine Shows,Match Day,1,1,2026-06-24
+E00280,Control,Arabic,New World Cup User,Magazine Shows,Match Day,1,0,2026-06-02
+E00281,Target,English,Existing Football User,Pre-match Analysis,The Preview,1,0,2026-06-19
+E00282,Control,Arabic,New World Cup User,Documentaries,Sons of the Desert,1,0,2026-06-13
+E00283,Control,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,0,0,2026-06-29
+E00284,Target,Arabic,Existing Football User,Originals,Behind the Badge,1,0,2026-06-27
+E00285,Target,English,New World Cup User,Highlights,Best Goals WC26,1,0,2026-06-21
+E00286,Control,English,Existing Football User,Originals,Team Spirit,1,0,2026-06-19
+E00287,Control,Arabic,New World Cup User,Documentaries,Road to Glory,1,1,2026-06-20
+E00288,Target,English,New World Cup User,Originals,The Last Match,1,0,2026-06-23
+E00289,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,0,2026-06-14
+E00290,Target,Arabic,New World Cup User,Originals,The Last Match,1,0,2026-06-30
+E00291,Control,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,1,2026-06-07
+E00292,Target,English,New World Cup User,Magazine Shows,WC Weekly,0,0,2026-06-19
+E00293,Target,Arabic,Existing Football User,Highlights,Top 10 Saves,1,0,2026-06-13
+E00294,Target,Arabic,Existing Football User,Documentaries,The Beautiful Game,1,1,2026-06-29
+E00295,Control,English,Existing Football User,Magazine Shows,Pitch Talk,1,0,2026-06-16
+E00296,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,1,1,2026-06-17
+E00297,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,1,1,2026-06-25
+E00298,Target,English,Existing Football User,Originals,The Last Match,1,0,2026-06-28
+E00299,Target,English,Existing Football User,Highlights,Daily Highlights,1,0,2026-06-28
+E00300,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-06
+E00301,Target,English,New World Cup User,Documentaries,90 Minutes,1,0,2026-06-18
+E00302,Target,Arabic,Existing Football User,Originals,Behind the Badge,1,0,2026-06-26
+E00303,Control,English,New World Cup User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-16
+E00304,Target,English,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-11
+E00305,Target,Arabic,New World Cup User,Originals,Behind the Badge,0,0,2026-06-08
+E00306,Target,English,Existing Football User,Pre-match Analysis,Tactics Board,1,1,2026-06-27
+E00307,Target,English,New World Cup User,Originals,The Last Match,0,1,2026-06-20
+E00308,Control,Arabic,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-07
+E00309,Target,Arabic,Existing Football User,Originals,Team Spirit,1,0,2026-06-27
+E00310,Target,English,New World Cup User,Highlights,Goal Fest,1,1,2026-06-19
+E00311,Target,English,Existing Football User,Originals,FIFA Stories,1,0,2026-06-27
+E00312,Target,English,Existing Football User,Documentaries,Sons of the Desert,0,1,2026-06-16
+E00313,Target,English,New World Cup User,Highlights,Daily Highlights,1,0,2026-06-16
+E00314,Target,English,New World Cup User,Magazine Shows,Match Day,1,1,2026-06-12
+E00315,Target,Arabic,Existing Football User,Documentaries,The Beautiful Game,1,0,2026-06-05
+E00316,Target,English,Existing Football User,Documentaries,Road to Glory,1,1,2026-06-20
+E00317,Target,English,New World Cup User,Highlights,Top 10 Saves,1,0,2026-06-25
+E00318,Target,English,Existing Football User,Highlights,Best Goals WC26,0,1,2026-06-08
+E00319,Target,English,Existing Football User,Pre-match Analysis,Kick-Off Show,0,1,2026-06-24
+E00320,Target,English,New World Cup User,Documentaries,Road to Glory,1,0,2026-06-08
+E00321,Target,Arabic,Existing Football User,Highlights,Daily Highlights,1,1,2026-06-10
+E00322,Target,English,New World Cup User,Highlights,Top 10 Saves,1,1,2026-06-23
+E00323,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-07
+E00324,Control,English,New World Cup User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-20
+E00325,Target,English,Existing Football User,Originals,Team Spirit,0,0,2026-06-23
+E00326,Target,Arabic,New World Cup User,Highlights,Top 10 Saves,1,1,2026-06-08
+E00327,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,0,0,2026-06-19
+E00328,Target,Arabic,New World Cup User,Documentaries,90 Minutes,1,1,2026-06-01
+E00329,Target,English,New World Cup User,Documentaries,90 Minutes,1,1,2026-06-12
+E00330,Control,English,New World Cup User,Highlights,Top 10 Saves,1,0,2026-06-17
+E00331,Target,Arabic,Existing Football User,Magazine Shows,Match Day,1,1,2026-06-23
+E00332,Control,Arabic,Existing Football User,Originals,FIFA Stories,0,1,2026-06-05
+E00333,Target,English,New World Cup User,Highlights,Top 10 Saves,1,1,2026-06-03
+E00334,Target,Arabic,Existing Football User,Pre-match Analysis,Tactics Board,1,0,2026-06-14
+E00335,Control,Arabic,Existing Football User,Highlights,Best Goals WC26,1,1,2026-06-27
+E00336,Target,Arabic,New World Cup User,Pre-match Analysis,Pre-Match Special,0,1,2026-06-30
+E00337,Target,Arabic,New World Cup User,Highlights,Daily Highlights,1,1,2026-06-17
+E00338,Control,English,Existing Football User,Highlights,Best Goals WC26,0,0,2026-06-08
+E00339,Control,English,New World Cup User,Magazine Shows,Pitch Talk,1,0,2026-06-23
+E00340,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,1,0,2026-06-26
+E00341,Target,English,New World Cup User,Pre-match Analysis,The Preview,0,0,2026-06-12
+E00342,Target,English,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-05
+E00343,Control,Arabic,Existing Football User,Pre-match Analysis,Pre-Match Special,0,1,2026-06-29
+E00344,Target,English,New World Cup User,Originals,FIFA Stories,1,1,2026-06-01
+E00345,Target,Arabic,New World Cup User,Pre-match Analysis,Tactics Board,1,1,2026-06-08
+E00346,Target,Arabic,New World Cup User,Originals,The Last Match,1,0,2026-06-12
+E00347,Control,English,Existing Football User,Magazine Shows,WC Weekly,1,1,2026-06-21
+E00348,Control,English,New World Cup User,Documentaries,The Beautiful Game,1,0,2026-06-21
+E00349,Control,Arabic,New World Cup User,Originals,The Last Match,1,0,2026-06-28
+E00350,Target,English,New World Cup User,Highlights,Daily Highlights,0,1,2026-06-04
+E00351,Target,English,Existing Football User,Documentaries,Sons of the Desert,0,0,2026-06-15
+E00352,Target,English,New World Cup User,Pre-match Analysis,Pre-Match Special,1,1,2026-06-17
+E00353,Target,English,New World Cup User,Magazine Shows,WC Weekly,0,0,2026-06-24
+E00354,Target,Arabic,Existing Football User,Magazine Shows,Match Day,0,0,2026-06-24
+E00355,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,1,1,2026-06-08
+E00356,Target,English,Existing Football User,Highlights,Top 10 Saves,1,1,2026-06-26
+E00357,Control,Arabic,New World Cup User,Pre-match Analysis,Pre-Match Special,0,1,2026-06-03
+E00358,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,0,2026-06-06
+E00359,Control,English,Existing Football User,Documentaries,90 Minutes,0,0,2026-06-24
+E00360,Control,English,New World Cup User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-05
+E00361,Target,English,Existing Football User,Highlights,Best Goals WC26,1,1,2026-06-17
+E00362,Target,English,Existing Football User,Pre-match Analysis,Pre-Match Special,0,1,2026-06-27
+E00363,Target,Arabic,Existing Football User,Highlights,Goal Fest,0,0,2026-06-23
+E00364,Target,English,New World Cup User,Magazine Shows,Studio 26,1,1,2026-06-08
+E00365,Target,English,Existing Football User,Originals,FIFA Stories,1,0,2026-06-05
+E00366,Target,Arabic,New World Cup User,Originals,FIFA Stories,1,0,2026-06-16
+E00367,Control,English,Existing Football User,Magazine Shows,Studio 26,0,0,2026-06-20
+E00368,Control,English,Existing Football User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-04
+E00369,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,1,1,2026-06-26
+E00370,Control,Arabic,Existing Football User,Documentaries,90 Minutes,1,1,2026-06-27
+E00371,Target,English,Existing Football User,Documentaries,Sons of the Desert,0,1,2026-06-02
+E00372,Control,Arabic,Existing Football User,Pre-match Analysis,Kick-Off Show,0,1,2026-06-06
+E00373,Control,English,Existing Football User,Originals,Behind the Badge,0,0,2026-06-27
+E00374,Target,Arabic,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-17
+E00375,Target,Arabic,New World Cup User,Documentaries,90 Minutes,0,0,2026-06-23
+E00376,Target,English,New World Cup User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-13
+E00377,Target,Arabic,New World Cup User,Originals,Team Spirit,1,1,2026-06-05
+E00378,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,0,1,2026-06-24
+E00379,Target,English,New World Cup User,Pre-match Analysis,Tactics Board,0,0,2026-06-04
+E00380,Control,English,Existing Football User,Magazine Shows,WC Weekly,1,0,2026-06-12
+E00381,Target,Arabic,New World Cup User,Magazine Shows,Pitch Talk,0,0,2026-06-13
+E00382,Target,English,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-22
+E00383,Target,Arabic,Existing Football User,Highlights,Daily Highlights,1,0,2026-06-11
+E00384,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,0,0,2026-06-24
+E00385,Target,Arabic,Existing Football User,Originals,Behind the Badge,0,1,2026-06-01
+E00386,Target,Arabic,Existing Football User,Highlights,Daily Highlights,0,0,2026-06-24
+E00387,Target,English,Existing Football User,Magazine Shows,WC Weekly,1,0,2026-06-18
+E00388,Target,English,Existing Football User,Originals,Behind the Badge,1,0,2026-06-26
+E00389,Target,English,New World Cup User,Pre-match Analysis,Tactics Board,0,0,2026-06-08
+E00390,Target,English,Existing Football User,Highlights,Daily Highlights,1,1,2026-06-08
+E00391,Target,English,Existing Football User,Magazine Shows,WC Weekly,1,0,2026-06-26
+E00392,Control,English,Existing Football User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-16
+E00393,Control,Arabic,New World Cup User,Documentaries,Sons of the Desert,0,0,2026-06-24
+E00394,Target,Arabic,Existing Football User,Magazine Shows,WC Weekly,1,1,2026-06-16
+E00395,Target,Arabic,New World Cup User,Highlights,Daily Highlights,1,1,2026-06-29
+E00396,Target,Arabic,New World Cup User,Documentaries,The Beautiful Game,1,0,2026-06-18
+E00397,Target,Arabic,Existing Football User,Documentaries,Road to Glory,0,1,2026-06-25
+E00398,Target,English,Existing Football User,Documentaries,90 Minutes,1,0,2026-06-27
+E00399,Target,English,Existing Football User,Magazine Shows,Match Day,0,0,2026-06-03
+E00400,Target,English,Existing Football User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-20
+E00401,Control,Arabic,Existing Football User,Highlights,Top 10 Saves,1,0,2026-06-23
+E00402,Target,English,New World Cup User,Documentaries,The Beautiful Game,0,0,2026-06-14
+E00403,Target,English,Existing Football User,Highlights,Top 10 Saves,0,0,2026-06-19
+E00404,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,1,0,2026-06-07
+E00405,Control,Arabic,New World Cup User,Highlights,Best Goals WC26,0,1,2026-06-22
+E00406,Control,English,New World Cup User,Documentaries,The Beautiful Game,0,1,2026-06-27
+E00407,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,1,0,2026-06-25
+E00408,Target,Arabic,New World Cup User,Highlights,Daily Highlights,1,0,2026-06-02
+E00409,Control,Arabic,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-09
+E00410,Target,English,Existing Football User,Pre-match Analysis,Pre-Match Special,1,1,2026-06-10
+E00411,Target,Arabic,New World Cup User,Originals,Team Spirit,0,0,2026-06-30
+E00412,Target,Arabic,New World Cup User,Documentaries,Road to Glory,0,0,2026-06-11
+E00413,Control,Arabic,Existing Football User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-27
+E00414,Target,Arabic,New World Cup User,Pre-match Analysis,Pre-Match Special,1,1,2026-06-30
+E00415,Target,English,Existing Football User,Originals,Behind the Badge,0,1,2026-06-04
+E00416,Control,Arabic,Existing Football User,Magazine Shows,WC Weekly,0,0,2026-06-18
+E00417,Target,Arabic,Existing Football User,Documentaries,The Beautiful Game,1,0,2026-06-19
+E00418,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,0,1,2026-06-24
+E00419,Control,Arabic,New World Cup User,Documentaries,The Beautiful Game,0,0,2026-06-27
+E00420,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,1,1,2026-06-27
+E00421,Target,English,Existing Football User,Magazine Shows,Studio 26,0,1,2026-06-08
+E00422,Target,Arabic,New World Cup User,Originals,The Last Match,1,1,2026-06-19
+E00423,Target,English,Existing Football User,Pre-match Analysis,Tactics Board,0,0,2026-06-22
+E00424,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,0,0,2026-06-05
+E00425,Control,English,Existing Football User,Pre-match Analysis,Kick-Off Show,0,0,2026-06-27
+E00426,Target,English,Existing Football User,Originals,Team Spirit,1,1,2026-06-21
+E00427,Target,English,New World Cup User,Magazine Shows,Studio 26,0,0,2026-06-15
+E00428,Target,Arabic,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-22
+E00429,Target,English,New World Cup User,Magazine Shows,WC Weekly,1,0,2026-06-06
+E00430,Target,Arabic,New World Cup User,Pre-match Analysis,Pre-Match Special,1,1,2026-06-10
+E00431,Target,English,Existing Football User,Magazine Shows,WC Weekly,1,0,2026-06-03
+E00432,Target,English,New World Cup User,Highlights,Goal Fest,1,0,2026-06-27
+E00433,Target,English,New World Cup User,Highlights,Goal Fest,1,0,2026-06-01
+E00434,Target,English,New World Cup User,Highlights,Top 10 Saves,1,0,2026-06-17
+E00435,Target,Arabic,New World Cup User,Pre-match Analysis,Pre-Match Special,0,1,2026-06-19
+E00436,Control,Arabic,Existing Football User,Originals,Behind the Badge,0,0,2026-06-22
+E00437,Control,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,1,1,2026-06-25
+E00438,Target,English,New World Cup User,Documentaries,90 Minutes,1,1,2026-06-10
+E00439,Target,English,New World Cup User,Originals,Team Spirit,0,0,2026-06-20
+E00440,Target,English,Existing Football User,Magazine Shows,Studio 26,0,0,2026-06-11
+E00441,Target,English,New World Cup User,Magazine Shows,Pitch Talk,1,0,2026-06-14
+E00442,Control,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,0,2026-06-07
+E00443,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,0,1,2026-06-07
+E00444,Target,Arabic,Existing Football User,Originals,FIFA Stories,0,1,2026-06-09
+E00445,Target,English,Existing Football User,Documentaries,The Beautiful Game,0,0,2026-06-03
+E00446,Control,Arabic,Existing Football User,Magazine Shows,Match Day,0,0,2026-06-23
+E00447,Target,English,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-08
+E00448,Control,English,Existing Football User,Magazine Shows,Match Day,0,0,2026-06-18
+E00449,Target,Arabic,Existing Football User,Pre-match Analysis,Kick-Off Show,0,1,2026-06-27
+E00450,Target,Arabic,Existing Football User,Highlights,Top 10 Saves,1,1,2026-06-02
+E00451,Target,Arabic,Existing Football User,Documentaries,Road to Glory,0,0,2026-06-12
+E00452,Target,English,New World Cup User,Highlights,Best Goals WC26,0,1,2026-06-13
+E00453,Target,English,Existing Football User,Pre-match Analysis,Tactics Board,0,0,2026-06-04
+E00454,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,0,2026-06-23
+E00455,Control,English,New World Cup User,Magazine Shows,Pitch Talk,0,0,2026-06-22
+E00456,Target,English,New World Cup User,Highlights,Goal Fest,1,1,2026-06-07
+E00457,Control,Arabic,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-30
+E00458,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,0,0,2026-06-28
+E00459,Target,English,New World Cup User,Pre-match Analysis,Tactics Board,1,1,2026-06-29
+E00460,Target,Arabic,Existing Football User,Documentaries,Road to Glory,1,0,2026-06-11
+E00461,Target,Arabic,New World Cup User,Originals,Behind the Badge,1,0,2026-06-02
+E00462,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,1,0,2026-06-03
+E00463,Target,Arabic,New World Cup User,Magazine Shows,Pitch Talk,1,0,2026-06-11
+E00464,Target,Arabic,Existing Football User,Documentaries,Road to Glory,1,1,2026-06-24
+E00465,Control,Arabic,Existing Football User,Highlights,Goal Fest,0,1,2026-06-26
+E00466,Control,English,Existing Football User,Pre-match Analysis,Kick-Off Show,0,0,2026-06-11
+E00467,Target,Arabic,New World Cup User,Originals,Behind the Badge,1,0,2026-06-05
+E00468,Target,English,New World Cup User,Magazine Shows,WC Weekly,1,0,2026-06-10
+E00469,Target,Arabic,New World Cup User,Magazine Shows,Studio 26,1,0,2026-06-01
+E00470,Target,Arabic,Existing Football User,Originals,Team Spirit,1,0,2026-06-03
+E00471,Target,English,Existing Football User,Magazine Shows,Studio 26,0,1,2026-06-05
+E00472,Target,Arabic,New World Cup User,Originals,FIFA Stories,1,0,2026-06-26
+E00473,Target,Arabic,Existing Football User,Magazine Shows,WC Weekly,1,1,2026-06-20
+E00474,Control,English,New World Cup User,Documentaries,Sons of the Desert,1,1,2026-06-26
+E00475,Target,Arabic,New World Cup User,Originals,FIFA Stories,0,0,2026-06-24
+E00476,Target,English,Existing Football User,Pre-match Analysis,The Preview,1,0,2026-06-17
+E00477,Target,Arabic,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-05
+E00478,Target,English,Existing Football User,Pre-match Analysis,Pre-Match Special,1,1,2026-06-08
+E00479,Control,Arabic,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-25
+E00480,Target,English,Existing Football User,Magazine Shows,Match Day,0,0,2026-06-06
+E00481,Target,English,New World Cup User,Documentaries,Sons of the Desert,1,1,2026-06-22
+E00482,Target,Arabic,New World Cup User,Highlights,Best Goals WC26,1,0,2026-06-10
+E00483,Target,English,New World Cup User,Pre-match Analysis,Kick-Off Show,0,0,2026-06-12
+E00484,Target,Arabic,New World Cup User,Originals,Team Spirit,1,0,2026-06-02
+E00485,Target,English,Existing Football User,Originals,FIFA Stories,0,1,2026-06-07
+E00486,Control,Arabic,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-04
+E00487,Target,Arabic,Existing Football User,Documentaries,Road to Glory,1,0,2026-06-17
+E00488,Target,Arabic,Existing Football User,Pre-match Analysis,Tactics Board,1,1,2026-06-22
+E00489,Target,Arabic,Existing Football User,Magazine Shows,Match Day,0,1,2026-06-14
+E00490,Control,Arabic,Existing Football User,Pre-match Analysis,The Preview,0,0,2026-06-13
+E00491,Target,English,Existing Football User,Documentaries,Sons of the Desert,1,1,2026-06-26
+E00492,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,0,2026-06-17
+E00493,Control,Arabic,New World Cup User,Originals,The Last Match,0,0,2026-06-24
+E00494,Target,Arabic,New World Cup User,Documentaries,Sons of the Desert,1,0,2026-06-12
+E00495,Target,Arabic,Existing Football User,Originals,FIFA Stories,0,0,2026-06-21
+E00496,Target,English,Existing Football User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-16
+E00497,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,1,0,2026-06-07
+E00498,Target,Arabic,Existing Football User,Highlights,Goal Fest,1,1,2026-06-03
+E00499,Target,Arabic,New World Cup User,Highlights,Goal Fest,0,1,2026-06-12
+E00500,Target,English,Existing Football User,Magazine Shows,Studio 26,1,0,2026-06-24
+E00501,Target,Arabic,Existing Football User,Highlights,Goal Fest,0,1,2026-06-02
+E00502,Control,Arabic,Existing Football User,Originals,The Last Match,1,0,2026-06-27
+E00503,Control,Arabic,New World Cup User,Highlights,Goal Fest,1,0,2026-06-07
+E00504,Target,Arabic,Existing Football User,Originals,Behind the Badge,1,0,2026-06-17
+E00505,Target,English,Existing Football User,Magazine Shows,Studio 26,1,0,2026-06-29
+E00506,Target,Arabic,New World Cup User,Originals,FIFA Stories,1,1,2026-06-18
+E00507,Target,English,Existing Football User,Originals,Behind the Badge,1,0,2026-06-30
+E00508,Target,Arabic,New World Cup User,Documentaries,Sons of the Desert,1,1,2026-06-24
+E00509,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,1,2026-06-12
+E00510,Control,Arabic,New World Cup User,Originals,Team Spirit,0,0,2026-06-15
+E00511,Control,Arabic,New World Cup User,Pre-match Analysis,The Preview,0,0,2026-06-13
+E00512,Control,English,New World Cup User,Documentaries,The Beautiful Game,1,0,2026-06-19
+E00513,Target,Arabic,Existing Football User,Originals,FIFA Stories,1,0,2026-06-29
+E00514,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,1,0,2026-06-27
+E00515,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,0,2026-06-18
+E00516,Target,English,Existing Football User,Magazine Shows,Studio 26,0,1,2026-06-15
+E00517,Target,Arabic,New World Cup User,Pre-match Analysis,Tactics Board,1,1,2026-06-22
+E00518,Target,English,Existing Football User,Pre-match Analysis,Tactics Board,0,0,2026-06-01
+E00519,Control,English,Existing Football User,Originals,The Last Match,0,1,2026-06-05
+E00520,Control,English,New World Cup User,Documentaries,Sons of the Desert,1,0,2026-06-18
+E00521,Target,English,New World Cup User,Documentaries,90 Minutes,1,1,2026-06-21
+E00522,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,0,1,2026-06-27
+E00523,Target,Arabic,Existing Football User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-25
+E00524,Target,Arabic,New World Cup User,Magazine Shows,Pitch Talk,1,0,2026-06-10
+E00525,Control,English,Existing Football User,Documentaries,Sons of the Desert,0,1,2026-06-01
+E00526,Target,English,New World Cup User,Magazine Shows,WC Weekly,0,1,2026-06-25
+E00527,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,0,1,2026-06-27
+E00528,Control,Arabic,Existing Football User,Magazine Shows,WC Weekly,0,0,2026-06-10
+E00529,Target,Arabic,New World Cup User,Documentaries,90 Minutes,1,1,2026-06-21
+E00530,Target,English,New World Cup User,Highlights,Best Goals WC26,0,1,2026-06-09
+E00531,Target,English,New World Cup User,Magazine Shows,Match Day,1,1,2026-06-15
+E00532,Control,English,New World Cup User,Highlights,Top 10 Saves,1,0,2026-06-03
+E00533,Target,English,New World Cup User,Magazine Shows,WC Weekly,0,0,2026-06-30
+E00534,Target,English,Existing Football User,Magazine Shows,Match Day,1,1,2026-06-07
+E00535,Target,Arabic,Existing Football User,Originals,Behind the Badge,0,1,2026-06-12
+E00536,Control,English,Existing Football User,Magazine Shows,WC Weekly,0,1,2026-06-29
+E00537,Control,Arabic,Existing Football User,Pre-match Analysis,Tactics Board,1,1,2026-06-25
+E00538,Target,English,Existing Football User,Magazine Shows,Studio 26,1,0,2026-06-13
+E00539,Target,Arabic,New World Cup User,Documentaries,The Beautiful Game,1,0,2026-06-24
+E00540,Control,English,Existing Football User,Highlights,Goal Fest,1,1,2026-06-27
+E00541,Target,English,New World Cup User,Documentaries,Sons of the Desert,1,0,2026-06-27
+E00542,Target,English,Existing Football User,Highlights,Goal Fest,0,0,2026-06-17
+E00543,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,0,0,2026-06-29
+E00544,Control,Arabic,Existing Football User,Highlights,Daily Highlights,0,0,2026-06-06
+E00545,Target,English,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-27
+E00546,Target,Arabic,Existing Football User,Pre-match Analysis,Tactics Board,1,0,2026-06-14
+E00547,Target,Arabic,New World Cup User,Documentaries,90 Minutes,0,0,2026-06-24
+E00548,Target,English,Existing Football User,Magazine Shows,Studio 26,0,0,2026-06-16
+E00549,Target,English,Existing Football User,Documentaries,The Beautiful Game,0,0,2026-06-05
+E00550,Target,Arabic,Existing Football User,Highlights,Daily Highlights,1,1,2026-06-13
+E00551,Target,English,Existing Football User,Originals,The Last Match,0,0,2026-06-13
+E00552,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,1,2026-06-15
+E00553,Target,Arabic,New World Cup User,Highlights,Goal Fest,1,0,2026-06-26
+E00554,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,0,0,2026-06-20
+E00555,Target,Arabic,New World Cup User,Pre-match Analysis,Pre-Match Special,1,1,2026-06-05
+E00556,Target,English,Existing Football User,Documentaries,The Beautiful Game,1,0,2026-06-17
+E00557,Target,Arabic,New World Cup User,Documentaries,The Beautiful Game,0,1,2026-06-18
+E00558,Target,English,New World Cup User,Highlights,Top 10 Saves,1,0,2026-06-09
+E00559,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,1,0,2026-06-18
+E00560,Target,English,New World Cup User,Highlights,Top 10 Saves,1,0,2026-06-16
+E00561,Control,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,1,1,2026-06-21
+E00562,Target,English,Existing Football User,Originals,FIFA Stories,0,0,2026-06-25
+E00563,Control,English,New World Cup User,Magazine Shows,WC Weekly,1,1,2026-06-09
+E00564,Control,Arabic,New World Cup User,Originals,Behind the Badge,1,0,2026-06-13
+E00565,Target,English,Existing Football User,Highlights,Daily Highlights,0,0,2026-06-06
+E00566,Target,Arabic,New World Cup User,Magazine Shows,Pitch Talk,0,1,2026-06-29
+E00567,Control,Arabic,New World Cup User,Magazine Shows,Pitch Talk,1,0,2026-06-30
+E00568,Target,English,New World Cup User,Highlights,Daily Highlights,1,0,2026-06-06
+E00569,Target,Arabic,Existing Football User,Originals,Behind the Badge,1,0,2026-06-17
+E00570,Target,English,New World Cup User,Originals,FIFA Stories,0,0,2026-06-09
+E00571,Control,English,Existing Football User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-10
+E00572,Control,Arabic,Existing Football User,Highlights,Daily Highlights,0,1,2026-06-22
+E00573,Control,Arabic,Existing Football User,Magazine Shows,Studio 26,1,1,2026-06-27
+E00574,Target,Arabic,New World Cup User,Documentaries,Road to Glory,0,1,2026-06-10
+E00575,Target,English,New World Cup User,Documentaries,The Beautiful Game,0,1,2026-06-07
+E00576,Target,English,Existing Football User,Magazine Shows,Studio 26,0,0,2026-06-04
+E00577,Target,English,New World Cup User,Originals,FIFA Stories,1,0,2026-06-28
+E00578,Target,Arabic,New World Cup User,Documentaries,Road to Glory,0,1,2026-06-13
+E00579,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-25
+E00580,Target,English,New World Cup User,Highlights,Top 10 Saves,0,0,2026-06-28
+E00581,Target,English,Existing Football User,Highlights,Daily Highlights,0,0,2026-06-25
+E00582,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,0,0,2026-06-15
+E00583,Target,Arabic,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-29
+E00584,Target,English,New World Cup User,Originals,Behind the Badge,0,0,2026-06-10
+E00585,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,0,0,2026-06-14
+E00586,Control,Arabic,Existing Football User,Documentaries,Road to Glory,1,0,2026-06-12
+E00587,Target,Arabic,Existing Football User,Highlights,Top 10 Saves,0,0,2026-06-27
+E00588,Target,English,New World Cup User,Documentaries,Sons of the Desert,1,1,2026-06-02
+E00589,Target,English,Existing Football User,Documentaries,The Beautiful Game,1,0,2026-06-17
+E00590,Target,English,New World Cup User,Highlights,Goal Fest,0,0,2026-06-30
+E00591,Target,English,New World Cup User,Originals,The Last Match,1,1,2026-06-12
+E00592,Control,Arabic,New World Cup User,Originals,Team Spirit,0,1,2026-06-07
+E00593,Control,Arabic,Existing Football User,Highlights,Top 10 Saves,0,1,2026-06-20
+E00594,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-29
+E00595,Target,Arabic,New World Cup User,Originals,The Last Match,1,0,2026-06-15
+E00596,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,1,2026-06-06
+E00597,Control,English,New World Cup User,Originals,Behind the Badge,0,0,2026-06-21
+E00598,Target,Arabic,New World Cup User,Highlights,Best Goals WC26,1,0,2026-06-17
+E00599,Control,English,New World Cup User,Pre-match Analysis,Tactics Board,0,0,2026-06-18
+E00600,Control,English,Existing Football User,Magazine Shows,Pitch Talk,1,0,2026-06-07
+E00601,Target,Arabic,Existing Football User,Documentaries,The Beautiful Game,1,1,2026-06-19
+E00602,Control,Arabic,New World Cup User,Highlights,Best Goals WC26,0,0,2026-06-22
+E00603,Control,Arabic,New World Cup User,Highlights,Top 10 Saves,1,1,2026-06-21
+E00604,Target,Arabic,Existing Football User,Originals,Behind the Badge,1,1,2026-06-24
+E00605,Target,English,Existing Football User,Highlights,Goal Fest,1,0,2026-06-19
+E00606,Target,English,New World Cup User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-27
+E00607,Control,English,Existing Football User,Highlights,Top 10 Saves,0,1,2026-06-11
+E00608,Target,English,New World Cup User,Documentaries,Sons of the Desert,1,0,2026-06-11
+E00609,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,0,0,2026-06-04
+E00610,Target,English,New World Cup User,Documentaries,Sons of the Desert,1,0,2026-06-09
+E00611,Target,English,New World Cup User,Pre-match Analysis,The Preview,1,1,2026-06-24
+E00612,Target,English,New World Cup User,Highlights,Top 10 Saves,0,0,2026-06-02
+E00613,Target,Arabic,Existing Football User,Documentaries,The Beautiful Game,0,1,2026-06-13
+E00614,Target,English,Existing Football User,Magazine Shows,WC Weekly,1,0,2026-06-07
+E00615,Control,Arabic,Existing Football User,Highlights,Top 10 Saves,0,0,2026-06-19
+E00616,Target,Arabic,Existing Football User,Originals,Team Spirit,1,0,2026-06-24
+E00617,Target,Arabic,Existing Football User,Documentaries,90 Minutes,0,1,2026-06-22
+E00618,Target,Arabic,Existing Football User,Highlights,Goal Fest,1,1,2026-06-05
+E00619,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,1,0,2026-06-02
+E00620,Target,Arabic,Existing Football User,Documentaries,90 Minutes,1,1,2026-06-06
+E00621,Target,Arabic,New World Cup User,Highlights,Daily Highlights,1,0,2026-06-25
+E00622,Target,Arabic,Existing Football User,Pre-match Analysis,Tactics Board,1,0,2026-06-14
+E00623,Target,Arabic,Existing Football User,Highlights,Goal Fest,0,0,2026-06-10
+E00624,Target,Arabic,Existing Football User,Originals,Team Spirit,1,1,2026-06-26
+E00625,Target,English,Existing Football User,Originals,FIFA Stories,0,1,2026-06-05
+E00626,Target,English,New World Cup User,Highlights,Best Goals WC26,0,0,2026-06-23
+E00627,Control,English,New World Cup User,Documentaries,Road to Glory,0,1,2026-06-22
+E00628,Target,English,Existing Football User,Pre-match Analysis,The Preview,0,0,2026-06-08
+E00629,Control,Arabic,Existing Football User,Originals,Team Spirit,1,0,2026-06-11
+E00630,Target,English,New World Cup User,Highlights,Top 10 Saves,0,1,2026-06-03
+E00631,Control,Arabic,Existing Football User,Highlights,Goal Fest,0,0,2026-06-12
+E00632,Target,English,Existing Football User,Pre-match Analysis,The Preview,1,1,2026-06-20
+E00633,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,1,2026-06-28
+E00634,Target,Arabic,New World Cup User,Originals,Behind the Badge,0,1,2026-06-29
+E00635,Target,Arabic,Existing Football User,Originals,FIFA Stories,1,1,2026-06-20
+E00636,Target,English,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-10
+E00637,Target,English,New World Cup User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-06
+E00638,Control,English,New World Cup User,Documentaries,Sons of the Desert,0,0,2026-06-14
+E00639,Target,Arabic,Existing Football User,Documentaries,Road to Glory,1,1,2026-06-30
+E00640,Target,English,Existing Football User,Documentaries,90 Minutes,1,0,2026-06-03
+E00641,Target,English,Existing Football User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-22
+E00642,Target,Arabic,Existing Football User,Pre-match Analysis,Kick-Off Show,0,1,2026-06-11
+E00643,Target,English,Existing Football User,Highlights,Best Goals WC26,1,1,2026-06-02
+E00644,Target,Arabic,New World Cup User,Documentaries,Road to Glory,0,1,2026-06-17
+E00645,Control,English,New World Cup User,Highlights,Goal Fest,1,0,2026-06-01
+E00646,Target,English,Existing Football User,Originals,Behind the Badge,1,0,2026-06-20
+E00647,Target,Arabic,Existing Football User,Documentaries,Road to Glory,1,0,2026-06-26
+E00648,Control,Arabic,New World Cup User,Highlights,Goal Fest,0,0,2026-06-29
+E00649,Target,Arabic,Existing Football User,Originals,FIFA Stories,1,0,2026-06-23
+E00650,Control,Arabic,Existing Football User,Documentaries,The Beautiful Game,1,0,2026-06-10
+E00651,Control,Arabic,Existing Football User,Documentaries,Road to Glory,1,0,2026-06-15
+E00652,Target,English,Existing Football User,Documentaries,The Beautiful Game,0,0,2026-06-18
+E00653,Target,English,Existing Football User,Originals,Team Spirit,0,0,2026-06-11
+E00654,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,0,1,2026-06-27
+E00655,Target,English,New World Cup User,Pre-match Analysis,The Preview,0,0,2026-06-07
+E00656,Target,English,Existing Football User,Magazine Shows,Studio 26,0,0,2026-06-04
+E00657,Target,English,Existing Football User,Highlights,Top 10 Saves,1,0,2026-06-16
+E00658,Target,English,Existing Football User,Highlights,Top 10 Saves,0,0,2026-06-07
+E00659,Target,English,Existing Football User,Pre-match Analysis,The Preview,0,1,2026-06-27
+E00660,Control,Arabic,New World Cup User,Highlights,Best Goals WC26,1,1,2026-06-15
+E00661,Control,Arabic,Existing Football User,Documentaries,90 Minutes,1,1,2026-06-22
+E00662,Target,English,Existing Football User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-25
+E00663,Target,English,Existing Football User,Documentaries,Road to Glory,0,0,2026-06-24
+E00664,Control,English,Existing Football User,Documentaries,90 Minutes,0,0,2026-06-05
+E00665,Target,Arabic,New World Cup User,Originals,Team Spirit,1,0,2026-06-17
+E00666,Target,Arabic,Existing Football User,Documentaries,Road to Glory,1,1,2026-06-16
+E00667,Target,Arabic,Existing Football User,Highlights,Goal Fest,1,1,2026-06-13
+E00668,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,0,0,2026-06-26
+E00669,Target,English,Existing Football User,Magazine Shows,Studio 26,0,0,2026-06-30
+E00670,Control,Arabic,New World Cup User,Documentaries,The Beautiful Game,1,1,2026-06-29
+E00671,Target,English,Existing Football User,Originals,The Last Match,1,0,2026-06-21
+E00672,Target,English,New World Cup User,Pre-match Analysis,Tactics Board,1,0,2026-06-04
+E00673,Target,English,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-30
+E00674,Target,English,New World Cup User,Magazine Shows,Pitch Talk,0,0,2026-06-14
+E00675,Target,English,New World Cup User,Highlights,Best Goals WC26,1,1,2026-06-11
+E00676,Target,Arabic,Existing Football User,Originals,Team Spirit,0,1,2026-06-18
+E00677,Target,Arabic,Existing Football User,Originals,The Last Match,1,0,2026-06-20
+E00678,Target,English,Existing Football User,Originals,The Last Match,1,0,2026-06-25
+E00679,Target,Arabic,New World Cup User,Documentaries,Road to Glory,1,1,2026-06-27
+E00680,Target,Arabic,New World Cup User,Pre-match Analysis,Tactics Board,0,0,2026-06-23
+E00681,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,0,1,2026-06-08
+E00682,Target,English,New World Cup User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-23
+E00683,Target,Arabic,New World Cup User,Originals,Behind the Badge,1,1,2026-06-20
+E00684,Target,English,Existing Football User,Highlights,Daily Highlights,1,0,2026-06-14
+E00685,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,0,1,2026-06-09
+E00686,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,0,1,2026-06-09
+E00687,Target,English,New World Cup User,Pre-match Analysis,Kick-Off Show,0,0,2026-06-20
+E00688,Target,English,New World Cup User,Originals,The Last Match,0,0,2026-06-26
+E00689,Control,English,New World Cup User,Originals,The Last Match,0,0,2026-06-28
+E00690,Target,English,New World Cup User,Originals,FIFA Stories,1,0,2026-06-24
+E00691,Target,Arabic,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-29
+E00692,Target,English,Existing Football User,Documentaries,90 Minutes,1,0,2026-06-02
+E00693,Target,English,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-21
+E00694,Target,English,New World Cup User,Originals,FIFA Stories,1,1,2026-06-01
+E00695,Target,English,Existing Football User,Originals,Behind the Badge,1,1,2026-06-13
+E00696,Control,English,New World Cup User,Magazine Shows,Studio 26,1,0,2026-06-14
+E00697,Target,Arabic,New World Cup User,Originals,The Last Match,0,0,2026-06-15
+E00698,Target,Arabic,New World Cup User,Originals,Behind the Badge,0,1,2026-06-17
+E00699,Control,Arabic,New World Cup User,Highlights,Top 10 Saves,0,0,2026-06-26
+E00700,Target,English,Existing Football User,Highlights,Goal Fest,1,1,2026-06-04
+E00701,Target,English,New World Cup User,Highlights,Best Goals WC26,1,0,2026-06-14
+E00702,Target,Arabic,Existing Football User,Highlights,Top 10 Saves,1,0,2026-06-26
+E00703,Target,English,New World Cup User,Originals,The Last Match,1,1,2026-06-03
+E00704,Target,Arabic,Existing Football User,Highlights,Daily Highlights,0,1,2026-06-12
+E00705,Control,English,New World Cup User,Documentaries,Road to Glory,0,0,2026-06-01
+E00706,Target,English,New World Cup User,Magazine Shows,Pitch Talk,1,1,2026-06-19
+E00707,Target,English,New World Cup User,Documentaries,The Beautiful Game,1,0,2026-06-14
+E00708,Target,Arabic,New World Cup User,Documentaries,Sons of the Desert,0,0,2026-06-02
+E00709,Target,English,Existing Football User,Magazine Shows,Match Day,1,1,2026-06-19
+E00710,Target,Arabic,New World Cup User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-12
+E00711,Control,Arabic,New World Cup User,Highlights,Best Goals WC26,0,0,2026-06-08
+E00712,Target,English,New World Cup User,Originals,FIFA Stories,1,0,2026-06-09
+E00713,Target,English,New World Cup User,Magazine Shows,Match Day,0,0,2026-06-28
+E00714,Control,Arabic,Existing Football User,Highlights,Top 10 Saves,0,0,2026-06-10
+E00715,Target,English,Existing Football User,Magazine Shows,Studio 26,0,0,2026-06-07
+E00716,Target,English,Existing Football User,Magazine Shows,Pitch Talk,1,0,2026-06-18
+E00717,Target,Arabic,Existing Football User,Magazine Shows,Match Day,0,0,2026-06-02
+E00718,Control,Arabic,New World Cup User,Highlights,Best Goals WC26,1,0,2026-06-07
+E00719,Target,Arabic,New World Cup User,Pre-match Analysis,Tactics Board,1,0,2026-06-11
+E00720,Control,English,Existing Football User,Documentaries,Road to Glory,0,0,2026-06-13
+E00721,Target,English,Existing Football User,Magazine Shows,Match Day,0,1,2026-06-09
+E00722,Control,English,New World Cup User,Originals,The Last Match,1,0,2026-06-27
+E00723,Target,English,Existing Football User,Magazine Shows,Pitch Talk,1,0,2026-06-04
+E00724,Target,English,Existing Football User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-17
+E00725,Target,English,New World Cup User,Pre-match Analysis,The Preview,0,0,2026-06-25
+E00726,Target,Arabic,New World Cup User,Originals,The Last Match,1,1,2026-06-16
+E00727,Target,English,Existing Football User,Originals,The Last Match,1,0,2026-06-28
+E00728,Target,English,New World Cup User,Highlights,Daily Highlights,1,1,2026-06-18
+E00729,Target,English,Existing Football User,Pre-match Analysis,Tactics Board,1,0,2026-06-05
+E00730,Control,English,Existing Football User,Magazine Shows,Pitch Talk,0,0,2026-06-06
+E00731,Target,Arabic,Existing Football User,Highlights,Top 10 Saves,1,0,2026-06-01
+E00732,Target,Arabic,Existing Football User,Documentaries,Road to Glory,0,1,2026-06-14
+E00733,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,0,1,2026-06-18
+E00734,Target,English,Existing Football User,Originals,The Last Match,0,1,2026-06-30
+E00735,Target,English,New World Cup User,Highlights,Best Goals WC26,1,0,2026-06-26
+E00736,Target,English,Existing Football User,Highlights,Daily Highlights,1,0,2026-06-19
+E00737,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,0,0,2026-06-15
+E00738,Control,English,Existing Football User,Documentaries,The Beautiful Game,0,0,2026-06-11
+E00739,Control,English,New World Cup User,Documentaries,The Beautiful Game,1,0,2026-06-14
+E00740,Target,English,New World Cup User,Originals,FIFA Stories,1,0,2026-06-13
+E00741,Control,English,Existing Football User,Documentaries,Sons of the Desert,0,1,2026-06-15
+E00742,Target,Arabic,New World Cup User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-17
+E00743,Target,English,Existing Football User,Magazine Shows,Studio 26,1,1,2026-06-05
+E00744,Target,English,Existing Football User,Magazine Shows,Studio 26,0,0,2026-06-18
+E00745,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,0,1,2026-06-01
+E00746,Target,English,Existing Football User,Originals,The Last Match,0,0,2026-06-29
+E00747,Target,Arabic,Existing Football User,Documentaries,Road to Glory,1,0,2026-06-25
+E00748,Control,English,Existing Football User,Magazine Shows,WC Weekly,1,1,2026-06-28
+E00749,Target,English,Existing Football User,Documentaries,90 Minutes,1,0,2026-06-04
+E00750,Target,English,New World Cup User,Documentaries,Sons of the Desert,1,0,2026-06-06
+E00751,Target,Arabic,Existing Football User,Originals,FIFA Stories,1,0,2026-06-05
+E00752,Target,Arabic,Existing Football User,Highlights,Goal Fest,1,0,2026-06-15
+E00753,Target,English,New World Cup User,Originals,Team Spirit,1,0,2026-06-22
+E00754,Target,English,Existing Football User,Originals,The Last Match,0,1,2026-06-28
+E00755,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,0,1,2026-06-24
+E00756,Target,English,Existing Football User,Originals,The Last Match,1,1,2026-06-06
+E00757,Target,Arabic,New World Cup User,Magazine Shows,Pitch Talk,1,0,2026-06-20
+E00758,Target,English,Existing Football User,Documentaries,Road to Glory,1,0,2026-06-30
+E00759,Control,Arabic,Existing Football User,Originals,The Last Match,1,1,2026-06-14
+E00760,Target,English,Existing Football User,Magazine Shows,WC Weekly,1,0,2026-06-18
+E00761,Target,Arabic,Existing Football User,Documentaries,The Beautiful Game,0,0,2026-06-28
+E00762,Target,Arabic,Existing Football User,Originals,Team Spirit,1,0,2026-06-02
+E00763,Target,Arabic,New World Cup User,Documentaries,Sons of the Desert,1,1,2026-06-03
+E00764,Control,English,Existing Football User,Documentaries,90 Minutes,1,0,2026-06-21
+E00765,Target,English,New World Cup User,Originals,Team Spirit,0,1,2026-06-19
+E00766,Target,English,Existing Football User,Magazine Shows,Match Day,1,1,2026-06-16
+E00767,Target,English,Existing Football User,Pre-match Analysis,Tactics Board,0,1,2026-06-10
+E00768,Control,Arabic,Existing Football User,Documentaries,Road to Glory,1,1,2026-06-12
+E00769,Target,English,Existing Football User,Highlights,Best Goals WC26,1,1,2026-06-29
+E00770,Target,English,New World Cup User,Originals,Team Spirit,1,0,2026-06-14
+E00771,Target,English,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-07
+E00772,Target,Arabic,New World Cup User,Originals,Team Spirit,1,0,2026-06-11
+E00773,Control,English,New World Cup User,Magazine Shows,Pitch Talk,0,0,2026-06-02
+E00774,Target,English,New World Cup User,Documentaries,90 Minutes,1,0,2026-06-12
+E00775,Target,English,Existing Football User,Highlights,Top 10 Saves,0,1,2026-06-02
+E00776,Target,English,New World Cup User,Documentaries,Road to Glory,1,0,2026-06-24
+E00777,Target,Arabic,Existing Football User,Documentaries,Road to Glory,0,0,2026-06-17
+E00778,Control,Arabic,Existing Football User,Highlights,Daily Highlights,0,0,2026-06-15
+E00779,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,1,0,2026-06-30
+E00780,Target,English,Existing Football User,Highlights,Best Goals WC26,0,0,2026-06-06
+E00781,Target,English,New World Cup User,Documentaries,Road to Glory,1,0,2026-06-26
+E00782,Target,Arabic,Existing Football User,Originals,FIFA Stories,1,0,2026-06-30
+E00783,Target,English,New World Cup User,Magazine Shows,Match Day,1,1,2026-06-27
+E00784,Target,English,Existing Football User,Highlights,Goal Fest,0,1,2026-06-12
+E00785,Target,English,Existing Football User,Highlights,Best Goals WC26,1,0,2026-06-10
+E00786,Control,Arabic,New World Cup User,Documentaries,Sons of the Desert,0,0,2026-06-01
+E00787,Target,Arabic,Existing Football User,Highlights,Goal Fest,1,0,2026-06-25
+E00788,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,0,0,2026-06-11
+E00789,Control,Arabic,New World Cup User,Originals,Team Spirit,0,0,2026-06-11
+E00790,Target,English,New World Cup User,Documentaries,Road to Glory,1,0,2026-06-19
+E00791,Control,Arabic,Existing Football User,Magazine Shows,Studio 26,0,0,2026-06-18
+E00792,Target,English,New World Cup User,Magazine Shows,Match Day,1,0,2026-06-08
+E00793,Control,English,Existing Football User,Highlights,Top 10 Saves,0,0,2026-06-19
+E00794,Target,English,Existing Football User,Documentaries,Road to Glory,1,0,2026-06-25
+E00795,Control,Arabic,New World Cup User,Originals,FIFA Stories,1,0,2026-06-27
+E00796,Target,English,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-06
+E00797,Target,English,New World Cup User,Highlights,Best Goals WC26,0,0,2026-06-19
+E00798,Target,Arabic,Existing Football User,Highlights,Daily Highlights,1,1,2026-06-01
+E00799,Target,Arabic,Existing Football User,Magazine Shows,WC Weekly,1,1,2026-06-25
+E00800,Control,English,New World Cup User,Highlights,Best Goals WC26,1,0,2026-06-03
+E00801,Target,English,Existing Football User,Highlights,Best Goals WC26,1,0,2026-06-30
+E00802,Control,English,New World Cup User,Originals,Team Spirit,1,0,2026-06-19
+E00803,Target,English,Existing Football User,Magazine Shows,WC Weekly,1,0,2026-06-14
+E00804,Target,Arabic,Existing Football User,Highlights,Goal Fest,1,0,2026-06-03
+E00805,Target,English,Existing Football User,Pre-match Analysis,Tactics Board,1,0,2026-06-03
+E00806,Control,Arabic,Existing Football User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-06
+E00807,Target,Arabic,Existing Football User,Originals,FIFA Stories,1,0,2026-06-24
+E00808,Target,English,Existing Football User,Magazine Shows,WC Weekly,0,0,2026-06-07
+E00809,Target,English,Existing Football User,Pre-match Analysis,Pre-Match Special,0,0,2026-06-16
+E00810,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,0,0,2026-06-25
+E00811,Target,Arabic,New World Cup User,Pre-match Analysis,Tactics Board,1,0,2026-06-20
+E00812,Control,English,Existing Football User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-28
+E00813,Target,Arabic,Existing Football User,Highlights,Goal Fest,1,1,2026-06-18
+E00814,Target,English,Existing Football User,Highlights,Top 10 Saves,0,1,2026-06-09
+E00815,Target,English,New World Cup User,Originals,Team Spirit,0,0,2026-06-28
+E00816,Target,Arabic,Existing Football User,Magazine Shows,Match Day,1,0,2026-06-23
+E00817,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,0,0,2026-06-09
+E00818,Control,Arabic,Existing Football User,Highlights,Top 10 Saves,0,0,2026-06-28
+E00819,Control,Arabic,Existing Football User,Originals,Team Spirit,1,0,2026-06-05
+E00820,Target,English,New World Cup User,Documentaries,90 Minutes,1,1,2026-06-22
+E00821,Control,Arabic,New World Cup User,Pre-match Analysis,Tactics Board,0,0,2026-06-15
+E00822,Target,Arabic,Existing Football User,Highlights,Best Goals WC26,0,0,2026-06-20
+E00823,Target,Arabic,New World Cup User,Originals,The Last Match,0,1,2026-06-06
+E00824,Target,Arabic,Existing Football User,Documentaries,The Beautiful Game,1,0,2026-06-18
+E00825,Control,Arabic,New World Cup User,Magazine Shows,Pitch Talk,1,1,2026-06-28
+E00826,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,1,2026-06-18
+E00827,Control,English,New World Cup User,Magazine Shows,WC Weekly,1,0,2026-06-30
+E00828,Target,English,New World Cup User,Originals,FIFA Stories,1,1,2026-06-25
+E00829,Target,English,Existing Football User,Magazine Shows,Studio 26,1,1,2026-06-10
+E00830,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,1,1,2026-06-20
+E00831,Target,English,Existing Football User,Highlights,Top 10 Saves,1,0,2026-06-27
+E00832,Target,English,Existing Football User,Originals,Team Spirit,0,0,2026-06-30
+E00833,Control,English,New World Cup User,Originals,Team Spirit,1,0,2026-06-17
+E00834,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,0,0,2026-06-05
+E00835,Target,English,Existing Football User,Pre-match Analysis,The Preview,1,1,2026-06-11
+E00836,Control,Arabic,New World Cup User,Magazine Shows,Pitch Talk,0,0,2026-06-12
+E00837,Target,Arabic,Existing Football User,Originals,Team Spirit,0,1,2026-06-23
+E00838,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,1,1,2026-06-24
+E00839,Target,English,New World Cup User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-13
+E00840,Target,English,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-19
+E00841,Target,English,New World Cup User,Magazine Shows,Studio 26,0,1,2026-06-07
+E00842,Control,Arabic,Existing Football User,Highlights,Daily Highlights,1,1,2026-06-23
+E00843,Control,English,New World Cup User,Pre-match Analysis,Kick-Off Show,0,1,2026-06-13
+E00844,Target,English,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-06
+E00845,Target,Arabic,Existing Football User,Magazine Shows,Match Day,1,1,2026-06-23
+E00846,Target,Arabic,New World Cup User,Highlights,Goal Fest,1,0,2026-06-02
+E00847,Control,English,Existing Football User,Highlights,Top 10 Saves,0,0,2026-06-10
+E00848,Target,English,Existing Football User,Documentaries,90 Minutes,0,1,2026-06-25
+E00849,Target,Arabic,Existing Football User,Documentaries,Road to Glory,1,0,2026-06-12
+E00850,Control,Arabic,Existing Football User,Documentaries,The Beautiful Game,0,0,2026-06-30
+E00851,Control,English,New World Cup User,Highlights,Top 10 Saves,1,0,2026-06-09
+E00852,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-21
+E00853,Control,English,Existing Football User,Documentaries,90 Minutes,1,0,2026-06-28
+E00854,Target,Arabic,New World Cup User,Originals,Team Spirit,1,0,2026-06-15
+E00855,Target,English,New World Cup User,Originals,The Last Match,1,0,2026-06-04
+E00856,Target,Arabic,Existing Football User,Originals,Team Spirit,0,0,2026-06-03
+E00857,Target,English,New World Cup User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-16
+E00858,Control,Arabic,Existing Football User,Documentaries,The Beautiful Game,1,0,2026-06-28
+E00859,Control,Arabic,New World Cup User,Documentaries,The Beautiful Game,1,0,2026-06-26
+E00860,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,1,1,2026-06-02
+E00861,Target,Arabic,New World Cup User,Pre-match Analysis,Pre-Match Special,1,1,2026-06-25
+E00862,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,0,1,2026-06-24
+E00863,Target,English,Existing Football User,Highlights,Top 10 Saves,1,0,2026-06-25
+E00864,Control,Arabic,Existing Football User,Pre-match Analysis,Tactics Board,1,0,2026-06-16
+E00865,Target,Arabic,New World Cup User,Highlights,Top 10 Saves,1,0,2026-06-17
+E00866,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,0,0,2026-06-15
+E00867,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,0,1,2026-06-17
+E00868,Control,Arabic,New World Cup User,Documentaries,Road to Glory,1,1,2026-06-13
+E00869,Target,Arabic,Existing Football User,Documentaries,90 Minutes,0,0,2026-06-14
+E00870,Control,English,New World Cup User,Magazine Shows,Studio 26,1,0,2026-06-09
+E00871,Target,Arabic,Existing Football User,Highlights,Top 10 Saves,0,0,2026-06-17
+E00872,Target,Arabic,New World Cup User,Originals,Team Spirit,1,0,2026-06-28
+E00873,Target,Arabic,Existing Football User,Highlights,Daily Highlights,1,1,2026-06-27
+E00874,Control,English,Existing Football User,Originals,FIFA Stories,0,0,2026-06-29
+E00875,Target,English,Existing Football User,Documentaries,Road to Glory,1,1,2026-06-22
+E00876,Target,English,Existing Football User,Highlights,Best Goals WC26,1,1,2026-06-28
+E00877,Target,English,Existing Football User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-03
+E00878,Target,English,Existing Football User,Magazine Shows,WC Weekly,1,1,2026-06-13
+E00879,Target,English,New World Cup User,Magazine Shows,WC Weekly,1,1,2026-06-16
+E00880,Target,English,New World Cup User,Pre-match Analysis,Kick-Off Show,0,0,2026-06-22
+E00881,Target,Arabic,New World Cup User,Originals,FIFA Stories,1,0,2026-06-22
+E00882,Target,English,New World Cup User,Documentaries,Road to Glory,1,0,2026-06-07
+E00883,Target,English,New World Cup User,Originals,Team Spirit,1,0,2026-06-26
+E00884,Target,English,Existing Football User,Magazine Shows,Pitch Talk,0,1,2026-06-28
+E00885,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,0,2026-06-19
+E00886,Target,English,New World Cup User,Magazine Shows,Studio 26,1,0,2026-06-17
+E00887,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,0,1,2026-06-26
+E00888,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,0,1,2026-06-11
+E00889,Target,English,New World Cup User,Originals,Team Spirit,0,0,2026-06-21
+E00890,Target,English,Existing Football User,Documentaries,Road to Glory,0,0,2026-06-10
+E00891,Target,English,Existing Football User,Highlights,Best Goals WC26,1,1,2026-06-19
+E00892,Target,Arabic,New World Cup User,Magazine Shows,Studio 26,1,1,2026-06-21
+E00893,Target,English,New World Cup User,Documentaries,Road to Glory,1,0,2026-06-18
+E00894,Target,English,New World Cup User,Pre-match Analysis,The Preview,1,1,2026-06-15
+E00895,Target,English,Existing Football User,Magazine Shows,Pitch Talk,1,1,2026-06-23
+E00896,Control,English,New World Cup User,Documentaries,Road to Glory,1,0,2026-06-23
+E00897,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,0,0,2026-06-20
+E00898,Target,English,New World Cup User,Documentaries,Road to Glory,0,0,2026-06-12
+E00899,Target,English,Existing Football User,Originals,Team Spirit,1,0,2026-06-15
+E00900,Target,Arabic,New World Cup User,Originals,FIFA Stories,1,1,2026-06-14
+E00901,Target,English,New World Cup User,Highlights,Best Goals WC26,0,0,2026-06-30
+E00902,Target,English,New World Cup User,Originals,Behind the Badge,1,0,2026-06-10
+E00903,Control,English,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-26
+E00904,Control,Arabic,New World Cup User,Pre-match Analysis,Tactics Board,0,1,2026-06-23
+E00905,Control,English,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-09
+E00906,Control,English,Existing Football User,Pre-match Analysis,Tactics Board,1,1,2026-06-11
+E00907,Target,Arabic,New World Cup User,Highlights,Daily Highlights,1,1,2026-06-01
+E00908,Control,English,Existing Football User,Documentaries,Sons of the Desert,1,0,2026-06-02
+E00909,Target,English,New World Cup User,Highlights,Daily Highlights,0,0,2026-06-12
+E00910,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,1,2026-06-19
+E00911,Target,English,New World Cup User,Documentaries,Sons of the Desert,0,1,2026-06-02
+E00912,Control,Arabic,New World Cup User,Documentaries,Sons of the Desert,0,1,2026-06-28
+E00913,Target,English,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-21
+E00914,Target,English,Existing Football User,Pre-match Analysis,The Preview,0,1,2026-06-19
+E00915,Target,Arabic,New World Cup User,Originals,Behind the Badge,1,0,2026-06-13
+E00916,Target,Arabic,Existing Football User,Highlights,Daily Highlights,1,1,2026-06-29
+E00917,Target,English,Existing Football User,Highlights,Best Goals WC26,0,1,2026-06-15
+E00918,Target,English,New World Cup User,Highlights,Best Goals WC26,1,1,2026-06-15
+E00919,Target,English,New World Cup User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-21
+E00920,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,1,0,2026-06-03
+E00921,Target,English,New World Cup User,Originals,FIFA Stories,1,1,2026-06-02
+E00922,Target,English,Existing Football User,Highlights,Top 10 Saves,1,0,2026-06-12
+E00923,Control,Arabic,Existing Football User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-15
+E00924,Target,Arabic,Existing Football User,Highlights,Top 10 Saves,1,1,2026-06-26
+E00925,Target,Arabic,Existing Football User,Highlights,Daily Highlights,1,0,2026-06-07
+E00926,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,1,2026-06-15
+E00927,Target,Arabic,New World Cup User,Magazine Shows,Match Day,0,1,2026-06-28
+E00928,Target,English,New World Cup User,Originals,Team Spirit,0,1,2026-06-09
+E00929,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,0,0,2026-06-18
+E00930,Target,English,Existing Football User,Highlights,Best Goals WC26,1,0,2026-06-26
+E00931,Target,Arabic,New World Cup User,Magazine Shows,WC Weekly,0,0,2026-06-26
+E00932,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,0,0,2026-06-05
+E00933,Target,English,Existing Football User,Magazine Shows,Studio 26,0,1,2026-06-29
+E00934,Target,Arabic,New World Cup User,Magazine Shows,Match Day,0,1,2026-06-20
+E00935,Target,Arabic,New World Cup User,Documentaries,90 Minutes,1,0,2026-06-18
+E00936,Control,English,Existing Football User,Magazine Shows,Pitch Talk,1,0,2026-06-03
+E00937,Target,English,Existing Football User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-10
+E00938,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,0,0,2026-06-25
+E00939,Control,Arabic,Existing Football User,Highlights,Best Goals WC26,1,1,2026-06-17
+E00940,Target,Arabic,Existing Football User,Originals,The Last Match,0,0,2026-06-02
+E00941,Target,Arabic,New World Cup User,Documentaries,90 Minutes,1,1,2026-06-21
+E00942,Control,Arabic,New World Cup User,Documentaries,The Beautiful Game,0,1,2026-06-11
+E00943,Target,Arabic,New World Cup User,Documentaries,Sons of the Desert,1,0,2026-06-13
+E00944,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,1,1,2026-06-28
+E00945,Target,Arabic,Existing Football User,Magazine Shows,Pitch Talk,1,1,2026-06-26
+E00946,Target,English,Existing Football User,Highlights,Best Goals WC26,0,0,2026-06-07
+E00947,Control,English,New World Cup User,Magazine Shows,WC Weekly,1,0,2026-06-16
+E00948,Target,English,Existing Football User,Originals,The Last Match,1,1,2026-06-28
+E00949,Target,English,New World Cup User,Documentaries,The Beautiful Game,1,0,2026-06-16
+E00950,Target,Arabic,New World Cup User,Magazine Shows,Pitch Talk,1,0,2026-06-24
+E00951,Target,Arabic,New World Cup User,Highlights,Goal Fest,0,0,2026-06-26
+E00952,Target,English,Existing Football User,Documentaries,90 Minutes,1,0,2026-06-18
+E00953,Target,Arabic,Existing Football User,Originals,Team Spirit,1,1,2026-06-03
+E00954,Target,English,Existing Football User,Documentaries,Sons of the Desert,0,1,2026-06-22
+E00955,Target,English,Existing Football User,Magazine Shows,Pitch Talk,1,0,2026-06-05
+E00956,Target,Arabic,New World Cup User,Highlights,Best Goals WC26,1,1,2026-06-22
+E00957,Target,Arabic,New World Cup User,Documentaries,Sons of the Desert,1,1,2026-06-21
+E00958,Target,Arabic,Existing Football User,Originals,Team Spirit,0,1,2026-06-27
+E00959,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,0,1,2026-06-10
+E00960,Target,Arabic,New World Cup User,Pre-match Analysis,Tactics Board,0,0,2026-06-18
+E00961,Target,English,New World Cup User,Documentaries,Road to Glory,0,1,2026-06-11
+E00962,Target,Arabic,New World Cup User,Originals,Behind the Badge,0,0,2026-06-22
+E00963,Target,English,Existing Football User,Pre-match Analysis,The Preview,1,0,2026-06-08
+E00964,Control,English,New World Cup User,Magazine Shows,Match Day,0,0,2026-06-10
+E00965,Target,Arabic,New World Cup User,Highlights,Top 10 Saves,1,1,2026-06-20
+E00966,Target,English,Existing Football User,Highlights,Best Goals WC26,1,1,2026-06-23
+E00967,Target,English,Existing Football User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-04
+E00968,Target,English,Existing Football User,Documentaries,90 Minutes,0,0,2026-06-27
+E00969,Target,English,Existing Football User,Highlights,Top 10 Saves,1,0,2026-06-02
+E00970,Target,English,New World Cup User,Magazine Shows,WC Weekly,0,0,2026-06-23
+E00971,Target,Arabic,New World Cup User,Highlights,Top 10 Saves,1,1,2026-06-13
+E00972,Target,Arabic,Existing Football User,Originals,FIFA Stories,1,1,2026-06-08
+E00973,Control,Arabic,Existing Football User,Originals,Team Spirit,0,0,2026-06-20
+E00974,Target,Arabic,Existing Football User,Magazine Shows,Studio 26,1,0,2026-06-27
+E00975,Target,English,Existing Football User,Highlights,Top 10 Saves,0,0,2026-06-07
+E00976,Control,English,Existing Football User,Highlights,Goal Fest,1,0,2026-06-17
+E00977,Target,Arabic,New World Cup User,Highlights,Goal Fest,1,1,2026-06-18
+E00978,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,0,2026-06-06
+E00979,Target,Arabic,Existing Football User,Documentaries,Sons of the Desert,1,1,2026-06-24
+E00980,Target,Arabic,New World Cup User,Originals,FIFA Stories,1,0,2026-06-16
+E00981,Target,Arabic,New World Cup User,Originals,Team Spirit,1,0,2026-06-18
+E00982,Target,English,Existing Football User,Documentaries,Sons of the Desert,1,0,2026-06-14
+E00983,Target,Arabic,New World Cup User,Pre-match Analysis,The Preview,1,0,2026-06-08
+E00984,Target,English,New World Cup User,Magazine Shows,Pitch Talk,0,1,2026-06-23
+E00985,Control,Arabic,New World Cup User,Magazine Shows,Match Day,0,0,2026-06-18
+E00986,Target,Arabic,New World Cup User,Pre-match Analysis,Kick-Off Show,1,0,2026-06-10
+E00987,Target,Arabic,New World Cup User,Originals,Team Spirit,1,0,2026-06-21
+E00988,Target,English,New World Cup User,Highlights,Best Goals WC26,1,0,2026-06-05
+E00989,Target,English,New World Cup User,Pre-match Analysis,Pre-Match Special,1,0,2026-06-20
+E00990,Target,Arabic,Existing Football User,Pre-match Analysis,The Preview,1,0,2026-06-09
+E00991,Target,English,New World Cup User,Originals,FIFA Stories,0,1,2026-06-20
+E00992,Control,English,Existing Football User,Magazine Shows,Studio 26,1,0,2026-06-17
+E00993,Control,English,Existing Football User,Magazine Shows,WC Weekly,0,0,2026-06-19
+E00994,Target,English,New World Cup User,Originals,FIFA Stories,0,1,2026-06-21
+E00995,Target,English,Existing Football User,Originals,Team Spirit,1,0,2026-06-02
+E00996,Target,Arabic,New World Cup User,Documentaries,90 Minutes,1,0,2026-06-29
+E00997,Target,Arabic,New World Cup User,Pre-match Analysis,Pre-Match Special,1,1,2026-06-08
+E00998,Target,Arabic,Existing Football User,Originals,The Last Match,1,0,2026-06-18
+E00999,Target,English,New World Cup User,Documentaries,The Beautiful Game,1,0,2026-06-01
+E01000,Target,English,New World Cup User,Documentaries,Road to Glory,1,1,2026-06-12

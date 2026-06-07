@@ -1,0 +1,1001 @@
+customer_id,country,journey,group,pass_type,converted,revenue,campaign_date
+C00001,UAE,Journey 1,Target,Mobile Pass,0,0,2026-06-22
+C00002,UAE,Journey 4,Target,Full Pass,0,0,2026-06-20
+C00003,Saudi Arabia,Journey 2,Target,Match Pass,0,0,2026-06-09
+C00004,Saudi Arabia,Journey 2,Target,Team Pass,0,0,2026-06-25
+C00005,Kuwait,Journey 1,Target,Full Pass,0,0,2026-06-20
+C00006,Jordan,Journey 1,Target,Full Pass,0,0,2026-06-03
+C00007,Jordan,Journey 3,Target,Full Pass,1,297,2026-06-25
+C00008,Jordan,Journey 1,Control,Full Pass,0,0,2026-06-21
+C00009,Kuwait,Journey 2,Target,Mobile Pass,0,0,2026-06-21
+C00010,UAE,Journey 2,Target,Mobile Pass,0,0,2026-06-09
+C00011,Egypt,Journey 3,Control,Full Pass,0,0,2026-06-26
+C00012,Kuwait,Journey 4,Target,Mobile Pass,0,0,2026-06-29
+C00013,Kuwait,Journey 2,Target,Match Pass,0,0,2026-06-15
+C00014,Qatar,Journey 3,Target,Team Pass,0,0,2026-06-29
+C00015,Bahrain,Journey 3,Target,Mobile Pass,0,0,2026-06-25
+C00016,Saudi Arabia,Journey 1,Target,Mobile Pass,0,0,2026-06-20
+C00017,UAE,Journey 4,Target,Match Pass,0,0,2026-06-28
+C00018,Saudi Arabia,Journey 1,Target,Team Pass,0,0,2026-06-04
+C00019,Jordan,Journey 4,Target,Full Pass,0,0,2026-06-17
+C00020,Qatar,Journey 1,Control,Team Pass,0,0,2026-06-20
+C00021,Egypt,Journey 2,Target,Mobile Pass,0,0,2026-06-30
+C00022,Saudi Arabia,Journey 3,Target,Full Pass,0,0,2026-06-08
+C00023,Saudi Arabia,Journey 2,Control,Full Pass,0,0,2026-06-27
+C00024,UAE,Journey 2,Target,Match Pass,0,0,2026-06-09
+C00025,Bahrain,Journey 2,Control,Mobile Pass,0,0,2026-06-22
+C00026,Kuwait,Journey 4,Control,Match Pass,0,0,2026-06-03
+C00027,Kuwait,Journey 1,Target,Mobile Pass,0,0,2026-06-03
+C00028,Saudi Arabia,Journey 2,Target,Full Pass,0,0,2026-06-17
+C00029,Egypt,Journey 3,Target,Mobile Pass,0,0,2026-06-19
+C00030,Oman,Journey 2,Target,Match Pass,0,0,2026-06-22
+C00031,Bahrain,Journey 3,Target,Match Pass,0,0,2026-06-22
+C00032,UAE,Journey 1,Target,Team Pass,0,0,2026-06-08
+C00033,Egypt,Journey 2,Target,Mobile Pass,0,0,2026-06-15
+C00034,Egypt,Journey 1,Target,Full Pass,1,302,2026-06-27
+C00035,Saudi Arabia,Journey 1,Control,Mobile Pass,0,0,2026-06-16
+C00036,Egypt,Journey 4,Control,Mobile Pass,0,0,2026-06-09
+C00037,Oman,Journey 3,Target,Match Pass,0,0,2026-06-07
+C00038,Saudi Arabia,Journey 1,Target,Full Pass,1,301,2026-06-17
+C00039,Qatar,Journey 1,Control,Full Pass,0,0,2026-06-20
+C00040,UAE,Journey 2,Target,Mobile Pass,0,0,2026-06-20
+C00041,UAE,Journey 4,Target,Team Pass,0,0,2026-06-22
+C00042,Kuwait,Journey 2,Target,Mobile Pass,0,0,2026-06-15
+C00043,Kuwait,Journey 1,Target,Full Pass,1,297,2026-06-17
+C00044,Jordan,Journey 2,Control,Full Pass,0,0,2026-06-10
+C00045,Qatar,Journey 4,Control,Team Pass,0,0,2026-06-17
+C00046,Saudi Arabia,Journey 3,Control,Full Pass,0,0,2026-06-09
+C00047,UAE,Journey 1,Target,Mobile Pass,0,0,2026-06-07
+C00048,Kuwait,Journey 2,Target,Team Pass,0,0,2026-06-29
+C00049,Saudi Arabia,Journey 1,Target,Team Pass,1,199,2026-06-25
+C00050,Qatar,Journey 3,Target,Match Pass,0,0,2026-06-18
+C00051,Saudi Arabia,Journey 1,Target,Mobile Pass,0,0,2026-06-19
+C00052,Qatar,Journey 4,Target,Team Pass,0,0,2026-06-29
+C00053,Kuwait,Journey 2,Target,Full Pass,0,0,2026-06-29
+C00054,Bahrain,Journey 2,Control,Mobile Pass,0,0,2026-06-29
+C00055,Bahrain,Journey 1,Target,Team Pass,0,0,2026-06-26
+C00056,Egypt,Journey 3,Target,Full Pass,0,0,2026-06-28
+C00057,Oman,Journey 2,Target,Match Pass,0,0,2026-06-08
+C00058,Saudi Arabia,Journey 2,Target,Team Pass,0,0,2026-06-12
+C00059,Bahrain,Journey 3,Control,Full Pass,0,0,2026-06-06
+C00060,Jordan,Journey 1,Target,Match Pass,0,0,2026-06-14
+C00061,UAE,Journey 4,Control,Mobile Pass,0,0,2026-06-01
+C00062,Egypt,Journey 3,Target,Team Pass,0,0,2026-06-28
+C00063,UAE,Journey 3,Target,Match Pass,0,0,2026-06-18
+C00064,Qatar,Journey 2,Target,Match Pass,0,0,2026-06-20
+C00065,Jordan,Journey 4,Target,Full Pass,0,0,2026-06-14
+C00066,Kuwait,Journey 4,Target,Mobile Pass,0,0,2026-06-22
+C00067,UAE,Journey 3,Target,Team Pass,0,0,2026-06-22
+C00068,Jordan,Journey 2,Control,Mobile Pass,1,147,2026-06-16
+C00069,UAE,Journey 4,Target,Mobile Pass,0,0,2026-06-16
+C00070,Bahrain,Journey 2,Target,Full Pass,0,0,2026-06-25
+C00071,Bahrain,Journey 2,Target,Match Pass,1,47,2026-06-30
+C00072,UAE,Journey 4,Target,Match Pass,0,0,2026-06-20
+C00073,Kuwait,Journey 4,Target,Match Pass,0,0,2026-06-15
+C00074,Qatar,Journey 4,Target,Mobile Pass,0,0,2026-06-25
+C00075,Oman,Journey 2,Target,Full Pass,0,0,2026-06-09
+C00076,Kuwait,Journey 3,Control,Full Pass,0,0,2026-06-13
+C00077,Qatar,Journey 2,Target,Match Pass,0,0,2026-06-14
+C00078,Saudi Arabia,Journey 2,Control,Match Pass,0,0,2026-06-23
+C00079,Saudi Arabia,Journey 4,Target,Team Pass,0,0,2026-06-28
+C00080,Bahrain,Journey 2,Target,Team Pass,0,0,2026-06-13
+C00081,Kuwait,Journey 4,Target,Match Pass,0,0,2026-06-18
+C00082,Saudi Arabia,Journey 4,Target,Full Pass,1,300,2026-06-05
+C00083,Oman,Journey 2,Target,Match Pass,0,0,2026-06-11
+C00084,Kuwait,Journey 4,Target,Match Pass,0,0,2026-06-16
+C00085,Saudi Arabia,Journey 1,Control,Team Pass,0,0,2026-06-25
+C00086,Saudi Arabia,Journey 1,Control,Mobile Pass,0,0,2026-06-05
+C00087,Egypt,Journey 2,Target,Full Pass,0,0,2026-06-15
+C00088,Jordan,Journey 3,Target,Full Pass,0,0,2026-06-10
+C00089,UAE,Journey 1,Control,Match Pass,0,0,2026-06-03
+C00090,Egypt,Journey 1,Target,Team Pass,0,0,2026-06-26
+C00091,UAE,Journey 1,Target,Match Pass,0,0,2026-06-17
+C00092,Kuwait,Journey 1,Control,Match Pass,0,0,2026-06-21
+C00093,Oman,Journey 2,Target,Team Pass,0,0,2026-06-25
+C00094,Oman,Journey 4,Target,Team Pass,0,0,2026-06-27
+C00095,UAE,Journey 3,Control,Mobile Pass,0,0,2026-06-20
+C00096,Bahrain,Journey 3,Target,Team Pass,0,0,2026-06-12
+C00097,Jordan,Journey 3,Target,Team Pass,0,0,2026-06-07
+C00098,UAE,Journey 2,Target,Match Pass,0,0,2026-06-23
+C00099,Oman,Journey 4,Target,Full Pass,1,297,2026-06-13
+C00100,Egypt,Journey 3,Target,Team Pass,0,0,2026-06-12
+C00101,Bahrain,Journey 3,Target,Match Pass,0,0,2026-06-08
+C00102,UAE,Journey 2,Target,Mobile Pass,0,0,2026-06-09
+C00103,Jordan,Journey 1,Control,Team Pass,0,0,2026-06-10
+C00104,Saudi Arabia,Journey 2,Target,Full Pass,0,0,2026-06-21
+C00105,Oman,Journey 1,Control,Team Pass,0,0,2026-06-11
+C00106,Qatar,Journey 1,Target,Match Pass,1,45,2026-06-13
+C00107,Oman,Journey 1,Target,Full Pass,0,0,2026-06-10
+C00108,UAE,Journey 2,Target,Match Pass,0,0,2026-06-08
+C00109,Bahrain,Journey 4,Control,Team Pass,0,0,2026-06-10
+C00110,Saudi Arabia,Journey 1,Control,Mobile Pass,0,0,2026-06-22
+C00111,UAE,Journey 2,Target,Full Pass,0,0,2026-06-15
+C00112,Oman,Journey 3,Target,Team Pass,0,0,2026-06-03
+C00113,Egypt,Journey 3,Target,Mobile Pass,0,0,2026-06-08
+C00114,Qatar,Journey 3,Control,Full Pass,1,298,2026-06-20
+C00115,Jordan,Journey 4,Target,Team Pass,0,0,2026-06-17
+C00116,Oman,Journey 4,Target,Full Pass,0,0,2026-06-20
+C00117,Jordan,Journey 1,Target,Full Pass,0,0,2026-06-27
+C00118,Jordan,Journey 1,Target,Mobile Pass,0,0,2026-06-15
+C00119,Jordan,Journey 2,Control,Match Pass,0,0,2026-06-03
+C00120,Oman,Journey 3,Target,Team Pass,0,0,2026-06-11
+C00121,Bahrain,Journey 4,Target,Match Pass,0,0,2026-06-02
+C00122,Oman,Journey 1,Target,Team Pass,0,0,2026-06-28
+C00123,Saudi Arabia,Journey 4,Target,Mobile Pass,0,0,2026-06-25
+C00124,Oman,Journey 4,Target,Mobile Pass,0,0,2026-06-30
+C00125,Jordan,Journey 4,Control,Match Pass,0,0,2026-06-20
+C00126,Egypt,Journey 2,Target,Full Pass,0,0,2026-06-08
+C00127,UAE,Journey 4,Control,Mobile Pass,0,0,2026-06-17
+C00128,Jordan,Journey 4,Control,Match Pass,0,0,2026-06-05
+C00129,Bahrain,Journey 2,Control,Mobile Pass,0,0,2026-06-25
+C00130,Bahrain,Journey 3,Control,Team Pass,0,0,2026-06-24
+C00131,Jordan,Journey 4,Control,Match Pass,0,0,2026-06-11
+C00132,Bahrain,Journey 4,Control,Mobile Pass,0,0,2026-06-19
+C00133,Bahrain,Journey 2,Control,Match Pass,1,51,2026-06-23
+C00134,Bahrain,Journey 4,Control,Mobile Pass,0,0,2026-06-05
+C00135,Kuwait,Journey 1,Control,Match Pass,0,0,2026-06-01
+C00136,Qatar,Journey 4,Control,Mobile Pass,1,148,2026-06-11
+C00137,Bahrain,Journey 1,Control,Match Pass,0,0,2026-06-23
+C00138,Oman,Journey 1,Target,Mobile Pass,0,0,2026-06-08
+C00139,UAE,Journey 4,Control,Full Pass,0,0,2026-06-29
+C00140,Saudi Arabia,Journey 1,Target,Full Pass,0,0,2026-06-14
+C00141,Qatar,Journey 2,Target,Mobile Pass,0,0,2026-06-20
+C00142,Bahrain,Journey 2,Target,Mobile Pass,0,0,2026-06-09
+C00143,Oman,Journey 3,Target,Match Pass,0,0,2026-06-18
+C00144,Qatar,Journey 1,Target,Team Pass,0,0,2026-06-21
+C00145,Bahrain,Journey 3,Target,Team Pass,0,0,2026-06-28
+C00146,Oman,Journey 1,Target,Team Pass,0,0,2026-06-01
+C00147,Bahrain,Journey 3,Target,Full Pass,0,0,2026-06-27
+C00148,Jordan,Journey 2,Target,Team Pass,0,0,2026-06-20
+C00149,Jordan,Journey 2,Target,Full Pass,0,0,2026-06-02
+C00150,Kuwait,Journey 2,Target,Team Pass,0,0,2026-06-06
+C00151,Egypt,Journey 2,Target,Team Pass,0,0,2026-06-27
+C00152,Qatar,Journey 3,Control,Match Pass,0,0,2026-06-24
+C00153,Kuwait,Journey 1,Target,Full Pass,1,297,2026-06-28
+C00154,Bahrain,Journey 3,Target,Match Pass,1,52,2026-06-04
+C00155,Oman,Journey 3,Target,Team Pass,0,0,2026-06-12
+C00156,UAE,Journey 2,Target,Team Pass,0,0,2026-06-21
+C00157,UAE,Journey 4,Control,Team Pass,0,0,2026-06-05
+C00158,Saudi Arabia,Journey 1,Target,Match Pass,1,47,2026-06-29
+C00159,Qatar,Journey 4,Target,Match Pass,0,0,2026-06-29
+C00160,Bahrain,Journey 1,Control,Match Pass,0,0,2026-06-02
+C00161,Kuwait,Journey 2,Target,Mobile Pass,0,0,2026-06-22
+C00162,Kuwait,Journey 3,Target,Team Pass,0,0,2026-06-28
+C00163,Oman,Journey 1,Target,Full Pass,1,299,2026-06-08
+C00164,Qatar,Journey 2,Target,Mobile Pass,0,0,2026-06-11
+C00165,Qatar,Journey 1,Target,Mobile Pass,0,0,2026-06-09
+C00166,Qatar,Journey 1,Target,Full Pass,1,299,2026-06-26
+C00167,Egypt,Journey 3,Target,Team Pass,1,200,2026-06-17
+C00168,UAE,Journey 1,Target,Team Pass,0,0,2026-06-15
+C00169,Egypt,Journey 1,Target,Team Pass,0,0,2026-06-02
+C00170,Oman,Journey 4,Target,Full Pass,0,0,2026-06-03
+C00171,UAE,Journey 3,Target,Full Pass,1,303,2026-06-21
+C00172,Kuwait,Journey 4,Control,Team Pass,0,0,2026-06-14
+C00173,UAE,Journey 1,Control,Mobile Pass,0,0,2026-06-14
+C00174,Kuwait,Journey 4,Target,Full Pass,0,0,2026-06-22
+C00175,Jordan,Journey 3,Control,Match Pass,1,45,2026-06-03
+C00176,Bahrain,Journey 1,Target,Team Pass,0,0,2026-06-02
+C00177,Kuwait,Journey 1,Target,Match Pass,0,0,2026-06-10
+C00178,Jordan,Journey 3,Target,Mobile Pass,0,0,2026-06-08
+C00179,UAE,Journey 3,Control,Team Pass,0,0,2026-06-19
+C00180,Egypt,Journey 4,Control,Full Pass,0,0,2026-06-27
+C00181,Jordan,Journey 1,Target,Team Pass,0,0,2026-06-01
+C00182,Qatar,Journey 2,Target,Match Pass,1,54,2026-06-01
+C00183,UAE,Journey 2,Target,Match Pass,0,0,2026-06-10
+C00184,Kuwait,Journey 1,Control,Mobile Pass,0,0,2026-06-02
+C00185,UAE,Journey 3,Target,Match Pass,0,0,2026-06-14
+C00186,Jordan,Journey 2,Target,Full Pass,0,0,2026-06-10
+C00187,Oman,Journey 3,Target,Match Pass,0,0,2026-06-01
+C00188,Egypt,Journey 3,Control,Mobile Pass,0,0,2026-06-11
+C00189,UAE,Journey 1,Target,Match Pass,0,0,2026-06-18
+C00190,Egypt,Journey 3,Target,Full Pass,0,0,2026-06-30
+C00191,UAE,Journey 3,Target,Match Pass,0,0,2026-06-10
+C00192,UAE,Journey 4,Target,Team Pass,0,0,2026-06-15
+C00193,Kuwait,Journey 1,Target,Full Pass,0,0,2026-06-13
+C00194,UAE,Journey 4,Control,Team Pass,0,0,2026-06-03
+C00195,UAE,Journey 2,Control,Team Pass,0,0,2026-06-27
+C00196,Qatar,Journey 2,Target,Team Pass,0,0,2026-06-05
+C00197,UAE,Journey 2,Control,Match Pass,0,0,2026-06-25
+C00198,Oman,Journey 3,Control,Team Pass,0,0,2026-06-16
+C00199,Oman,Journey 3,Target,Full Pass,0,0,2026-06-10
+C00200,Oman,Journey 4,Target,Team Pass,0,0,2026-06-21
+C00201,UAE,Journey 4,Target,Full Pass,0,0,2026-06-21
+C00202,Egypt,Journey 3,Target,Mobile Pass,0,0,2026-06-04
+C00203,Kuwait,Journey 1,Target,Mobile Pass,1,151,2026-06-15
+C00204,Qatar,Journey 3,Target,Team Pass,0,0,2026-06-22
+C00205,Saudi Arabia,Journey 3,Target,Full Pass,0,0,2026-06-10
+C00206,Jordan,Journey 2,Target,Mobile Pass,0,0,2026-06-21
+C00207,Bahrain,Journey 2,Target,Full Pass,0,0,2026-06-21
+C00208,Kuwait,Journey 2,Target,Full Pass,0,0,2026-06-17
+C00209,Kuwait,Journey 1,Target,Mobile Pass,0,0,2026-06-25
+C00210,Oman,Journey 2,Target,Mobile Pass,0,0,2026-06-28
+C00211,UAE,Journey 1,Target,Mobile Pass,0,0,2026-06-06
+C00212,Qatar,Journey 2,Target,Full Pass,0,0,2026-06-24
+C00213,Egypt,Journey 4,Target,Match Pass,0,0,2026-06-10
+C00214,Oman,Journey 2,Target,Match Pass,0,0,2026-06-25
+C00215,Bahrain,Journey 4,Control,Mobile Pass,0,0,2026-06-28
+C00216,Jordan,Journey 1,Target,Team Pass,0,0,2026-06-23
+C00217,UAE,Journey 3,Target,Mobile Pass,0,0,2026-06-05
+C00218,Bahrain,Journey 1,Control,Mobile Pass,0,0,2026-06-30
+C00219,Saudi Arabia,Journey 4,Target,Team Pass,0,0,2026-06-12
+C00220,Egypt,Journey 1,Target,Full Pass,0,0,2026-06-11
+C00221,Qatar,Journey 2,Target,Match Pass,0,0,2026-06-25
+C00222,Oman,Journey 4,Target,Full Pass,1,297,2026-06-27
+C00223,Qatar,Journey 4,Target,Team Pass,0,0,2026-06-02
+C00224,Egypt,Journey 4,Target,Match Pass,1,51,2026-06-20
+C00225,Saudi Arabia,Journey 2,Target,Team Pass,0,0,2026-06-12
+C00226,Egypt,Journey 4,Target,Full Pass,0,0,2026-06-03
+C00227,Saudi Arabia,Journey 4,Control,Full Pass,0,0,2026-06-09
+C00228,Saudi Arabia,Journey 3,Target,Team Pass,0,0,2026-06-21
+C00229,UAE,Journey 3,Target,Team Pass,0,0,2026-06-06
+C00230,Oman,Journey 4,Target,Mobile Pass,1,151,2026-06-02
+C00231,Jordan,Journey 2,Target,Mobile Pass,0,0,2026-06-30
+C00232,Jordan,Journey 4,Control,Match Pass,0,0,2026-06-07
+C00233,Jordan,Journey 3,Control,Full Pass,0,0,2026-06-09
+C00234,UAE,Journey 3,Target,Match Pass,0,0,2026-06-11
+C00235,Qatar,Journey 4,Target,Team Pass,0,0,2026-06-09
+C00236,UAE,Journey 4,Target,Mobile Pass,0,0,2026-06-04
+C00237,UAE,Journey 3,Target,Team Pass,0,0,2026-06-06
+C00238,Oman,Journey 3,Target,Team Pass,0,0,2026-06-09
+C00239,Saudi Arabia,Journey 1,Target,Match Pass,0,0,2026-06-06
+C00240,Saudi Arabia,Journey 2,Control,Match Pass,1,45,2026-06-08
+C00241,Kuwait,Journey 3,Target,Full Pass,0,0,2026-06-15
+C00242,Kuwait,Journey 3,Target,Full Pass,0,0,2026-06-12
+C00243,Bahrain,Journey 3,Target,Mobile Pass,0,0,2026-06-24
+C00244,Qatar,Journey 4,Target,Full Pass,0,0,2026-06-23
+C00245,Oman,Journey 2,Control,Team Pass,0,0,2026-06-07
+C00246,UAE,Journey 2,Control,Match Pass,0,0,2026-06-03
+C00247,Kuwait,Journey 3,Target,Team Pass,0,0,2026-06-23
+C00248,Qatar,Journey 3,Target,Full Pass,0,0,2026-06-08
+C00249,Oman,Journey 1,Target,Team Pass,0,0,2026-06-05
+C00250,UAE,Journey 1,Target,Match Pass,0,0,2026-06-27
+C00251,UAE,Journey 2,Control,Full Pass,0,0,2026-06-17
+C00252,Kuwait,Journey 2,Control,Mobile Pass,0,0,2026-06-14
+C00253,Saudi Arabia,Journey 1,Target,Team Pass,0,0,2026-06-30
+C00254,Egypt,Journey 3,Control,Team Pass,0,0,2026-06-07
+C00255,Jordan,Journey 2,Target,Full Pass,0,0,2026-06-19
+C00256,Qatar,Journey 2,Target,Team Pass,0,0,2026-06-02
+C00257,Saudi Arabia,Journey 1,Target,Team Pass,0,0,2026-06-14
+C00258,Saudi Arabia,Journey 4,Control,Team Pass,0,0,2026-06-16
+C00259,Egypt,Journey 4,Target,Full Pass,0,0,2026-06-15
+C00260,Bahrain,Journey 4,Target,Team Pass,0,0,2026-06-28
+C00261,Kuwait,Journey 3,Control,Mobile Pass,0,0,2026-06-18
+C00262,UAE,Journey 3,Target,Full Pass,0,0,2026-06-05
+C00263,UAE,Journey 1,Target,Match Pass,0,0,2026-06-08
+C00264,Qatar,Journey 3,Control,Team Pass,0,0,2026-06-16
+C00265,Oman,Journey 4,Control,Match Pass,1,50,2026-06-17
+C00266,Oman,Journey 2,Target,Team Pass,1,198,2026-06-16
+C00267,Oman,Journey 3,Target,Full Pass,0,0,2026-06-24
+C00268,Kuwait,Journey 4,Target,Match Pass,1,52,2026-06-07
+C00269,Kuwait,Journey 3,Target,Match Pass,0,0,2026-06-27
+C00270,UAE,Journey 2,Control,Match Pass,0,0,2026-06-18
+C00271,Kuwait,Journey 2,Target,Match Pass,0,0,2026-06-02
+C00272,Qatar,Journey 3,Control,Match Pass,0,0,2026-06-05
+C00273,Kuwait,Journey 3,Target,Team Pass,0,0,2026-06-27
+C00274,Oman,Journey 3,Target,Full Pass,0,0,2026-06-04
+C00275,Bahrain,Journey 3,Target,Full Pass,0,0,2026-06-21
+C00276,Egypt,Journey 1,Target,Mobile Pass,0,0,2026-06-25
+C00277,Bahrain,Journey 2,Control,Mobile Pass,1,145,2026-06-07
+C00278,Saudi Arabia,Journey 4,Target,Mobile Pass,0,0,2026-06-14
+C00279,Oman,Journey 1,Target,Mobile Pass,0,0,2026-06-16
+C00280,Bahrain,Journey 3,Control,Match Pass,0,0,2026-06-18
+C00281,Kuwait,Journey 3,Target,Mobile Pass,0,0,2026-06-18
+C00282,Jordan,Journey 2,Control,Team Pass,0,0,2026-06-23
+C00283,Oman,Journey 3,Target,Team Pass,0,0,2026-06-22
+C00284,Bahrain,Journey 4,Control,Mobile Pass,0,0,2026-06-23
+C00285,UAE,Journey 3,Control,Team Pass,0,0,2026-06-07
+C00286,Jordan,Journey 3,Target,Mobile Pass,0,0,2026-06-29
+C00287,Egypt,Journey 2,Target,Match Pass,0,0,2026-06-04
+C00288,Qatar,Journey 1,Control,Mobile Pass,0,0,2026-06-16
+C00289,Egypt,Journey 3,Target,Full Pass,0,0,2026-06-21
+C00290,Egypt,Journey 1,Control,Mobile Pass,0,0,2026-06-30
+C00291,Saudi Arabia,Journey 4,Target,Mobile Pass,0,0,2026-06-29
+C00292,Saudi Arabia,Journey 1,Target,Full Pass,0,0,2026-06-10
+C00293,Oman,Journey 4,Control,Mobile Pass,0,0,2026-06-09
+C00294,Egypt,Journey 1,Target,Match Pass,0,0,2026-06-01
+C00295,Kuwait,Journey 3,Target,Mobile Pass,0,0,2026-06-29
+C00296,Bahrain,Journey 4,Target,Full Pass,0,0,2026-06-06
+C00297,Qatar,Journey 4,Target,Mobile Pass,1,150,2026-06-08
+C00298,Oman,Journey 3,Control,Team Pass,0,0,2026-06-01
+C00299,Jordan,Journey 3,Target,Full Pass,0,0,2026-06-10
+C00300,Qatar,Journey 4,Target,Team Pass,0,0,2026-06-30
+C00301,Jordan,Journey 3,Target,Mobile Pass,0,0,2026-06-05
+C00302,Oman,Journey 3,Target,Match Pass,0,0,2026-06-27
+C00303,Egypt,Journey 2,Target,Full Pass,0,0,2026-06-23
+C00304,Kuwait,Journey 1,Control,Full Pass,1,302,2026-06-29
+C00305,Egypt,Journey 2,Target,Match Pass,1,47,2026-06-23
+C00306,Oman,Journey 1,Control,Match Pass,0,0,2026-06-05
+C00307,Bahrain,Journey 4,Target,Match Pass,0,0,2026-06-24
+C00308,Saudi Arabia,Journey 4,Target,Full Pass,0,0,2026-06-03
+C00309,Saudi Arabia,Journey 4,Target,Full Pass,0,0,2026-06-30
+C00310,UAE,Journey 4,Target,Match Pass,0,0,2026-06-25
+C00311,Bahrain,Journey 3,Control,Match Pass,0,0,2026-06-13
+C00312,UAE,Journey 2,Target,Team Pass,0,0,2026-06-13
+C00313,Qatar,Journey 2,Control,Full Pass,0,0,2026-06-22
+C00314,Bahrain,Journey 4,Control,Mobile Pass,0,0,2026-06-09
+C00315,Egypt,Journey 1,Target,Match Pass,0,0,2026-06-08
+C00316,Egypt,Journey 1,Target,Full Pass,0,0,2026-06-23
+C00317,Saudi Arabia,Journey 2,Target,Match Pass,0,0,2026-06-07
+C00318,Saudi Arabia,Journey 2,Target,Team Pass,0,0,2026-06-11
+C00319,Kuwait,Journey 2,Target,Mobile Pass,0,0,2026-06-08
+C00320,Bahrain,Journey 3,Target,Mobile Pass,0,0,2026-06-18
+C00321,Oman,Journey 1,Control,Match Pass,0,0,2026-06-23
+C00322,Bahrain,Journey 4,Target,Match Pass,0,0,2026-06-16
+C00323,Egypt,Journey 2,Target,Mobile Pass,0,0,2026-06-18
+C00324,Bahrain,Journey 4,Target,Mobile Pass,0,0,2026-06-07
+C00325,Kuwait,Journey 1,Control,Team Pass,0,0,2026-06-02
+C00326,Jordan,Journey 4,Target,Full Pass,0,0,2026-06-26
+C00327,Egypt,Journey 4,Target,Team Pass,0,0,2026-06-07
+C00328,Egypt,Journey 1,Target,Match Pass,0,0,2026-06-23
+C00329,Egypt,Journey 4,Control,Team Pass,0,0,2026-06-15
+C00330,Kuwait,Journey 3,Target,Match Pass,0,0,2026-06-25
+C00331,Kuwait,Journey 2,Target,Match Pass,1,47,2026-06-24
+C00332,Qatar,Journey 1,Target,Match Pass,0,0,2026-06-11
+C00333,Egypt,Journey 4,Target,Mobile Pass,0,0,2026-06-22
+C00334,Kuwait,Journey 3,Target,Match Pass,0,0,2026-06-24
+C00335,Oman,Journey 4,Target,Team Pass,0,0,2026-06-16
+C00336,Qatar,Journey 1,Target,Full Pass,0,0,2026-06-02
+C00337,Saudi Arabia,Journey 4,Target,Mobile Pass,1,146,2026-06-01
+C00338,Egypt,Journey 4,Target,Match Pass,0,0,2026-06-01
+C00339,Bahrain,Journey 1,Target,Team Pass,0,0,2026-06-01
+C00340,Bahrain,Journey 2,Target,Full Pass,0,0,2026-06-07
+C00341,Jordan,Journey 3,Target,Match Pass,1,50,2026-06-15
+C00342,Egypt,Journey 2,Target,Full Pass,0,0,2026-06-25
+C00343,Saudi Arabia,Journey 1,Target,Match Pass,0,0,2026-06-21
+C00344,Saudi Arabia,Journey 2,Target,Match Pass,0,0,2026-06-19
+C00345,UAE,Journey 1,Target,Match Pass,0,0,2026-06-22
+C00346,Jordan,Journey 1,Target,Team Pass,1,197,2026-06-19
+C00347,Qatar,Journey 4,Control,Team Pass,0,0,2026-06-19
+C00348,Bahrain,Journey 3,Target,Mobile Pass,0,0,2026-06-17
+C00349,Kuwait,Journey 1,Target,Mobile Pass,0,0,2026-06-20
+C00350,Bahrain,Journey 3,Target,Team Pass,0,0,2026-06-16
+C00351,Egypt,Journey 3,Target,Match Pass,0,0,2026-06-19
+C00352,Bahrain,Journey 1,Target,Team Pass,0,0,2026-06-03
+C00353,Jordan,Journey 2,Target,Mobile Pass,0,0,2026-06-12
+C00354,UAE,Journey 1,Target,Team Pass,0,0,2026-06-04
+C00355,Qatar,Journey 1,Target,Match Pass,0,0,2026-06-14
+C00356,UAE,Journey 1,Target,Full Pass,0,0,2026-06-28
+C00357,Bahrain,Journey 1,Target,Match Pass,0,0,2026-06-29
+C00358,Egypt,Journey 2,Target,Mobile Pass,0,0,2026-06-09
+C00359,Oman,Journey 2,Target,Match Pass,0,0,2026-06-16
+C00360,UAE,Journey 3,Target,Mobile Pass,0,0,2026-06-20
+C00361,Egypt,Journey 4,Target,Team Pass,1,200,2026-06-11
+C00362,Bahrain,Journey 3,Target,Match Pass,0,0,2026-06-20
+C00363,Qatar,Journey 3,Target,Mobile Pass,0,0,2026-06-13
+C00364,Kuwait,Journey 3,Target,Match Pass,0,0,2026-06-11
+C00365,Bahrain,Journey 3,Control,Match Pass,0,0,2026-06-07
+C00366,Qatar,Journey 1,Control,Match Pass,0,0,2026-06-15
+C00367,Jordan,Journey 1,Control,Match Pass,0,0,2026-06-21
+C00368,Jordan,Journey 2,Target,Mobile Pass,0,0,2026-06-03
+C00369,Oman,Journey 4,Target,Match Pass,0,0,2026-06-23
+C00370,UAE,Journey 1,Target,Team Pass,0,0,2026-06-02
+C00371,Bahrain,Journey 3,Control,Match Pass,0,0,2026-06-09
+C00372,Egypt,Journey 2,Target,Match Pass,0,0,2026-06-19
+C00373,Qatar,Journey 3,Control,Match Pass,0,0,2026-06-30
+C00374,UAE,Journey 1,Control,Mobile Pass,0,0,2026-06-15
+C00375,Egypt,Journey 4,Target,Full Pass,0,0,2026-06-11
+C00376,UAE,Journey 3,Target,Full Pass,1,299,2026-06-21
+C00377,UAE,Journey 2,Control,Mobile Pass,0,0,2026-06-06
+C00378,Kuwait,Journey 4,Control,Mobile Pass,0,0,2026-06-06
+C00379,Qatar,Journey 4,Target,Mobile Pass,0,0,2026-06-13
+C00380,Saudi Arabia,Journey 2,Target,Full Pass,0,0,2026-06-06
+C00381,Kuwait,Journey 3,Target,Full Pass,0,0,2026-06-17
+C00382,Kuwait,Journey 4,Target,Full Pass,0,0,2026-06-20
+C00383,Qatar,Journey 3,Control,Full Pass,0,0,2026-06-04
+C00384,Egypt,Journey 3,Target,Team Pass,0,0,2026-06-13
+C00385,Bahrain,Journey 2,Target,Match Pass,0,0,2026-06-18
+C00386,Qatar,Journey 2,Target,Mobile Pass,0,0,2026-06-20
+C00387,Saudi Arabia,Journey 3,Control,Match Pass,0,0,2026-06-18
+C00388,Oman,Journey 4,Target,Match Pass,0,0,2026-06-16
+C00389,Qatar,Journey 1,Target,Mobile Pass,0,0,2026-06-08
+C00390,Jordan,Journey 2,Target,Match Pass,0,0,2026-06-19
+C00391,UAE,Journey 3,Target,Team Pass,0,0,2026-06-25
+C00392,Oman,Journey 2,Control,Full Pass,0,0,2026-06-25
+C00393,Egypt,Journey 3,Control,Full Pass,0,0,2026-06-28
+C00394,UAE,Journey 4,Control,Full Pass,0,0,2026-06-07
+C00395,Kuwait,Journey 4,Target,Mobile Pass,0,0,2026-06-26
+C00396,Saudi Arabia,Journey 3,Target,Mobile Pass,0,0,2026-06-10
+C00397,Jordan,Journey 1,Target,Match Pass,0,0,2026-06-28
+C00398,Qatar,Journey 2,Target,Team Pass,0,0,2026-06-13
+C00399,Oman,Journey 2,Target,Team Pass,0,0,2026-06-15
+C00400,UAE,Journey 1,Target,Team Pass,0,0,2026-06-15
+C00401,Oman,Journey 3,Target,Full Pass,0,0,2026-06-21
+C00402,Kuwait,Journey 1,Target,Match Pass,0,0,2026-06-27
+C00403,Egypt,Journey 4,Target,Team Pass,0,0,2026-06-05
+C00404,Oman,Journey 3,Control,Full Pass,1,304,2026-06-26
+C00405,Oman,Journey 1,Target,Mobile Pass,0,0,2026-06-14
+C00406,Egypt,Journey 2,Control,Team Pass,0,0,2026-06-03
+C00407,Kuwait,Journey 3,Target,Mobile Pass,1,154,2026-06-10
+C00408,Egypt,Journey 4,Target,Full Pass,1,301,2026-06-03
+C00409,Qatar,Journey 2,Target,Match Pass,1,49,2026-06-27
+C00410,UAE,Journey 4,Target,Match Pass,1,50,2026-06-03
+C00411,UAE,Journey 1,Target,Team Pass,0,0,2026-06-21
+C00412,Qatar,Journey 1,Target,Full Pass,0,0,2026-06-15
+C00413,Kuwait,Journey 2,Target,Mobile Pass,0,0,2026-06-22
+C00414,Oman,Journey 2,Target,Full Pass,1,295,2026-06-19
+C00415,Bahrain,Journey 3,Control,Team Pass,0,0,2026-06-09
+C00416,UAE,Journey 2,Target,Team Pass,0,0,2026-06-28
+C00417,Jordan,Journey 2,Target,Mobile Pass,0,0,2026-06-21
+C00418,Saudi Arabia,Journey 2,Target,Full Pass,0,0,2026-06-20
+C00419,UAE,Journey 1,Control,Team Pass,0,0,2026-06-14
+C00420,Kuwait,Journey 2,Target,Full Pass,1,295,2026-06-01
+C00421,Jordan,Journey 2,Target,Full Pass,0,0,2026-06-17
+C00422,Jordan,Journey 4,Target,Match Pass,1,52,2026-06-18
+C00423,Qatar,Journey 3,Target,Full Pass,0,0,2026-06-26
+C00424,Qatar,Journey 3,Target,Full Pass,0,0,2026-06-24
+C00425,Egypt,Journey 1,Target,Match Pass,1,53,2026-06-20
+C00426,Saudi Arabia,Journey 3,Target,Mobile Pass,0,0,2026-06-23
+C00427,Saudi Arabia,Journey 2,Target,Team Pass,0,0,2026-06-06
+C00428,Kuwait,Journey 2,Target,Team Pass,0,0,2026-06-25
+C00429,Saudi Arabia,Journey 3,Control,Team Pass,0,0,2026-06-23
+C00430,UAE,Journey 4,Target,Team Pass,1,203,2026-06-06
+C00431,Kuwait,Journey 2,Target,Full Pass,0,0,2026-06-24
+C00432,UAE,Journey 2,Target,Full Pass,1,294,2026-06-08
+C00433,Saudi Arabia,Journey 4,Target,Mobile Pass,0,0,2026-06-18
+C00434,Bahrain,Journey 2,Target,Match Pass,0,0,2026-06-09
+C00435,UAE,Journey 3,Target,Full Pass,0,0,2026-06-02
+C00436,Bahrain,Journey 1,Control,Team Pass,0,0,2026-06-11
+C00437,UAE,Journey 4,Target,Mobile Pass,0,0,2026-06-24
+C00438,Egypt,Journey 4,Target,Match Pass,0,0,2026-06-24
+C00439,Egypt,Journey 2,Target,Match Pass,1,52,2026-06-12
+C00440,Saudi Arabia,Journey 3,Target,Match Pass,0,0,2026-06-04
+C00441,Egypt,Journey 2,Target,Full Pass,0,0,2026-06-23
+C00442,Jordan,Journey 1,Target,Mobile Pass,0,0,2026-06-14
+C00443,Kuwait,Journey 4,Control,Full Pass,0,0,2026-06-05
+C00444,Bahrain,Journey 1,Target,Full Pass,0,0,2026-06-08
+C00445,Jordan,Journey 3,Control,Match Pass,0,0,2026-06-11
+C00446,Oman,Journey 3,Target,Mobile Pass,0,0,2026-06-04
+C00447,Qatar,Journey 1,Target,Match Pass,0,0,2026-06-18
+C00448,Kuwait,Journey 2,Target,Match Pass,0,0,2026-06-03
+C00449,Qatar,Journey 3,Control,Full Pass,0,0,2026-06-05
+C00450,UAE,Journey 2,Control,Match Pass,0,0,2026-06-10
+C00451,Jordan,Journey 2,Target,Match Pass,0,0,2026-06-24
+C00452,Egypt,Journey 1,Target,Mobile Pass,0,0,2026-06-27
+C00453,Egypt,Journey 2,Target,Match Pass,0,0,2026-06-21
+C00454,UAE,Journey 3,Control,Full Pass,1,295,2026-06-07
+C00455,Oman,Journey 2,Target,Team Pass,0,0,2026-06-02
+C00456,Qatar,Journey 4,Control,Match Pass,0,0,2026-06-22
+C00457,Bahrain,Journey 2,Target,Mobile Pass,0,0,2026-06-29
+C00458,Qatar,Journey 1,Target,Mobile Pass,0,0,2026-06-14
+C00459,Oman,Journey 1,Target,Match Pass,0,0,2026-06-21
+C00460,Egypt,Journey 1,Control,Team Pass,0,0,2026-06-12
+C00461,Kuwait,Journey 4,Target,Full Pass,0,0,2026-06-01
+C00462,Jordan,Journey 1,Control,Match Pass,0,0,2026-06-08
+C00463,Qatar,Journey 1,Target,Mobile Pass,0,0,2026-06-25
+C00464,Egypt,Journey 4,Target,Mobile Pass,0,0,2026-06-11
+C00465,Kuwait,Journey 1,Target,Team Pass,0,0,2026-06-05
+C00466,Egypt,Journey 4,Target,Mobile Pass,0,0,2026-06-02
+C00467,Egypt,Journey 2,Target,Match Pass,1,53,2026-06-07
+C00468,Qatar,Journey 3,Target,Team Pass,1,196,2026-06-19
+C00469,Qatar,Journey 1,Control,Team Pass,0,0,2026-06-23
+C00470,Bahrain,Journey 1,Target,Team Pass,0,0,2026-06-24
+C00471,Bahrain,Journey 4,Target,Mobile Pass,0,0,2026-06-23
+C00472,Kuwait,Journey 2,Target,Mobile Pass,0,0,2026-06-05
+C00473,Qatar,Journey 1,Control,Match Pass,0,0,2026-06-02
+C00474,Qatar,Journey 3,Control,Mobile Pass,0,0,2026-06-30
+C00475,Oman,Journey 2,Target,Full Pass,0,0,2026-06-06
+C00476,UAE,Journey 3,Target,Team Pass,0,0,2026-06-12
+C00477,Jordan,Journey 1,Target,Full Pass,0,0,2026-06-06
+C00478,Bahrain,Journey 4,Control,Team Pass,0,0,2026-06-27
+C00479,Oman,Journey 2,Target,Full Pass,0,0,2026-06-10
+C00480,Saudi Arabia,Journey 3,Target,Full Pass,1,296,2026-06-29
+C00481,Bahrain,Journey 2,Target,Full Pass,0,0,2026-06-29
+C00482,Oman,Journey 1,Target,Mobile Pass,0,0,2026-06-06
+C00483,Saudi Arabia,Journey 1,Target,Mobile Pass,0,0,2026-06-24
+C00484,Jordan,Journey 3,Target,Full Pass,1,303,2026-06-18
+C00485,Oman,Journey 2,Target,Full Pass,0,0,2026-06-27
+C00486,Oman,Journey 2,Target,Mobile Pass,0,0,2026-06-03
+C00487,Oman,Journey 1,Target,Match Pass,0,0,2026-06-09
+C00488,UAE,Journey 4,Target,Match Pass,0,0,2026-06-02
+C00489,Jordan,Journey 4,Target,Mobile Pass,0,0,2026-06-02
+C00490,Qatar,Journey 1,Target,Team Pass,0,0,2026-06-25
+C00491,Egypt,Journey 1,Control,Match Pass,0,0,2026-06-28
+C00492,Oman,Journey 2,Target,Full Pass,0,0,2026-06-17
+C00493,Qatar,Journey 1,Control,Match Pass,0,0,2026-06-07
+C00494,Egypt,Journey 2,Target,Full Pass,0,0,2026-06-07
+C00495,Qatar,Journey 3,Target,Full Pass,1,302,2026-06-13
+C00496,Kuwait,Journey 3,Target,Full Pass,0,0,2026-06-19
+C00497,Bahrain,Journey 1,Target,Mobile Pass,0,0,2026-06-25
+C00498,UAE,Journey 1,Target,Full Pass,0,0,2026-06-29
+C00499,Kuwait,Journey 4,Target,Match Pass,0,0,2026-06-02
+C00500,Qatar,Journey 3,Target,Match Pass,1,49,2026-06-23
+C00501,Egypt,Journey 1,Target,Team Pass,0,0,2026-06-11
+C00502,Jordan,Journey 3,Target,Match Pass,0,0,2026-06-04
+C00503,Egypt,Journey 2,Target,Match Pass,0,0,2026-06-09
+C00504,Bahrain,Journey 1,Target,Mobile Pass,0,0,2026-06-24
+C00505,Oman,Journey 3,Control,Mobile Pass,1,152,2026-06-13
+C00506,Qatar,Journey 1,Target,Mobile Pass,0,0,2026-06-02
+C00507,Oman,Journey 1,Control,Mobile Pass,0,0,2026-06-17
+C00508,Bahrain,Journey 1,Target,Mobile Pass,0,0,2026-06-15
+C00509,Qatar,Journey 4,Target,Team Pass,0,0,2026-06-24
+C00510,UAE,Journey 3,Target,Full Pass,0,0,2026-06-25
+C00511,Egypt,Journey 2,Target,Mobile Pass,0,0,2026-06-17
+C00512,Saudi Arabia,Journey 1,Target,Mobile Pass,0,0,2026-06-26
+C00513,Saudi Arabia,Journey 2,Target,Team Pass,0,0,2026-06-09
+C00514,Bahrain,Journey 4,Control,Match Pass,0,0,2026-06-10
+C00515,Bahrain,Journey 1,Target,Team Pass,0,0,2026-06-20
+C00516,Jordan,Journey 3,Target,Match Pass,1,48,2026-06-21
+C00517,Kuwait,Journey 3,Target,Team Pass,0,0,2026-06-25
+C00518,Egypt,Journey 1,Control,Match Pass,0,0,2026-06-05
+C00519,Saudi Arabia,Journey 4,Control,Team Pass,0,0,2026-06-13
+C00520,Saudi Arabia,Journey 2,Target,Mobile Pass,0,0,2026-06-26
+C00521,Oman,Journey 3,Target,Mobile Pass,0,0,2026-06-06
+C00522,Jordan,Journey 1,Target,Team Pass,0,0,2026-06-25
+C00523,Qatar,Journey 3,Target,Mobile Pass,0,0,2026-06-14
+C00524,Kuwait,Journey 3,Target,Team Pass,0,0,2026-06-16
+C00525,Saudi Arabia,Journey 1,Target,Mobile Pass,0,0,2026-06-13
+C00526,Jordan,Journey 4,Target,Mobile Pass,0,0,2026-06-11
+C00527,Bahrain,Journey 4,Target,Mobile Pass,0,0,2026-06-11
+C00528,Qatar,Journey 3,Target,Full Pass,0,0,2026-06-25
+C00529,Qatar,Journey 2,Target,Full Pass,1,300,2026-06-21
+C00530,Bahrain,Journey 4,Target,Match Pass,0,0,2026-06-18
+C00531,Egypt,Journey 3,Control,Team Pass,0,0,2026-06-07
+C00532,Saudi Arabia,Journey 1,Target,Mobile Pass,0,0,2026-06-10
+C00533,Qatar,Journey 1,Target,Team Pass,0,0,2026-06-10
+C00534,Jordan,Journey 4,Target,Team Pass,0,0,2026-06-05
+C00535,Kuwait,Journey 4,Target,Mobile Pass,0,0,2026-06-01
+C00536,Egypt,Journey 2,Target,Mobile Pass,0,0,2026-06-19
+C00537,Qatar,Journey 1,Target,Full Pass,0,0,2026-06-09
+C00538,Saudi Arabia,Journey 1,Target,Full Pass,1,295,2026-06-14
+C00539,Oman,Journey 4,Target,Team Pass,0,0,2026-06-07
+C00540,Saudi Arabia,Journey 3,Target,Full Pass,0,0,2026-06-20
+C00541,Qatar,Journey 4,Control,Full Pass,0,0,2026-06-04
+C00542,Jordan,Journey 1,Target,Match Pass,0,0,2026-06-25
+C00543,Jordan,Journey 2,Target,Match Pass,0,0,2026-06-18
+C00544,Oman,Journey 2,Target,Match Pass,0,0,2026-06-01
+C00545,UAE,Journey 1,Control,Match Pass,0,0,2026-06-25
+C00546,UAE,Journey 1,Control,Mobile Pass,0,0,2026-06-09
+C00547,Oman,Journey 1,Target,Mobile Pass,0,0,2026-06-12
+C00548,Kuwait,Journey 4,Target,Full Pass,0,0,2026-06-01
+C00549,Qatar,Journey 2,Target,Match Pass,0,0,2026-06-29
+C00550,UAE,Journey 3,Control,Mobile Pass,0,0,2026-06-15
+C00551,Jordan,Journey 4,Target,Match Pass,0,0,2026-06-29
+C00552,Qatar,Journey 1,Target,Full Pass,0,0,2026-06-04
+C00553,Bahrain,Journey 4,Control,Match Pass,0,0,2026-06-25
+C00554,Kuwait,Journey 1,Control,Mobile Pass,0,0,2026-06-04
+C00555,Bahrain,Journey 4,Target,Team Pass,0,0,2026-06-23
+C00556,Egypt,Journey 3,Target,Full Pass,0,0,2026-06-16
+C00557,Kuwait,Journey 4,Target,Full Pass,1,296,2026-06-17
+C00558,Oman,Journey 4,Control,Full Pass,0,0,2026-06-08
+C00559,Kuwait,Journey 3,Target,Mobile Pass,0,0,2026-06-13
+C00560,Egypt,Journey 1,Target,Match Pass,1,51,2026-06-15
+C00561,Kuwait,Journey 1,Control,Full Pass,0,0,2026-06-02
+C00562,Saudi Arabia,Journey 1,Target,Team Pass,0,0,2026-06-07
+C00563,Oman,Journey 3,Target,Full Pass,0,0,2026-06-11
+C00564,Oman,Journey 3,Target,Full Pass,1,304,2026-06-08
+C00565,Saudi Arabia,Journey 3,Target,Team Pass,0,0,2026-06-23
+C00566,UAE,Journey 1,Control,Match Pass,0,0,2026-06-04
+C00567,Jordan,Journey 2,Target,Match Pass,0,0,2026-06-23
+C00568,Kuwait,Journey 1,Target,Full Pass,0,0,2026-06-19
+C00569,UAE,Journey 4,Target,Mobile Pass,0,0,2026-06-17
+C00570,Saudi Arabia,Journey 4,Control,Match Pass,0,0,2026-06-23
+C00571,Qatar,Journey 2,Target,Team Pass,0,0,2026-06-14
+C00572,Egypt,Journey 3,Target,Team Pass,0,0,2026-06-26
+C00573,Qatar,Journey 2,Target,Team Pass,0,0,2026-06-28
+C00574,Kuwait,Journey 2,Target,Team Pass,0,0,2026-06-05
+C00575,Qatar,Journey 3,Target,Team Pass,0,0,2026-06-19
+C00576,Bahrain,Journey 3,Control,Match Pass,0,0,2026-06-04
+C00577,Saudi Arabia,Journey 4,Target,Full Pass,0,0,2026-06-10
+C00578,Jordan,Journey 2,Control,Team Pass,0,0,2026-06-02
+C00579,Kuwait,Journey 4,Target,Mobile Pass,0,0,2026-06-13
+C00580,Egypt,Journey 3,Target,Full Pass,0,0,2026-06-14
+C00581,Kuwait,Journey 1,Target,Team Pass,0,0,2026-06-27
+C00582,Egypt,Journey 3,Target,Mobile Pass,0,0,2026-06-10
+C00583,Oman,Journey 2,Control,Full Pass,0,0,2026-06-24
+C00584,UAE,Journey 4,Target,Team Pass,0,0,2026-06-06
+C00585,Jordan,Journey 1,Target,Mobile Pass,1,149,2026-06-20
+C00586,Saudi Arabia,Journey 3,Target,Team Pass,1,199,2026-06-17
+C00587,Egypt,Journey 2,Target,Mobile Pass,0,0,2026-06-13
+C00588,UAE,Journey 3,Target,Mobile Pass,0,0,2026-06-12
+C00589,Jordan,Journey 2,Control,Match Pass,0,0,2026-06-01
+C00590,UAE,Journey 3,Target,Mobile Pass,0,0,2026-06-29
+C00591,Kuwait,Journey 4,Control,Full Pass,0,0,2026-06-24
+C00592,Jordan,Journey 1,Control,Team Pass,0,0,2026-06-15
+C00593,Oman,Journey 1,Target,Mobile Pass,0,0,2026-06-04
+C00594,Qatar,Journey 1,Target,Mobile Pass,0,0,2026-06-28
+C00595,Bahrain,Journey 1,Target,Match Pass,0,0,2026-06-24
+C00596,Qatar,Journey 1,Target,Team Pass,1,195,2026-06-02
+C00597,Qatar,Journey 3,Target,Mobile Pass,0,0,2026-06-13
+C00598,Oman,Journey 4,Target,Full Pass,0,0,2026-06-18
+C00599,Saudi Arabia,Journey 1,Target,Full Pass,0,0,2026-06-12
+C00600,UAE,Journey 3,Target,Team Pass,0,0,2026-06-25
+C00601,Oman,Journey 4,Target,Full Pass,0,0,2026-06-08
+C00602,Qatar,Journey 4,Target,Team Pass,0,0,2026-06-10
+C00603,Kuwait,Journey 1,Target,Mobile Pass,0,0,2026-06-19
+C00604,Bahrain,Journey 1,Target,Team Pass,0,0,2026-06-28
+C00605,Qatar,Journey 2,Target,Team Pass,0,0,2026-06-22
+C00606,Saudi Arabia,Journey 4,Target,Full Pass,0,0,2026-06-09
+C00607,UAE,Journey 2,Target,Match Pass,0,0,2026-06-05
+C00608,Egypt,Journey 1,Target,Full Pass,0,0,2026-06-16
+C00609,Oman,Journey 3,Target,Team Pass,0,0,2026-06-19
+C00610,Kuwait,Journey 3,Control,Mobile Pass,1,147,2026-06-26
+C00611,Egypt,Journey 4,Target,Team Pass,0,0,2026-06-29
+C00612,Oman,Journey 4,Target,Team Pass,0,0,2026-06-06
+C00613,UAE,Journey 3,Control,Mobile Pass,0,0,2026-06-09
+C00614,UAE,Journey 1,Control,Full Pass,0,0,2026-06-13
+C00615,Egypt,Journey 1,Target,Match Pass,0,0,2026-06-12
+C00616,Bahrain,Journey 2,Control,Team Pass,0,0,2026-06-17
+C00617,UAE,Journey 4,Target,Full Pass,0,0,2026-06-22
+C00618,Qatar,Journey 2,Target,Mobile Pass,0,0,2026-06-22
+C00619,Qatar,Journey 4,Control,Full Pass,0,0,2026-06-08
+C00620,UAE,Journey 3,Target,Full Pass,0,0,2026-06-30
+C00621,Kuwait,Journey 4,Target,Match Pass,0,0,2026-06-21
+C00622,Kuwait,Journey 1,Target,Team Pass,0,0,2026-06-19
+C00623,Qatar,Journey 4,Target,Team Pass,0,0,2026-06-17
+C00624,Jordan,Journey 4,Control,Mobile Pass,0,0,2026-06-27
+C00625,Kuwait,Journey 4,Target,Full Pass,0,0,2026-06-15
+C00626,Qatar,Journey 2,Target,Team Pass,0,0,2026-06-06
+C00627,Kuwait,Journey 1,Target,Match Pass,0,0,2026-06-16
+C00628,Oman,Journey 4,Target,Mobile Pass,0,0,2026-06-01
+C00629,Egypt,Journey 1,Target,Mobile Pass,0,0,2026-06-02
+C00630,Qatar,Journey 1,Target,Mobile Pass,0,0,2026-06-20
+C00631,Saudi Arabia,Journey 3,Control,Mobile Pass,0,0,2026-06-28
+C00632,Oman,Journey 2,Target,Match Pass,0,0,2026-06-27
+C00633,Qatar,Journey 3,Target,Team Pass,0,0,2026-06-19
+C00634,UAE,Journey 2,Target,Mobile Pass,1,147,2026-06-17
+C00635,Bahrain,Journey 2,Target,Mobile Pass,0,0,2026-06-20
+C00636,Saudi Arabia,Journey 1,Target,Mobile Pass,0,0,2026-06-27
+C00637,Saudi Arabia,Journey 4,Target,Team Pass,0,0,2026-06-14
+C00638,Egypt,Journey 4,Target,Match Pass,0,0,2026-06-04
+C00639,Bahrain,Journey 2,Target,Mobile Pass,0,0,2026-06-10
+C00640,Bahrain,Journey 3,Target,Full Pass,0,0,2026-06-17
+C00641,Saudi Arabia,Journey 4,Target,Team Pass,0,0,2026-06-05
+C00642,Bahrain,Journey 3,Target,Match Pass,0,0,2026-06-09
+C00643,Bahrain,Journey 2,Target,Match Pass,0,0,2026-06-18
+C00644,Oman,Journey 3,Control,Team Pass,0,0,2026-06-24
+C00645,Qatar,Journey 1,Target,Match Pass,0,0,2026-06-04
+C00646,Egypt,Journey 4,Target,Full Pass,0,0,2026-06-01
+C00647,UAE,Journey 2,Target,Match Pass,1,48,2026-06-08
+C00648,Kuwait,Journey 1,Target,Match Pass,0,0,2026-06-20
+C00649,Jordan,Journey 1,Control,Mobile Pass,0,0,2026-06-01
+C00650,Egypt,Journey 3,Target,Mobile Pass,0,0,2026-06-02
+C00651,Kuwait,Journey 2,Target,Mobile Pass,1,148,2026-06-25
+C00652,Bahrain,Journey 3,Target,Match Pass,0,0,2026-06-01
+C00653,UAE,Journey 1,Target,Team Pass,0,0,2026-06-08
+C00654,Egypt,Journey 4,Control,Full Pass,0,0,2026-06-17
+C00655,UAE,Journey 1,Target,Team Pass,0,0,2026-06-09
+C00656,Jordan,Journey 4,Control,Match Pass,0,0,2026-06-25
+C00657,Oman,Journey 4,Control,Full Pass,0,0,2026-06-03
+C00658,Bahrain,Journey 2,Target,Mobile Pass,0,0,2026-06-12
+C00659,Saudi Arabia,Journey 3,Target,Full Pass,0,0,2026-06-03
+C00660,Qatar,Journey 4,Target,Mobile Pass,0,0,2026-06-06
+C00661,Egypt,Journey 4,Target,Mobile Pass,0,0,2026-06-07
+C00662,Egypt,Journey 2,Control,Team Pass,0,0,2026-06-04
+C00663,UAE,Journey 4,Target,Full Pass,0,0,2026-06-20
+C00664,Kuwait,Journey 4,Control,Team Pass,0,0,2026-06-09
+C00665,Bahrain,Journey 2,Target,Mobile Pass,1,150,2026-06-16
+C00666,Saudi Arabia,Journey 3,Target,Mobile Pass,0,0,2026-06-23
+C00667,Oman,Journey 3,Target,Full Pass,0,0,2026-06-19
+C00668,UAE,Journey 3,Target,Team Pass,0,0,2026-06-08
+C00669,Jordan,Journey 4,Control,Team Pass,0,0,2026-06-14
+C00670,Egypt,Journey 4,Target,Team Pass,0,0,2026-06-09
+C00671,Oman,Journey 2,Target,Mobile Pass,0,0,2026-06-26
+C00672,Egypt,Journey 4,Control,Mobile Pass,0,0,2026-06-16
+C00673,Saudi Arabia,Journey 2,Target,Mobile Pass,0,0,2026-06-17
+C00674,Kuwait,Journey 4,Target,Full Pass,0,0,2026-06-02
+C00675,Egypt,Journey 3,Target,Full Pass,0,0,2026-06-09
+C00676,Kuwait,Journey 3,Target,Team Pass,0,0,2026-06-04
+C00677,Kuwait,Journey 2,Target,Mobile Pass,0,0,2026-06-12
+C00678,Kuwait,Journey 4,Target,Match Pass,0,0,2026-06-20
+C00679,Jordan,Journey 4,Target,Mobile Pass,0,0,2026-06-26
+C00680,Kuwait,Journey 4,Target,Match Pass,0,0,2026-06-03
+C00681,Qatar,Journey 3,Target,Team Pass,0,0,2026-06-20
+C00682,Bahrain,Journey 3,Control,Team Pass,0,0,2026-06-15
+C00683,Bahrain,Journey 2,Target,Full Pass,1,297,2026-06-22
+C00684,Jordan,Journey 1,Target,Match Pass,1,45,2026-06-30
+C00685,Oman,Journey 1,Target,Match Pass,0,0,2026-06-04
+C00686,Jordan,Journey 2,Target,Match Pass,0,0,2026-06-24
+C00687,Jordan,Journey 4,Target,Mobile Pass,0,0,2026-06-01
+C00688,Saudi Arabia,Journey 3,Control,Team Pass,0,0,2026-06-28
+C00689,Jordan,Journey 4,Target,Mobile Pass,0,0,2026-06-21
+C00690,Bahrain,Journey 3,Control,Match Pass,0,0,2026-06-15
+C00691,Jordan,Journey 3,Target,Mobile Pass,0,0,2026-06-17
+C00692,Qatar,Journey 3,Target,Full Pass,0,0,2026-06-25
+C00693,Oman,Journey 3,Target,Match Pass,0,0,2026-06-08
+C00694,Saudi Arabia,Journey 3,Target,Match Pass,0,0,2026-06-23
+C00695,Bahrain,Journey 4,Target,Full Pass,0,0,2026-06-17
+C00696,Jordan,Journey 3,Target,Team Pass,0,0,2026-06-06
+C00697,Qatar,Journey 3,Target,Match Pass,0,0,2026-06-23
+C00698,Oman,Journey 2,Target,Mobile Pass,1,152,2026-06-01
+C00699,Qatar,Journey 1,Target,Mobile Pass,0,0,2026-06-08
+C00700,UAE,Journey 2,Target,Mobile Pass,0,0,2026-06-26
+C00701,Oman,Journey 3,Target,Full Pass,0,0,2026-06-02
+C00702,Jordan,Journey 4,Target,Match Pass,0,0,2026-06-27
+C00703,Bahrain,Journey 1,Target,Mobile Pass,0,0,2026-06-08
+C00704,Saudi Arabia,Journey 2,Target,Full Pass,0,0,2026-06-16
+C00705,Bahrain,Journey 3,Control,Mobile Pass,0,0,2026-06-24
+C00706,UAE,Journey 3,Target,Team Pass,0,0,2026-06-28
+C00707,Egypt,Journey 1,Target,Match Pass,0,0,2026-06-26
+C00708,Jordan,Journey 1,Target,Mobile Pass,1,144,2026-06-19
+C00709,Oman,Journey 2,Target,Full Pass,0,0,2026-06-03
+C00710,Kuwait,Journey 1,Target,Mobile Pass,0,0,2026-06-05
+C00711,Oman,Journey 2,Target,Team Pass,0,0,2026-06-24
+C00712,Egypt,Journey 1,Target,Team Pass,0,0,2026-06-29
+C00713,Saudi Arabia,Journey 4,Target,Team Pass,0,0,2026-06-07
+C00714,Qatar,Journey 3,Target,Match Pass,0,0,2026-06-30
+C00715,Qatar,Journey 1,Target,Match Pass,0,0,2026-06-18
+C00716,Kuwait,Journey 4,Target,Match Pass,0,0,2026-06-20
+C00717,Kuwait,Journey 2,Target,Full Pass,0,0,2026-06-27
+C00718,Bahrain,Journey 2,Target,Match Pass,0,0,2026-06-20
+C00719,Jordan,Journey 3,Target,Team Pass,0,0,2026-06-22
+C00720,UAE,Journey 1,Control,Mobile Pass,0,0,2026-06-07
+C00721,UAE,Journey 4,Target,Full Pass,0,0,2026-06-22
+C00722,Oman,Journey 3,Target,Mobile Pass,0,0,2026-06-01
+C00723,Egypt,Journey 4,Control,Full Pass,0,0,2026-06-02
+C00724,Kuwait,Journey 4,Control,Full Pass,0,0,2026-06-17
+C00725,Saudi Arabia,Journey 1,Control,Full Pass,0,0,2026-06-04
+C00726,UAE,Journey 2,Target,Mobile Pass,0,0,2026-06-08
+C00727,Qatar,Journey 4,Target,Team Pass,0,0,2026-06-14
+C00728,UAE,Journey 2,Target,Match Pass,0,0,2026-06-06
+C00729,Oman,Journey 3,Control,Team Pass,0,0,2026-06-25
+C00730,Bahrain,Journey 3,Target,Mobile Pass,0,0,2026-06-30
+C00731,Jordan,Journey 3,Control,Match Pass,0,0,2026-06-24
+C00732,Saudi Arabia,Journey 3,Target,Mobile Pass,0,0,2026-06-01
+C00733,Jordan,Journey 2,Target,Team Pass,1,198,2026-06-30
+C00734,Qatar,Journey 1,Target,Team Pass,0,0,2026-06-12
+C00735,Egypt,Journey 2,Target,Team Pass,1,200,2026-06-19
+C00736,Egypt,Journey 1,Target,Match Pass,0,0,2026-06-27
+C00737,UAE,Journey 3,Target,Match Pass,1,44,2026-06-30
+C00738,Kuwait,Journey 3,Control,Match Pass,0,0,2026-06-28
+C00739,Egypt,Journey 1,Target,Match Pass,1,52,2026-06-02
+C00740,Kuwait,Journey 2,Target,Mobile Pass,0,0,2026-06-24
+C00741,Bahrain,Journey 4,Target,Full Pass,0,0,2026-06-26
+C00742,Bahrain,Journey 2,Target,Full Pass,0,0,2026-06-18
+C00743,Bahrain,Journey 3,Target,Match Pass,0,0,2026-06-25
+C00744,Qatar,Journey 4,Target,Match Pass,0,0,2026-06-07
+C00745,Egypt,Journey 2,Target,Match Pass,0,0,2026-06-03
+C00746,UAE,Journey 4,Target,Team Pass,0,0,2026-06-20
+C00747,Saudi Arabia,Journey 3,Target,Team Pass,0,0,2026-06-20
+C00748,Qatar,Journey 4,Target,Mobile Pass,0,0,2026-06-05
+C00749,UAE,Journey 1,Target,Mobile Pass,0,0,2026-06-28
+C00750,Jordan,Journey 1,Target,Full Pass,0,0,2026-06-01
+C00751,Kuwait,Journey 2,Target,Mobile Pass,0,0,2026-06-25
+C00752,Jordan,Journey 4,Target,Mobile Pass,0,0,2026-06-01
+C00753,Bahrain,Journey 1,Target,Full Pass,0,0,2026-06-09
+C00754,Saudi Arabia,Journey 4,Target,Full Pass,1,304,2026-06-09
+C00755,Kuwait,Journey 1,Target,Match Pass,0,0,2026-06-17
+C00756,UAE,Journey 3,Target,Full Pass,0,0,2026-06-15
+C00757,Saudi Arabia,Journey 1,Target,Team Pass,0,0,2026-06-24
+C00758,Qatar,Journey 1,Target,Team Pass,0,0,2026-06-08
+C00759,Jordan,Journey 1,Target,Match Pass,0,0,2026-06-18
+C00760,Jordan,Journey 2,Target,Match Pass,0,0,2026-06-24
+C00761,Bahrain,Journey 2,Target,Mobile Pass,0,0,2026-06-30
+C00762,Kuwait,Journey 4,Target,Mobile Pass,0,0,2026-06-18
+C00763,Egypt,Journey 2,Target,Mobile Pass,0,0,2026-06-21
+C00764,Qatar,Journey 3,Target,Full Pass,0,0,2026-06-24
+C00765,Saudi Arabia,Journey 3,Control,Match Pass,0,0,2026-06-15
+C00766,Jordan,Journey 2,Target,Full Pass,1,294,2026-06-25
+C00767,Jordan,Journey 2,Target,Mobile Pass,0,0,2026-06-03
+C00768,Oman,Journey 2,Target,Match Pass,0,0,2026-06-06
+C00769,Bahrain,Journey 4,Target,Mobile Pass,0,0,2026-06-14
+C00770,Saudi Arabia,Journey 3,Control,Mobile Pass,0,0,2026-06-25
+C00771,Egypt,Journey 1,Target,Match Pass,0,0,2026-06-23
+C00772,Kuwait,Journey 4,Control,Match Pass,0,0,2026-06-20
+C00773,Bahrain,Journey 3,Target,Full Pass,0,0,2026-06-15
+C00774,Saudi Arabia,Journey 2,Target,Match Pass,0,0,2026-06-18
+C00775,Bahrain,Journey 1,Target,Match Pass,0,0,2026-06-25
+C00776,Jordan,Journey 4,Target,Team Pass,0,0,2026-06-23
+C00777,Qatar,Journey 4,Control,Match Pass,0,0,2026-06-04
+C00778,Qatar,Journey 2,Target,Team Pass,0,0,2026-06-15
+C00779,Egypt,Journey 4,Target,Team Pass,0,0,2026-06-23
+C00780,UAE,Journey 1,Target,Match Pass,0,0,2026-06-17
+C00781,Bahrain,Journey 2,Target,Match Pass,1,46,2026-06-30
+C00782,Kuwait,Journey 2,Target,Mobile Pass,0,0,2026-06-14
+C00783,Jordan,Journey 3,Target,Match Pass,0,0,2026-06-04
+C00784,Qatar,Journey 2,Target,Team Pass,1,201,2026-06-28
+C00785,Oman,Journey 1,Target,Match Pass,0,0,2026-06-22
+C00786,Oman,Journey 4,Target,Full Pass,0,0,2026-06-08
+C00787,Jordan,Journey 2,Target,Mobile Pass,1,149,2026-06-02
+C00788,Qatar,Journey 1,Target,Team Pass,0,0,2026-06-02
+C00789,UAE,Journey 4,Control,Mobile Pass,0,0,2026-06-22
+C00790,Qatar,Journey 4,Target,Team Pass,0,0,2026-06-25
+C00791,Jordan,Journey 3,Target,Match Pass,0,0,2026-06-27
+C00792,UAE,Journey 3,Target,Full Pass,0,0,2026-06-11
+C00793,Bahrain,Journey 2,Target,Full Pass,1,304,2026-06-17
+C00794,UAE,Journey 4,Target,Team Pass,0,0,2026-06-09
+C00795,Kuwait,Journey 2,Target,Match Pass,0,0,2026-06-16
+C00796,Oman,Journey 2,Control,Mobile Pass,0,0,2026-06-01
+C00797,UAE,Journey 1,Target,Full Pass,0,0,2026-06-26
+C00798,Bahrain,Journey 4,Target,Team Pass,0,0,2026-06-07
+C00799,Saudi Arabia,Journey 2,Target,Team Pass,0,0,2026-06-10
+C00800,Kuwait,Journey 1,Target,Team Pass,0,0,2026-06-20
+C00801,Saudi Arabia,Journey 2,Target,Team Pass,0,0,2026-06-30
+C00802,Oman,Journey 1,Target,Match Pass,0,0,2026-06-29
+C00803,Kuwait,Journey 4,Target,Match Pass,0,0,2026-06-27
+C00804,Jordan,Journey 3,Target,Full Pass,0,0,2026-06-11
+C00805,Kuwait,Journey 1,Control,Team Pass,0,0,2026-06-13
+C00806,Qatar,Journey 4,Target,Full Pass,0,0,2026-06-23
+C00807,Kuwait,Journey 1,Target,Full Pass,0,0,2026-06-12
+C00808,Oman,Journey 3,Target,Team Pass,0,0,2026-06-26
+C00809,Saudi Arabia,Journey 2,Control,Match Pass,0,0,2026-06-29
+C00810,Qatar,Journey 2,Target,Match Pass,0,0,2026-06-10
+C00811,Kuwait,Journey 2,Target,Full Pass,0,0,2026-06-22
+C00812,Qatar,Journey 2,Target,Match Pass,0,0,2026-06-04
+C00813,Saudi Arabia,Journey 3,Control,Full Pass,0,0,2026-06-04
+C00814,Jordan,Journey 1,Target,Team Pass,0,0,2026-06-11
+C00815,Egypt,Journey 2,Target,Team Pass,0,0,2026-06-04
+C00816,Jordan,Journey 2,Target,Full Pass,1,303,2026-06-18
+C00817,UAE,Journey 2,Target,Team Pass,0,0,2026-06-19
+C00818,Egypt,Journey 2,Target,Team Pass,0,0,2026-06-05
+C00819,Saudi Arabia,Journey 4,Control,Full Pass,0,0,2026-06-03
+C00820,Bahrain,Journey 4,Target,Match Pass,0,0,2026-06-11
+C00821,Egypt,Journey 1,Control,Match Pass,0,0,2026-06-27
+C00822,Oman,Journey 1,Target,Match Pass,0,0,2026-06-05
+C00823,Jordan,Journey 3,Target,Team Pass,0,0,2026-06-15
+C00824,Oman,Journey 1,Target,Full Pass,0,0,2026-06-28
+C00825,Qatar,Journey 3,Target,Mobile Pass,0,0,2026-06-27
+C00826,UAE,Journey 3,Target,Full Pass,0,0,2026-06-15
+C00827,Bahrain,Journey 4,Target,Mobile Pass,0,0,2026-06-13
+C00828,UAE,Journey 3,Target,Match Pass,0,0,2026-06-19
+C00829,Kuwait,Journey 2,Target,Full Pass,0,0,2026-06-27
+C00830,Oman,Journey 1,Target,Match Pass,0,0,2026-06-27
+C00831,Oman,Journey 2,Target,Match Pass,1,45,2026-06-22
+C00832,Bahrain,Journey 3,Target,Full Pass,1,296,2026-06-29
+C00833,Saudi Arabia,Journey 2,Target,Match Pass,0,0,2026-06-20
+C00834,Oman,Journey 2,Target,Team Pass,0,0,2026-06-10
+C00835,Bahrain,Journey 3,Control,Full Pass,0,0,2026-06-13
+C00836,Qatar,Journey 3,Target,Full Pass,1,302,2026-06-27
+C00837,Kuwait,Journey 1,Control,Full Pass,0,0,2026-06-13
+C00838,Kuwait,Journey 4,Target,Match Pass,0,0,2026-06-06
+C00839,Oman,Journey 2,Target,Match Pass,0,0,2026-06-27
+C00840,Bahrain,Journey 2,Target,Mobile Pass,0,0,2026-06-21
+C00841,Saudi Arabia,Journey 2,Target,Match Pass,0,0,2026-06-03
+C00842,Qatar,Journey 4,Control,Match Pass,0,0,2026-06-17
+C00843,Bahrain,Journey 4,Target,Mobile Pass,0,0,2026-06-01
+C00844,Oman,Journey 2,Target,Team Pass,0,0,2026-06-19
+C00845,Kuwait,Journey 1,Control,Match Pass,0,0,2026-06-19
+C00846,Oman,Journey 1,Target,Team Pass,0,0,2026-06-17
+C00847,UAE,Journey 2,Target,Full Pass,0,0,2026-06-26
+C00848,Jordan,Journey 1,Control,Full Pass,0,0,2026-06-29
+C00849,Oman,Journey 3,Target,Team Pass,0,0,2026-06-23
+C00850,Jordan,Journey 3,Target,Match Pass,0,0,2026-06-02
+C00851,Jordan,Journey 1,Target,Full Pass,1,295,2026-06-28
+C00852,Jordan,Journey 3,Target,Team Pass,0,0,2026-06-01
+C00853,UAE,Journey 2,Control,Mobile Pass,0,0,2026-06-26
+C00854,Qatar,Journey 3,Target,Mobile Pass,0,0,2026-06-28
+C00855,Saudi Arabia,Journey 3,Control,Mobile Pass,0,0,2026-06-27
+C00856,Oman,Journey 4,Target,Mobile Pass,0,0,2026-06-06
+C00857,Egypt,Journey 3,Target,Team Pass,0,0,2026-06-02
+C00858,Qatar,Journey 4,Target,Team Pass,0,0,2026-06-08
+C00859,Bahrain,Journey 4,Target,Mobile Pass,0,0,2026-06-01
+C00860,Jordan,Journey 4,Target,Team Pass,0,0,2026-06-02
+C00861,UAE,Journey 3,Control,Match Pass,0,0,2026-06-28
+C00862,Jordan,Journey 3,Target,Full Pass,0,0,2026-06-13
+C00863,Oman,Journey 2,Target,Mobile Pass,0,0,2026-06-23
+C00864,Qatar,Journey 3,Target,Full Pass,0,0,2026-06-14
+C00865,UAE,Journey 1,Target,Team Pass,0,0,2026-06-09
+C00866,Egypt,Journey 1,Target,Full Pass,1,303,2026-06-22
+C00867,Egypt,Journey 1,Target,Full Pass,1,303,2026-06-05
+C00868,Bahrain,Journey 2,Control,Mobile Pass,0,0,2026-06-22
+C00869,UAE,Journey 4,Control,Team Pass,0,0,2026-06-25
+C00870,Kuwait,Journey 3,Target,Full Pass,0,0,2026-06-13
+C00871,Bahrain,Journey 3,Control,Team Pass,0,0,2026-06-06
+C00872,Oman,Journey 1,Target,Mobile Pass,0,0,2026-06-21
+C00873,Oman,Journey 1,Target,Match Pass,0,0,2026-06-04
+C00874,Oman,Journey 3,Target,Full Pass,1,298,2026-06-25
+C00875,Oman,Journey 1,Control,Mobile Pass,0,0,2026-06-30
+C00876,Saudi Arabia,Journey 4,Target,Team Pass,0,0,2026-06-01
+C00877,Oman,Journey 4,Target,Full Pass,0,0,2026-06-13
+C00878,Oman,Journey 1,Target,Team Pass,0,0,2026-06-13
+C00879,Saudi Arabia,Journey 1,Target,Team Pass,1,201,2026-06-25
+C00880,Jordan,Journey 2,Target,Full Pass,0,0,2026-06-07
+C00881,Jordan,Journey 4,Control,Team Pass,0,0,2026-06-15
+C00882,Egypt,Journey 2,Target,Full Pass,0,0,2026-06-08
+C00883,Oman,Journey 4,Target,Team Pass,0,0,2026-06-01
+C00884,Saudi Arabia,Journey 3,Target,Full Pass,0,0,2026-06-26
+C00885,Oman,Journey 2,Target,Mobile Pass,0,0,2026-06-24
+C00886,Qatar,Journey 4,Target,Match Pass,0,0,2026-06-02
+C00887,Egypt,Journey 2,Target,Full Pass,0,0,2026-06-15
+C00888,Qatar,Journey 1,Control,Full Pass,0,0,2026-06-26
+C00889,Egypt,Journey 1,Control,Match Pass,0,0,2026-06-13
+C00890,Kuwait,Journey 1,Control,Mobile Pass,0,0,2026-06-25
+C00891,Saudi Arabia,Journey 2,Target,Full Pass,0,0,2026-06-06
+C00892,Kuwait,Journey 2,Target,Full Pass,1,304,2026-06-20
+C00893,Bahrain,Journey 2,Target,Match Pass,1,44,2026-06-06
+C00894,UAE,Journey 3,Target,Match Pass,0,0,2026-06-05
+C00895,Jordan,Journey 4,Target,Mobile Pass,0,0,2026-06-20
+C00896,Qatar,Journey 4,Target,Full Pass,0,0,2026-06-12
+C00897,Bahrain,Journey 1,Target,Mobile Pass,1,152,2026-06-04
+C00898,Kuwait,Journey 2,Target,Mobile Pass,0,0,2026-06-04
+C00899,Qatar,Journey 4,Target,Mobile Pass,0,0,2026-06-02
+C00900,Kuwait,Journey 3,Target,Team Pass,0,0,2026-06-02
+C00901,UAE,Journey 1,Control,Mobile Pass,0,0,2026-06-16
+C00902,UAE,Journey 1,Control,Match Pass,0,0,2026-06-14
+C00903,Egypt,Journey 3,Target,Full Pass,0,0,2026-06-08
+C00904,Bahrain,Journey 2,Target,Mobile Pass,1,153,2026-06-16
+C00905,Saudi Arabia,Journey 4,Target,Match Pass,0,0,2026-06-05
+C00906,Oman,Journey 2,Target,Team Pass,0,0,2026-06-02
+C00907,Saudi Arabia,Journey 3,Target,Match Pass,0,0,2026-06-25
+C00908,Kuwait,Journey 2,Control,Mobile Pass,0,0,2026-06-20
+C00909,Qatar,Journey 2,Target,Match Pass,0,0,2026-06-19
+C00910,Oman,Journey 4,Target,Match Pass,0,0,2026-06-08
+C00911,Kuwait,Journey 4,Target,Mobile Pass,0,0,2026-06-14
+C00912,Saudi Arabia,Journey 1,Control,Full Pass,0,0,2026-06-16
+C00913,UAE,Journey 4,Target,Full Pass,0,0,2026-06-23
+C00914,Bahrain,Journey 2,Target,Team Pass,0,0,2026-06-01
+C00915,Oman,Journey 3,Target,Match Pass,0,0,2026-06-01
+C00916,Oman,Journey 4,Target,Match Pass,0,0,2026-06-21
+C00917,Oman,Journey 1,Control,Full Pass,0,0,2026-06-17
+C00918,Saudi Arabia,Journey 3,Target,Team Pass,0,0,2026-06-18
+C00919,Egypt,Journey 1,Target,Team Pass,0,0,2026-06-17
+C00920,Kuwait,Journey 1,Target,Team Pass,0,0,2026-06-12
+C00921,Kuwait,Journey 2,Target,Full Pass,0,0,2026-06-05
+C00922,Kuwait,Journey 2,Target,Match Pass,0,0,2026-06-28
+C00923,Egypt,Journey 2,Target,Team Pass,0,0,2026-06-09
+C00924,Saudi Arabia,Journey 1,Target,Match Pass,0,0,2026-06-27
+C00925,UAE,Journey 4,Target,Team Pass,0,0,2026-06-26
+C00926,UAE,Journey 2,Control,Match Pass,0,0,2026-06-29
+C00927,Qatar,Journey 3,Control,Full Pass,0,0,2026-06-04
+C00928,Qatar,Journey 4,Target,Mobile Pass,0,0,2026-06-01
+C00929,Jordan,Journey 4,Control,Mobile Pass,0,0,2026-06-15
+C00930,Saudi Arabia,Journey 3,Target,Full Pass,0,0,2026-06-27
+C00931,Kuwait,Journey 4,Target,Team Pass,0,0,2026-06-23
+C00932,Oman,Journey 4,Target,Mobile Pass,0,0,2026-06-06
+C00933,Jordan,Journey 2,Target,Team Pass,0,0,2026-06-05
+C00934,Kuwait,Journey 3,Target,Mobile Pass,0,0,2026-06-23
+C00935,Jordan,Journey 2,Control,Mobile Pass,0,0,2026-06-02
+C00936,Kuwait,Journey 2,Target,Team Pass,0,0,2026-06-23
+C00937,Saudi Arabia,Journey 3,Control,Mobile Pass,0,0,2026-06-06
+C00938,Jordan,Journey 1,Control,Match Pass,0,0,2026-06-15
+C00939,Kuwait,Journey 2,Target,Team Pass,0,0,2026-06-16
+C00940,Jordan,Journey 2,Target,Match Pass,0,0,2026-06-24
+C00941,Oman,Journey 1,Target,Full Pass,0,0,2026-06-20
+C00942,Egypt,Journey 4,Target,Team Pass,1,204,2026-06-07
+C00943,Egypt,Journey 3,Target,Full Pass,0,0,2026-06-22
+C00944,UAE,Journey 4,Target,Team Pass,0,0,2026-06-02
+C00945,Kuwait,Journey 4,Target,Match Pass,0,0,2026-06-01
+C00946,Jordan,Journey 3,Target,Match Pass,0,0,2026-06-07
+C00947,Oman,Journey 4,Control,Team Pass,0,0,2026-06-24
+C00948,Bahrain,Journey 2,Control,Full Pass,0,0,2026-06-16
+C00949,Kuwait,Journey 1,Control,Match Pass,0,0,2026-06-21
+C00950,Jordan,Journey 4,Target,Match Pass,0,0,2026-06-07
+C00951,Qatar,Journey 4,Target,Match Pass,1,48,2026-06-27
+C00952,Jordan,Journey 4,Target,Match Pass,0,0,2026-06-05
+C00953,Jordan,Journey 3,Control,Match Pass,0,0,2026-06-29
+C00954,Jordan,Journey 4,Target,Mobile Pass,1,148,2026-06-16
+C00955,UAE,Journey 3,Target,Match Pass,0,0,2026-06-22
+C00956,Oman,Journey 1,Target,Full Pass,0,0,2026-06-19
+C00957,Saudi Arabia,Journey 2,Target,Mobile Pass,0,0,2026-06-09
+C00958,Kuwait,Journey 4,Target,Team Pass,1,198,2026-06-17
+C00959,UAE,Journey 2,Target,Mobile Pass,0,0,2026-06-25
+C00960,Qatar,Journey 3,Control,Team Pass,0,0,2026-06-04
+C00961,Kuwait,Journey 2,Target,Team Pass,0,0,2026-06-14
+C00962,Kuwait,Journey 2,Target,Mobile Pass,0,0,2026-06-26
+C00963,UAE,Journey 4,Target,Full Pass,1,296,2026-06-30
+C00964,Saudi Arabia,Journey 4,Target,Team Pass,0,0,2026-06-29
+C00965,Kuwait,Journey 2,Target,Full Pass,0,0,2026-06-08
+C00966,Qatar,Journey 2,Target,Team Pass,0,0,2026-06-03
+C00967,Bahrain,Journey 1,Target,Match Pass,0,0,2026-06-07
+C00968,UAE,Journey 1,Target,Full Pass,0,0,2026-06-02
+C00969,UAE,Journey 3,Target,Full Pass,0,0,2026-06-07
+C00970,Egypt,Journey 2,Target,Full Pass,1,298,2026-06-19
+C00971,Kuwait,Journey 3,Target,Mobile Pass,0,0,2026-06-04
+C00972,Saudi Arabia,Journey 2,Target,Team Pass,0,0,2026-06-01
+C00973,UAE,Journey 2,Control,Match Pass,0,0,2026-06-06
+C00974,Oman,Journey 1,Target,Team Pass,0,0,2026-06-07
+C00975,Egypt,Journey 4,Target,Team Pass,0,0,2026-06-17
+C00976,Qatar,Journey 4,Target,Team Pass,0,0,2026-06-03
+C00977,Kuwait,Journey 4,Target,Team Pass,0,0,2026-06-22
+C00978,Oman,Journey 2,Target,Team Pass,0,0,2026-06-07
+C00979,UAE,Journey 4,Control,Team Pass,0,0,2026-06-16
+C00980,UAE,Journey 4,Target,Full Pass,1,300,2026-06-13
+C00981,UAE,Journey 2,Target,Mobile Pass,0,0,2026-06-28
+C00982,Bahrain,Journey 1,Target,Match Pass,0,0,2026-06-25
+C00983,Jordan,Journey 4,Target,Match Pass,0,0,2026-06-09
+C00984,Qatar,Journey 4,Target,Team Pass,0,0,2026-06-21
+C00985,Qatar,Journey 1,Target,Full Pass,0,0,2026-06-22
+C00986,Saudi Arabia,Journey 2,Target,Team Pass,0,0,2026-06-20
+C00987,UAE,Journey 1,Target,Match Pass,0,0,2026-06-10
+C00988,Oman,Journey 4,Target,Team Pass,0,0,2026-06-18
+C00989,Saudi Arabia,Journey 1,Control,Full Pass,0,0,2026-06-28
+C00990,Bahrain,Journey 4,Target,Full Pass,0,0,2026-06-28
+C00991,Jordan,Journey 2,Target,Mobile Pass,0,0,2026-06-16
+C00992,UAE,Journey 4,Target,Match Pass,0,0,2026-06-17
+C00993,Saudi Arabia,Journey 4,Target,Match Pass,0,0,2026-06-25
+C00994,Jordan,Journey 3,Target,Full Pass,1,299,2026-06-12
+C00995,Saudi Arabia,Journey 3,Target,Match Pass,0,0,2026-06-14
+C00996,Kuwait,Journey 1,Target,Mobile Pass,0,0,2026-06-19
+C00997,UAE,Journey 1,Control,Full Pass,0,0,2026-06-18
+C00998,Kuwait,Journey 1,Target,Match Pass,0,0,2026-06-09
+C00999,Saudi Arabia,Journey 4,Target,Team Pass,0,0,2026-06-11
+C01000,UAE,Journey 4,Target,Mobile Pass,0,0,2026-06-26
