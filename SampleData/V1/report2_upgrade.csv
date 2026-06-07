@@ -1,0 +1,1001 @@
+customer_id,country,journey,group,match_pass_date,upgraded,full_pass_date,days_to_upgrade,upgrade_revenue
+U00001,Kuwait,Journey 2,Target,2026-06-12,0,,0,0
+U00002,Egypt,Journey 4,Target,2026-06-03,0,,0,0
+U00003,Egypt,Journey 3,Target,2026-06-10,0,,0,0
+U00004,Bahrain,Journey 2,Target,2026-06-03,0,,0,0
+U00005,UAE,Journey 3,Target,2026-06-19,0,,0,0
+U00006,Oman,Journey 4,Target,2026-06-03,0,,0,0
+U00007,Jordan,Journey 3,Target,2026-06-18,0,,0,0
+U00008,Bahrain,Journey 4,Target,2026-06-17,0,,0,0
+U00009,Qatar,Journey 1,Target,2026-06-17,0,,0,0
+U00010,Oman,Journey 2,Target,2026-06-15,0,,0,0
+U00011,Bahrain,Journey 1,Target,2026-06-12,0,,0,0
+U00012,Egypt,Journey 2,Target,2026-06-10,0,,0,0
+U00013,Bahrain,Journey 3,Control,2026-06-03,0,,0,0
+U00014,Bahrain,Journey 3,Control,2026-06-21,0,,0,0
+U00015,Egypt,Journey 4,Target,2026-06-05,0,,0,0
+U00016,Egypt,Journey 3,Target,2026-06-18,0,,0,0
+U00017,Bahrain,Journey 1,Target,2026-06-09,1,2026-06-13,4,250
+U00018,Qatar,Journey 1,Control,2026-06-16,0,,0,0
+U00019,Saudi Arabia,Journey 1,Target,2026-06-10,0,,0,0
+U00020,Bahrain,Journey 3,Target,2026-06-03,0,,0,0
+U00021,Qatar,Journey 2,Target,2026-06-17,0,,0,0
+U00022,Jordan,Journey 4,Control,2026-06-08,0,,0,0
+U00023,Kuwait,Journey 3,Control,2026-06-13,0,,0,0
+U00024,Egypt,Journey 4,Target,2026-06-04,0,,0,0
+U00025,Jordan,Journey 4,Target,2026-06-19,1,2026-06-25,6,250
+U00026,Kuwait,Journey 1,Target,2026-06-14,0,,0,0
+U00027,Egypt,Journey 3,Control,2026-06-05,0,,0,0
+U00028,Kuwait,Journey 3,Target,2026-06-20,1,2026-06-24,4,250
+U00029,Saudi Arabia,Journey 2,Target,2026-06-13,0,,0,0
+U00030,Kuwait,Journey 1,Target,2026-06-08,0,,0,0
+U00031,Bahrain,Journey 1,Control,2026-06-13,0,,0,0
+U00032,Jordan,Journey 3,Target,2026-06-08,0,,0,0
+U00033,Qatar,Journey 4,Target,2026-06-21,0,,0,0
+U00034,Saudi Arabia,Journey 3,Control,2026-06-16,0,,0,0
+U00035,Bahrain,Journey 3,Target,2026-06-04,0,,0,0
+U00036,Jordan,Journey 1,Target,2026-06-20,0,,0,0
+U00037,Kuwait,Journey 4,Target,2026-06-02,0,,0,0
+U00038,Qatar,Journey 4,Target,2026-06-05,1,2026-06-06,1,250
+U00039,Egypt,Journey 3,Target,2026-06-03,1,2026-06-07,4,250
+U00040,Qatar,Journey 4,Target,2026-06-11,0,,0,0
+U00041,Qatar,Journey 3,Target,2026-06-19,0,,0,0
+U00042,Jordan,Journey 2,Target,2026-06-12,0,,0,0
+U00043,Bahrain,Journey 2,Target,2026-06-01,0,,0,0
+U00044,Egypt,Journey 1,Control,2026-06-07,0,,0,0
+U00045,Qatar,Journey 1,Target,2026-06-14,0,,0,0
+U00046,Qatar,Journey 1,Control,2026-06-06,0,,0,0
+U00047,UAE,Journey 1,Target,2026-06-14,0,,0,0
+U00048,Oman,Journey 4,Target,2026-06-07,0,,0,0
+U00049,Jordan,Journey 3,Target,2026-06-13,0,,0,0
+U00050,Egypt,Journey 2,Control,2026-06-10,0,,0,0
+U00051,Egypt,Journey 4,Target,2026-06-05,1,2026-06-11,6,250
+U00052,Jordan,Journey 2,Target,2026-06-08,0,,0,0
+U00053,Oman,Journey 1,Target,2026-06-05,0,,0,0
+U00054,Bahrain,Journey 2,Target,2026-06-14,0,,0,0
+U00055,Jordan,Journey 1,Target,2026-06-02,1,2026-06-07,5,250
+U00056,Kuwait,Journey 1,Target,2026-06-17,0,,0,0
+U00057,Jordan,Journey 4,Target,2026-06-05,0,,0,0
+U00058,Saudi Arabia,Journey 2,Target,2026-06-17,0,,0,0
+U00059,Kuwait,Journey 4,Target,2026-06-11,0,,0,0
+U00060,Bahrain,Journey 2,Target,2026-06-11,1,2026-06-14,3,250
+U00061,Qatar,Journey 4,Control,2026-06-09,0,,0,0
+U00062,Bahrain,Journey 3,Control,2026-06-09,0,,0,0
+U00063,Jordan,Journey 3,Target,2026-06-06,0,,0,0
+U00064,Oman,Journey 2,Target,2026-06-21,0,,0,0
+U00065,Saudi Arabia,Journey 2,Target,2026-06-08,1,2026-06-11,3,250
+U00066,Oman,Journey 4,Target,2026-06-16,1,2026-06-20,4,250
+U00067,Kuwait,Journey 4,Target,2026-06-04,0,,0,0
+U00068,Qatar,Journey 1,Target,2026-06-07,0,,0,0
+U00069,Qatar,Journey 2,Target,2026-06-09,0,,0,0
+U00070,Egypt,Journey 1,Target,2026-06-19,0,,0,0
+U00071,UAE,Journey 2,Target,2026-06-04,0,,0,0
+U00072,Saudi Arabia,Journey 3,Target,2026-06-04,0,,0,0
+U00073,UAE,Journey 3,Target,2026-06-03,0,,0,0
+U00074,Oman,Journey 4,Target,2026-06-09,0,,0,0
+U00075,Saudi Arabia,Journey 3,Control,2026-06-21,0,,0,0
+U00076,Oman,Journey 3,Control,2026-06-19,0,,0,0
+U00077,Saudi Arabia,Journey 3,Target,2026-06-02,0,,0,0
+U00078,Bahrain,Journey 1,Target,2026-06-06,0,,0,0
+U00079,Bahrain,Journey 1,Target,2026-06-07,0,,0,0
+U00080,Bahrain,Journey 3,Target,2026-06-21,0,,0,0
+U00081,Jordan,Journey 4,Control,2026-06-10,0,,0,0
+U00082,Qatar,Journey 3,Target,2026-06-12,0,,0,0
+U00083,Oman,Journey 4,Control,2026-06-16,0,,0,0
+U00084,Bahrain,Journey 1,Target,2026-06-12,0,,0,0
+U00085,Bahrain,Journey 4,Target,2026-06-17,0,,0,0
+U00086,Oman,Journey 2,Target,2026-06-05,0,,0,0
+U00087,UAE,Journey 3,Target,2026-06-03,0,,0,0
+U00088,Oman,Journey 3,Target,2026-06-05,0,,0,0
+U00089,Jordan,Journey 2,Target,2026-06-10,0,,0,0
+U00090,UAE,Journey 1,Target,2026-06-17,0,,0,0
+U00091,UAE,Journey 4,Target,2026-06-19,0,,0,0
+U00092,Kuwait,Journey 3,Target,2026-06-17,1,2026-06-21,4,250
+U00093,Qatar,Journey 4,Target,2026-06-14,0,,0,0
+U00094,Jordan,Journey 3,Target,2026-06-15,0,,0,0
+U00095,Oman,Journey 3,Target,2026-06-06,0,,0,0
+U00096,UAE,Journey 3,Control,2026-06-04,0,,0,0
+U00097,Saudi Arabia,Journey 1,Target,2026-06-01,1,2026-06-03,2,250
+U00098,Oman,Journey 4,Target,2026-06-20,0,,0,0
+U00099,Jordan,Journey 3,Target,2026-06-13,0,,0,0
+U00100,UAE,Journey 2,Target,2026-06-07,1,2026-06-15,8,250
+U00101,Saudi Arabia,Journey 2,Target,2026-06-05,0,,0,0
+U00102,Bahrain,Journey 2,Target,2026-06-15,0,,0,0
+U00103,Bahrain,Journey 1,Target,2026-06-05,0,,0,0
+U00104,Oman,Journey 4,Target,2026-06-15,0,,0,0
+U00105,Egypt,Journey 3,Target,2026-06-13,1,2026-06-17,4,250
+U00106,Saudi Arabia,Journey 1,Target,2026-06-14,0,,0,0
+U00107,Oman,Journey 3,Target,2026-06-13,0,,0,0
+U00108,Oman,Journey 2,Target,2026-06-17,1,2026-06-19,2,250
+U00109,Jordan,Journey 4,Control,2026-06-04,0,,0,0
+U00110,Kuwait,Journey 4,Target,2026-06-01,0,,0,0
+U00111,Egypt,Journey 4,Target,2026-06-08,0,,0,0
+U00112,Kuwait,Journey 4,Target,2026-06-10,0,,0,0
+U00113,Bahrain,Journey 4,Control,2026-06-21,0,,0,0
+U00114,Oman,Journey 2,Target,2026-06-10,0,,0,0
+U00115,UAE,Journey 4,Target,2026-06-07,1,2026-06-10,3,250
+U00116,Oman,Journey 1,Target,2026-06-16,0,,0,0
+U00117,Egypt,Journey 1,Control,2026-06-12,0,,0,0
+U00118,Kuwait,Journey 2,Target,2026-06-17,1,2026-06-22,5,250
+U00119,Egypt,Journey 1,Target,2026-06-16,0,,0,0
+U00120,Kuwait,Journey 3,Target,2026-06-18,0,,0,0
+U00121,Qatar,Journey 1,Target,2026-06-15,0,,0,0
+U00122,UAE,Journey 1,Target,2026-06-20,0,,0,0
+U00123,UAE,Journey 1,Target,2026-06-06,0,,0,0
+U00124,Egypt,Journey 3,Target,2026-06-10,0,,0,0
+U00125,Oman,Journey 1,Target,2026-06-12,0,,0,0
+U00126,Qatar,Journey 1,Control,2026-06-15,0,,0,0
+U00127,Saudi Arabia,Journey 2,Control,2026-06-16,0,,0,0
+U00128,Qatar,Journey 1,Target,2026-06-14,0,,0,0
+U00129,Egypt,Journey 2,Target,2026-06-17,0,,0,0
+U00130,Egypt,Journey 2,Control,2026-06-14,0,,0,0
+U00131,Oman,Journey 3,Control,2026-06-15,0,,0,0
+U00132,Saudi Arabia,Journey 1,Target,2026-06-11,0,,0,0
+U00133,Qatar,Journey 4,Target,2026-06-02,0,,0,0
+U00134,Qatar,Journey 1,Control,2026-06-17,0,,0,0
+U00135,Bahrain,Journey 4,Control,2026-06-18,0,,0,0
+U00136,Kuwait,Journey 3,Target,2026-06-09,0,,0,0
+U00137,Qatar,Journey 4,Target,2026-06-07,0,,0,0
+U00138,Oman,Journey 3,Control,2026-06-21,0,,0,0
+U00139,Egypt,Journey 3,Target,2026-06-18,0,,0,0
+U00140,Qatar,Journey 3,Target,2026-06-17,0,,0,0
+U00141,Kuwait,Journey 2,Target,2026-06-18,0,,0,0
+U00142,Egypt,Journey 3,Target,2026-06-17,1,2026-06-21,4,250
+U00143,Saudi Arabia,Journey 3,Target,2026-06-17,0,,0,0
+U00144,Saudi Arabia,Journey 1,Target,2026-06-19,0,,0,0
+U00145,Oman,Journey 3,Control,2026-06-19,0,,0,0
+U00146,Egypt,Journey 3,Target,2026-06-19,0,,0,0
+U00147,Bahrain,Journey 2,Target,2026-06-17,0,,0,0
+U00148,Kuwait,Journey 4,Target,2026-06-14,0,,0,0
+U00149,UAE,Journey 1,Target,2026-06-05,0,,0,0
+U00150,Oman,Journey 1,Target,2026-06-17,0,,0,0
+U00151,Bahrain,Journey 3,Target,2026-06-21,0,,0,0
+U00152,Oman,Journey 4,Target,2026-06-14,0,,0,0
+U00153,Qatar,Journey 2,Target,2026-06-15,1,2026-06-18,3,250
+U00154,UAE,Journey 2,Target,2026-06-02,0,,0,0
+U00155,Kuwait,Journey 1,Target,2026-06-14,1,2026-06-15,1,250
+U00156,Kuwait,Journey 3,Target,2026-06-05,1,2026-06-08,3,250
+U00157,Jordan,Journey 4,Target,2026-06-05,0,,0,0
+U00158,Bahrain,Journey 1,Control,2026-06-10,0,,0,0
+U00159,Egypt,Journey 2,Control,2026-06-16,1,2026-06-23,7,250
+U00160,Kuwait,Journey 1,Control,2026-06-14,0,,0,0
+U00161,Jordan,Journey 4,Control,2026-06-13,0,,0,0
+U00162,Qatar,Journey 2,Target,2026-06-15,0,,0,0
+U00163,Oman,Journey 2,Control,2026-06-11,1,2026-06-15,4,250
+U00164,Bahrain,Journey 2,Control,2026-06-11,0,,0,0
+U00165,Oman,Journey 3,Target,2026-06-06,0,,0,0
+U00166,Jordan,Journey 1,Target,2026-06-03,0,,0,0
+U00167,Saudi Arabia,Journey 2,Target,2026-06-17,0,,0,0
+U00168,UAE,Journey 2,Control,2026-06-09,0,,0,0
+U00169,Egypt,Journey 4,Target,2026-06-18,0,,0,0
+U00170,Bahrain,Journey 1,Target,2026-06-01,0,,0,0
+U00171,Qatar,Journey 4,Target,2026-06-17,0,,0,0
+U00172,Jordan,Journey 1,Target,2026-06-04,0,,0,0
+U00173,Jordan,Journey 2,Target,2026-06-03,0,,0,0
+U00174,Bahrain,Journey 2,Target,2026-06-11,0,,0,0
+U00175,Saudi Arabia,Journey 3,Target,2026-06-11,1,2026-06-13,2,250
+U00176,Kuwait,Journey 3,Target,2026-06-04,1,2026-06-08,4,250
+U00177,Egypt,Journey 4,Target,2026-06-17,0,,0,0
+U00178,UAE,Journey 3,Target,2026-06-15,0,,0,0
+U00179,UAE,Journey 4,Target,2026-06-21,0,,0,0
+U00180,Saudi Arabia,Journey 3,Target,2026-06-19,0,,0,0
+U00181,Egypt,Journey 2,Target,2026-06-14,0,,0,0
+U00182,Egypt,Journey 2,Target,2026-06-06,0,,0,0
+U00183,Bahrain,Journey 4,Target,2026-06-15,0,,0,0
+U00184,Jordan,Journey 2,Target,2026-06-16,0,,0,0
+U00185,Jordan,Journey 4,Control,2026-06-21,0,,0,0
+U00186,Jordan,Journey 1,Target,2026-06-18,0,,0,0
+U00187,Jordan,Journey 1,Target,2026-06-04,0,,0,0
+U00188,Jordan,Journey 4,Target,2026-06-17,0,,0,0
+U00189,Kuwait,Journey 3,Target,2026-06-15,0,,0,0
+U00190,Kuwait,Journey 3,Target,2026-06-20,0,,0,0
+U00191,Qatar,Journey 1,Target,2026-06-01,0,,0,0
+U00192,Qatar,Journey 4,Target,2026-06-16,0,,0,0
+U00193,UAE,Journey 1,Target,2026-06-15,0,,0,0
+U00194,Kuwait,Journey 4,Control,2026-06-12,0,,0,0
+U00195,Saudi Arabia,Journey 1,Target,2026-06-07,0,,0,0
+U00196,Egypt,Journey 1,Target,2026-06-12,0,,0,0
+U00197,Jordan,Journey 2,Target,2026-06-16,0,,0,0
+U00198,Saudi Arabia,Journey 3,Target,2026-06-20,1,2026-06-26,6,250
+U00199,Egypt,Journey 4,Target,2026-06-09,0,,0,0
+U00200,Oman,Journey 2,Target,2026-06-19,0,,0,0
+U00201,Qatar,Journey 1,Target,2026-06-03,1,2026-06-09,6,250
+U00202,Jordan,Journey 2,Control,2026-06-01,0,,0,0
+U00203,Jordan,Journey 4,Target,2026-06-14,0,,0,0
+U00204,Saudi Arabia,Journey 3,Target,2026-06-14,0,,0,0
+U00205,Oman,Journey 4,Target,2026-06-02,0,,0,0
+U00206,Egypt,Journey 1,Target,2026-06-14,0,,0,0
+U00207,Kuwait,Journey 1,Target,2026-06-11,1,2026-06-14,3,250
+U00208,Saudi Arabia,Journey 2,Control,2026-06-14,0,,0,0
+U00209,Egypt,Journey 2,Target,2026-06-10,1,2026-06-13,3,250
+U00210,Bahrain,Journey 1,Target,2026-06-21,0,,0,0
+U00211,Jordan,Journey 2,Target,2026-06-08,0,,0,0
+U00212,Saudi Arabia,Journey 3,Target,2026-06-08,0,,0,0
+U00213,Oman,Journey 1,Target,2026-06-19,1,2026-06-22,3,250
+U00214,Saudi Arabia,Journey 1,Target,2026-06-03,0,,0,0
+U00215,Saudi Arabia,Journey 4,Target,2026-06-20,0,,0,0
+U00216,UAE,Journey 1,Target,2026-06-18,1,2026-06-23,5,250
+U00217,Bahrain,Journey 2,Control,2026-06-20,1,2026-06-24,4,250
+U00218,Bahrain,Journey 4,Target,2026-06-20,0,,0,0
+U00219,Kuwait,Journey 1,Target,2026-06-11,0,,0,0
+U00220,UAE,Journey 1,Target,2026-06-03,0,,0,0
+U00221,Egypt,Journey 2,Target,2026-06-09,0,,0,0
+U00222,Oman,Journey 4,Target,2026-06-05,0,,0,0
+U00223,Saudi Arabia,Journey 2,Target,2026-06-14,0,,0,0
+U00224,Kuwait,Journey 3,Target,2026-06-18,0,,0,0
+U00225,Qatar,Journey 4,Target,2026-06-11,0,,0,0
+U00226,Saudi Arabia,Journey 2,Target,2026-06-17,0,,0,0
+U00227,Saudi Arabia,Journey 4,Target,2026-06-07,0,,0,0
+U00228,Egypt,Journey 1,Target,2026-06-16,0,,0,0
+U00229,Oman,Journey 3,Control,2026-06-19,0,,0,0
+U00230,Jordan,Journey 4,Target,2026-06-04,0,,0,0
+U00231,Saudi Arabia,Journey 4,Target,2026-06-01,0,,0,0
+U00232,Egypt,Journey 4,Target,2026-06-08,0,,0,0
+U00233,Kuwait,Journey 4,Target,2026-06-06,0,,0,0
+U00234,Saudi Arabia,Journey 3,Target,2026-06-12,1,2026-06-17,5,250
+U00235,Egypt,Journey 3,Target,2026-06-01,0,,0,0
+U00236,Jordan,Journey 2,Target,2026-06-09,0,,0,0
+U00237,Kuwait,Journey 2,Target,2026-06-01,0,,0,0
+U00238,Jordan,Journey 1,Target,2026-06-05,0,,0,0
+U00239,UAE,Journey 3,Control,2026-06-10,0,,0,0
+U00240,Kuwait,Journey 3,Target,2026-06-17,0,,0,0
+U00241,Bahrain,Journey 1,Target,2026-06-05,0,,0,0
+U00242,Egypt,Journey 4,Target,2026-06-11,0,,0,0
+U00243,Egypt,Journey 1,Target,2026-06-19,0,,0,0
+U00244,Jordan,Journey 2,Target,2026-06-02,0,,0,0
+U00245,Jordan,Journey 2,Control,2026-06-19,0,,0,0
+U00246,Egypt,Journey 1,Target,2026-06-20,1,2026-06-25,5,250
+U00247,Bahrain,Journey 3,Target,2026-06-15,0,,0,0
+U00248,Kuwait,Journey 4,Target,2026-06-16,0,,0,0
+U00249,Bahrain,Journey 1,Target,2026-06-07,0,,0,0
+U00250,Egypt,Journey 4,Target,2026-06-14,0,,0,0
+U00251,Qatar,Journey 3,Target,2026-06-03,1,2026-06-08,5,250
+U00252,Kuwait,Journey 2,Target,2026-06-15,0,,0,0
+U00253,Kuwait,Journey 4,Target,2026-06-14,0,,0,0
+U00254,Oman,Journey 3,Target,2026-06-01,0,,0,0
+U00255,Egypt,Journey 3,Target,2026-06-12,0,,0,0
+U00256,Jordan,Journey 1,Target,2026-06-08,1,2026-06-13,5,250
+U00257,UAE,Journey 3,Target,2026-06-07,0,,0,0
+U00258,Kuwait,Journey 3,Target,2026-06-09,0,,0,0
+U00259,Qatar,Journey 3,Target,2026-06-10,0,,0,0
+U00260,Kuwait,Journey 4,Control,2026-06-19,0,,0,0
+U00261,Saudi Arabia,Journey 4,Target,2026-06-05,0,,0,0
+U00262,Egypt,Journey 2,Target,2026-06-07,0,,0,0
+U00263,Oman,Journey 4,Target,2026-06-03,0,,0,0
+U00264,Egypt,Journey 4,Target,2026-06-14,0,,0,0
+U00265,Oman,Journey 1,Target,2026-06-19,0,,0,0
+U00266,Jordan,Journey 1,Target,2026-06-12,0,,0,0
+U00267,Bahrain,Journey 4,Target,2026-06-13,0,,0,0
+U00268,Jordan,Journey 3,Target,2026-06-19,0,,0,0
+U00269,Qatar,Journey 2,Control,2026-06-11,0,,0,0
+U00270,Bahrain,Journey 4,Target,2026-06-13,1,2026-06-15,2,250
+U00271,Kuwait,Journey 4,Target,2026-06-10,1,2026-06-15,5,250
+U00272,UAE,Journey 2,Target,2026-06-20,0,,0,0
+U00273,Qatar,Journey 2,Target,2026-06-13,0,,0,0
+U00274,Egypt,Journey 3,Target,2026-06-03,0,,0,0
+U00275,Kuwait,Journey 1,Target,2026-06-14,0,,0,0
+U00276,UAE,Journey 2,Target,2026-06-16,0,,0,0
+U00277,Bahrain,Journey 2,Target,2026-06-07,0,,0,0
+U00278,Oman,Journey 2,Target,2026-06-10,0,,0,0
+U00279,Oman,Journey 3,Target,2026-06-05,0,,0,0
+U00280,Bahrain,Journey 2,Target,2026-06-19,0,,0,0
+U00281,Oman,Journey 4,Target,2026-06-03,0,,0,0
+U00282,Oman,Journey 3,Target,2026-06-10,0,,0,0
+U00283,Qatar,Journey 4,Target,2026-06-20,0,,0,0
+U00284,Oman,Journey 4,Control,2026-06-06,0,,0,0
+U00285,UAE,Journey 4,Target,2026-06-02,0,,0,0
+U00286,Qatar,Journey 3,Control,2026-06-18,0,,0,0
+U00287,UAE,Journey 2,Control,2026-06-14,0,,0,0
+U00288,UAE,Journey 3,Target,2026-06-04,0,,0,0
+U00289,Kuwait,Journey 4,Target,2026-06-09,0,,0,0
+U00290,Saudi Arabia,Journey 4,Target,2026-06-21,0,,0,0
+U00291,Oman,Journey 4,Target,2026-06-13,0,,0,0
+U00292,Bahrain,Journey 1,Target,2026-06-04,0,,0,0
+U00293,Qatar,Journey 3,Target,2026-06-15,0,,0,0
+U00294,UAE,Journey 1,Target,2026-06-08,0,,0,0
+U00295,Oman,Journey 2,Target,2026-06-09,0,,0,0
+U00296,Qatar,Journey 1,Target,2026-06-06,0,,0,0
+U00297,Bahrain,Journey 2,Target,2026-06-01,0,,0,0
+U00298,Qatar,Journey 4,Target,2026-06-07,0,,0,0
+U00299,Egypt,Journey 4,Target,2026-06-21,0,,0,0
+U00300,UAE,Journey 4,Target,2026-06-15,1,2026-06-21,6,250
+U00301,Egypt,Journey 2,Target,2026-06-08,0,,0,0
+U00302,Saudi Arabia,Journey 4,Target,2026-06-01,0,,0,0
+U00303,Egypt,Journey 1,Target,2026-06-04,0,,0,0
+U00304,Qatar,Journey 2,Target,2026-06-17,1,2026-06-21,4,250
+U00305,Kuwait,Journey 3,Target,2026-06-07,0,,0,0
+U00306,Bahrain,Journey 4,Target,2026-06-07,1,2026-06-11,4,250
+U00307,Kuwait,Journey 1,Target,2026-06-15,0,,0,0
+U00308,Jordan,Journey 3,Target,2026-06-07,0,,0,0
+U00309,Oman,Journey 1,Target,2026-06-19,0,,0,0
+U00310,UAE,Journey 3,Control,2026-06-13,0,,0,0
+U00311,Qatar,Journey 3,Target,2026-06-11,0,,0,0
+U00312,Oman,Journey 1,Target,2026-06-20,0,,0,0
+U00313,Oman,Journey 4,Target,2026-06-08,0,,0,0
+U00314,Saudi Arabia,Journey 2,Target,2026-06-04,0,,0,0
+U00315,Bahrain,Journey 2,Target,2026-06-02,1,2026-06-06,4,250
+U00316,Oman,Journey 3,Target,2026-06-13,0,,0,0
+U00317,Saudi Arabia,Journey 2,Control,2026-06-20,0,,0,0
+U00318,Oman,Journey 3,Target,2026-06-11,0,,0,0
+U00319,Saudi Arabia,Journey 4,Target,2026-06-10,0,,0,0
+U00320,Egypt,Journey 3,Target,2026-06-07,0,,0,0
+U00321,Egypt,Journey 2,Target,2026-06-13,0,,0,0
+U00322,Qatar,Journey 4,Target,2026-06-03,0,,0,0
+U00323,UAE,Journey 2,Target,2026-06-05,0,,0,0
+U00324,Qatar,Journey 1,Target,2026-06-18,0,,0,0
+U00325,Egypt,Journey 2,Target,2026-06-14,0,,0,0
+U00326,Jordan,Journey 2,Target,2026-06-08,0,,0,0
+U00327,Egypt,Journey 3,Target,2026-06-15,0,,0,0
+U00328,Egypt,Journey 3,Control,2026-06-16,1,2026-06-23,7,250
+U00329,Qatar,Journey 4,Target,2026-06-17,0,,0,0
+U00330,Bahrain,Journey 2,Control,2026-06-16,1,2026-06-21,5,250
+U00331,Bahrain,Journey 4,Control,2026-06-10,0,,0,0
+U00332,Qatar,Journey 2,Target,2026-06-15,0,,0,0
+U00333,Jordan,Journey 4,Target,2026-06-16,1,2026-06-21,5,250
+U00334,Qatar,Journey 2,Target,2026-06-17,0,,0,0
+U00335,Kuwait,Journey 4,Target,2026-06-14,0,,0,0
+U00336,Kuwait,Journey 4,Target,2026-06-21,0,,0,0
+U00337,UAE,Journey 4,Control,2026-06-04,0,,0,0
+U00338,Qatar,Journey 2,Target,2026-06-09,0,,0,0
+U00339,Kuwait,Journey 4,Target,2026-06-12,0,,0,0
+U00340,Bahrain,Journey 4,Target,2026-06-08,0,,0,0
+U00341,Kuwait,Journey 1,Target,2026-06-21,1,2026-06-26,5,250
+U00342,Oman,Journey 2,Target,2026-06-20,0,,0,0
+U00343,Qatar,Journey 1,Target,2026-06-03,0,,0,0
+U00344,Bahrain,Journey 4,Target,2026-06-03,0,,0,0
+U00345,Egypt,Journey 4,Target,2026-06-14,0,,0,0
+U00346,Jordan,Journey 4,Target,2026-06-14,0,,0,0
+U00347,UAE,Journey 1,Target,2026-06-12,0,,0,0
+U00348,Jordan,Journey 2,Control,2026-06-13,0,,0,0
+U00349,Saudi Arabia,Journey 2,Control,2026-06-01,1,2026-06-07,6,250
+U00350,Bahrain,Journey 3,Target,2026-06-06,0,,0,0
+U00351,Qatar,Journey 2,Target,2026-06-06,0,,0,0
+U00352,UAE,Journey 4,Target,2026-06-07,1,2026-06-09,2,250
+U00353,Saudi Arabia,Journey 2,Control,2026-06-07,0,,0,0
+U00354,Bahrain,Journey 4,Target,2026-06-20,1,2026-06-23,3,250
+U00355,UAE,Journey 4,Target,2026-06-03,0,,0,0
+U00356,Egypt,Journey 4,Target,2026-06-04,1,2026-06-07,3,250
+U00357,Jordan,Journey 1,Target,2026-06-02,1,2026-06-06,4,250
+U00358,Jordan,Journey 4,Target,2026-06-11,0,,0,0
+U00359,Kuwait,Journey 3,Target,2026-06-11,0,,0,0
+U00360,Egypt,Journey 3,Target,2026-06-13,0,,0,0
+U00361,Kuwait,Journey 3,Control,2026-06-01,0,,0,0
+U00362,Bahrain,Journey 2,Target,2026-06-04,0,,0,0
+U00363,Jordan,Journey 2,Target,2026-06-20,0,,0,0
+U00364,Oman,Journey 4,Target,2026-06-01,0,,0,0
+U00365,Kuwait,Journey 1,Target,2026-06-02,0,,0,0
+U00366,Kuwait,Journey 4,Target,2026-06-16,0,,0,0
+U00367,UAE,Journey 3,Target,2026-06-16,0,,0,0
+U00368,UAE,Journey 4,Target,2026-06-07,0,,0,0
+U00369,Saudi Arabia,Journey 2,Target,2026-06-03,0,,0,0
+U00370,Oman,Journey 2,Control,2026-06-04,0,,0,0
+U00371,Egypt,Journey 2,Target,2026-06-03,1,2026-06-07,4,250
+U00372,Saudi Arabia,Journey 2,Control,2026-06-11,0,,0,0
+U00373,Jordan,Journey 2,Target,2026-06-16,0,,0,0
+U00374,UAE,Journey 2,Control,2026-06-21,0,,0,0
+U00375,UAE,Journey 3,Control,2026-06-19,0,,0,0
+U00376,UAE,Journey 3,Target,2026-06-13,0,,0,0
+U00377,Bahrain,Journey 2,Target,2026-06-04,0,,0,0
+U00378,UAE,Journey 1,Target,2026-06-19,0,,0,0
+U00379,UAE,Journey 3,Target,2026-06-11,0,,0,0
+U00380,Saudi Arabia,Journey 3,Target,2026-06-18,1,2026-06-20,2,250
+U00381,Kuwait,Journey 2,Target,2026-06-20,0,,0,0
+U00382,UAE,Journey 4,Target,2026-06-15,0,,0,0
+U00383,Jordan,Journey 2,Target,2026-06-15,0,,0,0
+U00384,Jordan,Journey 2,Target,2026-06-02,0,,0,0
+U00385,Jordan,Journey 1,Target,2026-06-19,0,,0,0
+U00386,Egypt,Journey 4,Target,2026-06-13,1,2026-06-18,5,250
+U00387,Kuwait,Journey 2,Control,2026-06-07,0,,0,0
+U00388,Egypt,Journey 1,Control,2026-06-06,0,,0,0
+U00389,Bahrain,Journey 3,Control,2026-06-06,0,,0,0
+U00390,Bahrain,Journey 3,Target,2026-06-16,0,,0,0
+U00391,Bahrain,Journey 4,Target,2026-06-10,0,,0,0
+U00392,Egypt,Journey 4,Target,2026-06-11,0,,0,0
+U00393,Saudi Arabia,Journey 3,Target,2026-06-06,0,,0,0
+U00394,Oman,Journey 4,Target,2026-06-05,0,,0,0
+U00395,Egypt,Journey 1,Target,2026-06-19,1,2026-06-23,4,250
+U00396,Bahrain,Journey 4,Target,2026-06-06,0,,0,0
+U00397,UAE,Journey 3,Control,2026-06-06,0,,0,0
+U00398,UAE,Journey 3,Target,2026-06-05,0,,0,0
+U00399,Bahrain,Journey 2,Target,2026-06-08,0,,0,0
+U00400,Jordan,Journey 2,Target,2026-06-13,0,,0,0
+U00401,UAE,Journey 4,Control,2026-06-21,0,,0,0
+U00402,Oman,Journey 3,Target,2026-06-04,1,2026-06-05,1,250
+U00403,Oman,Journey 2,Target,2026-06-19,0,,0,0
+U00404,Oman,Journey 3,Target,2026-06-04,0,,0,0
+U00405,Qatar,Journey 4,Target,2026-06-21,0,,0,0
+U00406,Jordan,Journey 2,Target,2026-06-03,0,,0,0
+U00407,Qatar,Journey 4,Control,2026-06-01,0,,0,0
+U00408,Oman,Journey 1,Target,2026-06-19,0,,0,0
+U00409,UAE,Journey 2,Control,2026-06-04,0,,0,0
+U00410,Qatar,Journey 1,Target,2026-06-11,1,2026-06-15,4,250
+U00411,Qatar,Journey 1,Target,2026-06-02,1,2026-06-06,4,250
+U00412,UAE,Journey 3,Target,2026-06-18,1,2026-06-24,6,250
+U00413,Egypt,Journey 3,Target,2026-06-17,0,,0,0
+U00414,Jordan,Journey 4,Target,2026-06-16,0,,0,0
+U00415,Kuwait,Journey 2,Target,2026-06-02,0,,0,0
+U00416,Egypt,Journey 2,Target,2026-06-07,0,,0,0
+U00417,Egypt,Journey 3,Target,2026-06-20,0,,0,0
+U00418,Jordan,Journey 3,Target,2026-06-06,0,,0,0
+U00419,UAE,Journey 3,Target,2026-06-05,0,,0,0
+U00420,UAE,Journey 3,Control,2026-06-21,0,,0,0
+U00421,Kuwait,Journey 2,Target,2026-06-05,0,,0,0
+U00422,Bahrain,Journey 4,Target,2026-06-20,0,,0,0
+U00423,Jordan,Journey 1,Target,2026-06-18,0,,0,0
+U00424,Kuwait,Journey 1,Target,2026-06-11,0,,0,0
+U00425,Qatar,Journey 2,Target,2026-06-04,0,,0,0
+U00426,Egypt,Journey 4,Control,2026-06-04,0,,0,0
+U00427,Jordan,Journey 4,Target,2026-06-12,0,,0,0
+U00428,Jordan,Journey 3,Target,2026-06-02,0,,0,0
+U00429,Bahrain,Journey 2,Target,2026-06-18,0,,0,0
+U00430,Bahrain,Journey 4,Target,2026-06-09,1,2026-06-12,3,250
+U00431,Qatar,Journey 2,Target,2026-06-19,0,,0,0
+U00432,Saudi Arabia,Journey 3,Target,2026-06-08,0,,0,0
+U00433,Bahrain,Journey 4,Target,2026-06-12,0,,0,0
+U00434,Jordan,Journey 3,Control,2026-06-17,0,,0,0
+U00435,Egypt,Journey 3,Target,2026-06-03,0,,0,0
+U00436,Bahrain,Journey 3,Control,2026-06-21,1,2026-06-26,5,250
+U00437,Qatar,Journey 1,Target,2026-06-10,0,,0,0
+U00438,Oman,Journey 1,Control,2026-06-14,0,,0,0
+U00439,Qatar,Journey 4,Target,2026-06-18,0,,0,0
+U00440,Bahrain,Journey 1,Target,2026-06-01,0,,0,0
+U00441,Kuwait,Journey 2,Control,2026-06-17,0,,0,0
+U00442,Saudi Arabia,Journey 4,Control,2026-06-17,0,,0,0
+U00443,Qatar,Journey 1,Target,2026-06-05,0,,0,0
+U00444,Saudi Arabia,Journey 4,Target,2026-06-06,0,,0,0
+U00445,UAE,Journey 3,Control,2026-06-08,0,,0,0
+U00446,UAE,Journey 3,Target,2026-06-10,0,,0,0
+U00447,Saudi Arabia,Journey 4,Target,2026-06-10,0,,0,0
+U00448,Saudi Arabia,Journey 4,Control,2026-06-16,1,2026-06-18,2,250
+U00449,Saudi Arabia,Journey 4,Target,2026-06-12,1,2026-06-14,2,250
+U00450,Bahrain,Journey 3,Target,2026-06-14,0,,0,0
+U00451,UAE,Journey 2,Target,2026-06-16,1,2026-06-22,6,250
+U00452,Jordan,Journey 2,Target,2026-06-12,0,,0,0
+U00453,Bahrain,Journey 2,Target,2026-06-09,1,2026-06-10,1,250
+U00454,Qatar,Journey 2,Target,2026-06-14,1,2026-06-19,5,250
+U00455,Egypt,Journey 1,Target,2026-06-02,1,2026-06-05,3,250
+U00456,Saudi Arabia,Journey 2,Target,2026-06-16,0,,0,0
+U00457,Jordan,Journey 1,Target,2026-06-18,0,,0,0
+U00458,Qatar,Journey 3,Target,2026-06-13,0,,0,0
+U00459,Bahrain,Journey 2,Target,2026-06-04,0,,0,0
+U00460,Qatar,Journey 2,Target,2026-06-01,0,,0,0
+U00461,Egypt,Journey 1,Target,2026-06-11,0,,0,0
+U00462,Saudi Arabia,Journey 4,Target,2026-06-10,0,,0,0
+U00463,Bahrain,Journey 2,Target,2026-06-17,0,,0,0
+U00464,Jordan,Journey 1,Control,2026-06-08,0,,0,0
+U00465,Bahrain,Journey 2,Target,2026-06-04,0,,0,0
+U00466,Qatar,Journey 2,Control,2026-06-19,0,,0,0
+U00467,Qatar,Journey 2,Target,2026-06-13,1,2026-06-17,4,250
+U00468,Egypt,Journey 2,Target,2026-06-20,0,,0,0
+U00469,Saudi Arabia,Journey 4,Target,2026-06-10,0,,0,0
+U00470,Egypt,Journey 2,Target,2026-06-16,1,2026-06-19,3,250
+U00471,UAE,Journey 3,Target,2026-06-12,0,,0,0
+U00472,Egypt,Journey 3,Control,2026-06-06,1,2026-06-12,6,250
+U00473,Saudi Arabia,Journey 3,Target,2026-06-16,0,,0,0
+U00474,UAE,Journey 4,Target,2026-06-16,0,,0,0
+U00475,Jordan,Journey 1,Target,2026-06-01,0,,0,0
+U00476,Qatar,Journey 3,Target,2026-06-12,0,,0,0
+U00477,Kuwait,Journey 2,Target,2026-06-07,0,,0,0
+U00478,UAE,Journey 1,Target,2026-06-20,1,2026-06-21,1,250
+U00479,Egypt,Journey 2,Target,2026-06-04,1,2026-06-06,2,250
+U00480,Kuwait,Journey 3,Target,2026-06-07,0,,0,0
+U00481,Qatar,Journey 1,Target,2026-06-14,0,,0,0
+U00482,Jordan,Journey 3,Control,2026-06-15,0,,0,0
+U00483,UAE,Journey 4,Target,2026-06-14,0,,0,0
+U00484,Saudi Arabia,Journey 2,Target,2026-06-05,0,,0,0
+U00485,Saudi Arabia,Journey 2,Target,2026-06-13,0,,0,0
+U00486,UAE,Journey 2,Target,2026-06-17,0,,0,0
+U00487,Bahrain,Journey 4,Target,2026-06-07,0,,0,0
+U00488,Qatar,Journey 2,Target,2026-06-01,0,,0,0
+U00489,Oman,Journey 3,Target,2026-06-08,0,,0,0
+U00490,Jordan,Journey 1,Target,2026-06-02,0,,0,0
+U00491,Jordan,Journey 1,Target,2026-06-09,0,,0,0
+U00492,Jordan,Journey 1,Target,2026-06-08,0,,0,0
+U00493,Egypt,Journey 1,Target,2026-06-12,0,,0,0
+U00494,Kuwait,Journey 3,Target,2026-06-18,0,,0,0
+U00495,Qatar,Journey 4,Control,2026-06-10,0,,0,0
+U00496,Saudi Arabia,Journey 1,Control,2026-06-08,0,,0,0
+U00497,Jordan,Journey 2,Target,2026-06-01,0,,0,0
+U00498,UAE,Journey 4,Control,2026-06-09,0,,0,0
+U00499,Egypt,Journey 4,Target,2026-06-09,0,,0,0
+U00500,Bahrain,Journey 2,Target,2026-06-14,0,,0,0
+U00501,Oman,Journey 1,Target,2026-06-15,0,,0,0
+U00502,Qatar,Journey 2,Target,2026-06-06,0,,0,0
+U00503,Saudi Arabia,Journey 3,Target,2026-06-06,0,,0,0
+U00504,Egypt,Journey 1,Target,2026-06-14,0,,0,0
+U00505,Bahrain,Journey 1,Target,2026-06-05,0,,0,0
+U00506,Saudi Arabia,Journey 1,Target,2026-06-01,1,2026-06-08,7,250
+U00507,Saudi Arabia,Journey 2,Target,2026-06-03,0,,0,0
+U00508,Saudi Arabia,Journey 1,Control,2026-06-04,0,,0,0
+U00509,Kuwait,Journey 1,Target,2026-06-16,0,,0,0
+U00510,Oman,Journey 2,Target,2026-06-16,0,,0,0
+U00511,Saudi Arabia,Journey 3,Target,2026-06-04,1,2026-06-08,4,250
+U00512,Saudi Arabia,Journey 1,Target,2026-06-04,0,,0,0
+U00513,Bahrain,Journey 2,Target,2026-06-08,1,2026-06-11,3,250
+U00514,Jordan,Journey 2,Control,2026-06-13,0,,0,0
+U00515,UAE,Journey 4,Target,2026-06-04,0,,0,0
+U00516,Jordan,Journey 3,Target,2026-06-11,1,2026-06-15,4,250
+U00517,UAE,Journey 1,Target,2026-06-06,0,,0,0
+U00518,Kuwait,Journey 2,Target,2026-06-05,0,,0,0
+U00519,Jordan,Journey 3,Target,2026-06-04,0,,0,0
+U00520,Oman,Journey 3,Control,2026-06-03,0,,0,0
+U00521,Qatar,Journey 2,Target,2026-06-13,0,,0,0
+U00522,Oman,Journey 1,Target,2026-06-14,0,,0,0
+U00523,Jordan,Journey 2,Target,2026-06-05,0,,0,0
+U00524,Bahrain,Journey 3,Target,2026-06-14,0,,0,0
+U00525,Bahrain,Journey 3,Target,2026-06-21,0,,0,0
+U00526,Bahrain,Journey 4,Target,2026-06-18,0,,0,0
+U00527,Egypt,Journey 4,Target,2026-06-14,0,,0,0
+U00528,Egypt,Journey 1,Target,2026-06-01,0,,0,0
+U00529,Saudi Arabia,Journey 3,Target,2026-06-05,0,,0,0
+U00530,Saudi Arabia,Journey 3,Target,2026-06-05,0,,0,0
+U00531,Qatar,Journey 4,Target,2026-06-08,1,2026-06-14,6,250
+U00532,Qatar,Journey 4,Target,2026-06-14,0,,0,0
+U00533,UAE,Journey 1,Target,2026-06-20,0,,0,0
+U00534,Saudi Arabia,Journey 2,Target,2026-06-03,0,,0,0
+U00535,Saudi Arabia,Journey 4,Target,2026-06-06,0,,0,0
+U00536,Qatar,Journey 3,Target,2026-06-11,0,,0,0
+U00537,Saudi Arabia,Journey 3,Target,2026-06-02,0,,0,0
+U00538,Saudi Arabia,Journey 2,Target,2026-06-01,0,,0,0
+U00539,Bahrain,Journey 4,Target,2026-06-09,0,,0,0
+U00540,Jordan,Journey 2,Target,2026-06-06,0,,0,0
+U00541,UAE,Journey 4,Control,2026-06-05,0,,0,0
+U00542,Bahrain,Journey 1,Target,2026-06-06,0,,0,0
+U00543,UAE,Journey 4,Target,2026-06-21,0,,0,0
+U00544,Bahrain,Journey 2,Target,2026-06-12,0,,0,0
+U00545,Egypt,Journey 3,Target,2026-06-03,0,,0,0
+U00546,Kuwait,Journey 1,Target,2026-06-06,0,,0,0
+U00547,UAE,Journey 2,Target,2026-06-10,1,2026-06-17,7,250
+U00548,Egypt,Journey 1,Target,2026-06-03,0,,0,0
+U00549,Saudi Arabia,Journey 4,Target,2026-06-11,1,2026-06-13,2,250
+U00550,Jordan,Journey 4,Target,2026-06-11,0,,0,0
+U00551,Kuwait,Journey 2,Target,2026-06-04,0,,0,0
+U00552,UAE,Journey 2,Target,2026-06-13,0,,0,0
+U00553,Saudi Arabia,Journey 3,Target,2026-06-15,1,2026-06-23,8,250
+U00554,UAE,Journey 2,Control,2026-06-21,0,,0,0
+U00555,Qatar,Journey 3,Target,2026-06-05,0,,0,0
+U00556,Kuwait,Journey 4,Target,2026-06-13,0,,0,0
+U00557,UAE,Journey 2,Target,2026-06-16,1,2026-06-22,6,250
+U00558,Jordan,Journey 1,Target,2026-06-15,0,,0,0
+U00559,Jordan,Journey 2,Target,2026-06-19,0,,0,0
+U00560,UAE,Journey 1,Target,2026-06-15,0,,0,0
+U00561,Oman,Journey 3,Target,2026-06-15,0,,0,0
+U00562,Qatar,Journey 1,Control,2026-06-16,1,2026-06-22,6,250
+U00563,Jordan,Journey 4,Target,2026-06-20,0,,0,0
+U00564,Qatar,Journey 4,Target,2026-06-20,0,,0,0
+U00565,Kuwait,Journey 1,Target,2026-06-17,0,,0,0
+U00566,Saudi Arabia,Journey 1,Target,2026-06-08,0,,0,0
+U00567,Saudi Arabia,Journey 2,Control,2026-06-10,0,,0,0
+U00568,Bahrain,Journey 1,Target,2026-06-15,0,,0,0
+U00569,Kuwait,Journey 4,Target,2026-06-18,0,,0,0
+U00570,Oman,Journey 1,Target,2026-06-04,0,,0,0
+U00571,Bahrain,Journey 4,Target,2026-06-11,1,2026-06-14,3,250
+U00572,Egypt,Journey 4,Target,2026-06-15,1,2026-06-20,5,250
+U00573,Qatar,Journey 4,Target,2026-06-07,0,,0,0
+U00574,Saudi Arabia,Journey 4,Target,2026-06-12,0,,0,0
+U00575,Oman,Journey 2,Target,2026-06-01,0,,0,0
+U00576,Bahrain,Journey 3,Target,2026-06-06,1,2026-06-11,5,250
+U00577,Jordan,Journey 4,Control,2026-06-17,0,,0,0
+U00578,Jordan,Journey 2,Control,2026-06-03,0,,0,0
+U00579,Bahrain,Journey 3,Control,2026-06-10,0,,0,0
+U00580,Kuwait,Journey 4,Target,2026-06-18,0,,0,0
+U00581,Qatar,Journey 4,Target,2026-06-19,0,,0,0
+U00582,Saudi Arabia,Journey 2,Target,2026-06-19,0,,0,0
+U00583,Kuwait,Journey 3,Target,2026-06-15,0,,0,0
+U00584,Oman,Journey 3,Target,2026-06-14,0,,0,0
+U00585,Saudi Arabia,Journey 4,Control,2026-06-05,0,,0,0
+U00586,UAE,Journey 1,Target,2026-06-07,0,,0,0
+U00587,Qatar,Journey 4,Target,2026-06-07,0,,0,0
+U00588,Saudi Arabia,Journey 3,Control,2026-06-01,0,,0,0
+U00589,Jordan,Journey 1,Target,2026-06-21,0,,0,0
+U00590,Bahrain,Journey 4,Target,2026-06-18,0,,0,0
+U00591,Kuwait,Journey 1,Control,2026-06-15,0,,0,0
+U00592,Qatar,Journey 2,Target,2026-06-13,0,,0,0
+U00593,Bahrain,Journey 3,Target,2026-06-04,0,,0,0
+U00594,UAE,Journey 1,Target,2026-06-20,0,,0,0
+U00595,UAE,Journey 4,Target,2026-06-20,0,,0,0
+U00596,UAE,Journey 4,Target,2026-06-02,0,,0,0
+U00597,Bahrain,Journey 2,Target,2026-06-15,0,,0,0
+U00598,UAE,Journey 2,Control,2026-06-04,0,,0,0
+U00599,Oman,Journey 4,Control,2026-06-21,0,,0,0
+U00600,Bahrain,Journey 1,Control,2026-06-08,0,,0,0
+U00601,Jordan,Journey 3,Target,2026-06-14,0,,0,0
+U00602,Saudi Arabia,Journey 4,Target,2026-06-01,1,2026-06-05,4,250
+U00603,Kuwait,Journey 3,Target,2026-06-19,0,,0,0
+U00604,Egypt,Journey 4,Target,2026-06-21,0,,0,0
+U00605,Saudi Arabia,Journey 4,Target,2026-06-21,0,,0,0
+U00606,Qatar,Journey 4,Control,2026-06-17,0,,0,0
+U00607,Egypt,Journey 1,Target,2026-06-05,0,,0,0
+U00608,Bahrain,Journey 3,Control,2026-06-06,0,,0,0
+U00609,Egypt,Journey 1,Target,2026-06-14,1,2026-06-18,4,250
+U00610,UAE,Journey 4,Target,2026-06-05,0,,0,0
+U00611,Kuwait,Journey 2,Target,2026-06-08,0,,0,0
+U00612,Egypt,Journey 4,Target,2026-06-02,0,,0,0
+U00613,Qatar,Journey 1,Target,2026-06-19,0,,0,0
+U00614,UAE,Journey 4,Control,2026-06-04,1,2026-06-09,5,250
+U00615,Jordan,Journey 3,Control,2026-06-03,1,2026-06-10,7,250
+U00616,Egypt,Journey 4,Target,2026-06-01,0,,0,0
+U00617,Oman,Journey 1,Target,2026-06-14,0,,0,0
+U00618,Kuwait,Journey 4,Control,2026-06-06,0,,0,0
+U00619,Qatar,Journey 1,Target,2026-06-11,0,,0,0
+U00620,Oman,Journey 1,Target,2026-06-09,0,,0,0
+U00621,Egypt,Journey 1,Target,2026-06-17,0,,0,0
+U00622,Qatar,Journey 2,Control,2026-06-04,0,,0,0
+U00623,Saudi Arabia,Journey 3,Target,2026-06-03,0,,0,0
+U00624,Qatar,Journey 3,Target,2026-06-07,0,,0,0
+U00625,Kuwait,Journey 3,Target,2026-06-16,0,,0,0
+U00626,Bahrain,Journey 2,Target,2026-06-07,0,,0,0
+U00627,Jordan,Journey 4,Target,2026-06-19,0,,0,0
+U00628,Egypt,Journey 4,Target,2026-06-15,0,,0,0
+U00629,Jordan,Journey 3,Target,2026-06-20,0,,0,0
+U00630,Egypt,Journey 3,Target,2026-06-21,0,,0,0
+U00631,Oman,Journey 2,Control,2026-06-17,0,,0,0
+U00632,Bahrain,Journey 3,Target,2026-06-21,0,,0,0
+U00633,Kuwait,Journey 4,Target,2026-06-06,0,,0,0
+U00634,Bahrain,Journey 2,Target,2026-06-03,0,,0,0
+U00635,Kuwait,Journey 3,Target,2026-06-11,1,2026-06-12,1,250
+U00636,Kuwait,Journey 1,Target,2026-06-07,0,,0,0
+U00637,Kuwait,Journey 2,Target,2026-06-13,0,,0,0
+U00638,Egypt,Journey 2,Target,2026-06-09,0,,0,0
+U00639,UAE,Journey 4,Target,2026-06-14,0,,0,0
+U00640,Kuwait,Journey 2,Target,2026-06-16,0,,0,0
+U00641,Jordan,Journey 4,Target,2026-06-15,0,,0,0
+U00642,Kuwait,Journey 4,Target,2026-06-01,0,,0,0
+U00643,Saudi Arabia,Journey 4,Target,2026-06-13,1,2026-06-15,2,250
+U00644,Kuwait,Journey 1,Target,2026-06-04,0,,0,0
+U00645,Bahrain,Journey 3,Target,2026-06-12,0,,0,0
+U00646,Kuwait,Journey 4,Target,2026-06-13,0,,0,0
+U00647,Oman,Journey 4,Control,2026-06-04,0,,0,0
+U00648,UAE,Journey 1,Target,2026-06-01,1,2026-06-04,3,250
+U00649,Kuwait,Journey 4,Target,2026-06-03,0,,0,0
+U00650,Kuwait,Journey 1,Control,2026-06-02,0,,0,0
+U00651,Saudi Arabia,Journey 1,Target,2026-06-10,1,2026-06-13,3,250
+U00652,Bahrain,Journey 3,Target,2026-06-05,0,,0,0
+U00653,UAE,Journey 2,Target,2026-06-05,0,,0,0
+U00654,Bahrain,Journey 4,Target,2026-06-17,0,,0,0
+U00655,Oman,Journey 4,Control,2026-06-11,0,,0,0
+U00656,Oman,Journey 2,Target,2026-06-10,0,,0,0
+U00657,Kuwait,Journey 2,Target,2026-06-07,0,,0,0
+U00658,UAE,Journey 4,Target,2026-06-01,0,,0,0
+U00659,Oman,Journey 4,Target,2026-06-04,0,,0,0
+U00660,Kuwait,Journey 3,Target,2026-06-21,1,2026-06-27,6,250
+U00661,UAE,Journey 2,Target,2026-06-12,0,,0,0
+U00662,Oman,Journey 2,Target,2026-06-07,1,2026-06-09,2,250
+U00663,UAE,Journey 2,Target,2026-06-04,0,,0,0
+U00664,Egypt,Journey 1,Control,2026-06-06,0,,0,0
+U00665,Oman,Journey 4,Target,2026-06-04,0,,0,0
+U00666,UAE,Journey 3,Target,2026-06-05,0,,0,0
+U00667,Bahrain,Journey 3,Target,2026-06-09,0,,0,0
+U00668,Saudi Arabia,Journey 4,Target,2026-06-14,1,2026-06-19,5,250
+U00669,Egypt,Journey 4,Target,2026-06-09,0,,0,0
+U00670,Oman,Journey 4,Target,2026-06-02,0,,0,0
+U00671,UAE,Journey 2,Target,2026-06-02,0,,0,0
+U00672,Egypt,Journey 1,Target,2026-06-09,0,,0,0
+U00673,Bahrain,Journey 4,Target,2026-06-08,0,,0,0
+U00674,Jordan,Journey 4,Target,2026-06-07,0,,0,0
+U00675,Jordan,Journey 3,Target,2026-06-04,0,,0,0
+U00676,Oman,Journey 3,Control,2026-06-08,0,,0,0
+U00677,UAE,Journey 2,Target,2026-06-15,1,2026-06-20,5,250
+U00678,Kuwait,Journey 1,Target,2026-06-09,0,,0,0
+U00679,Qatar,Journey 1,Target,2026-06-16,0,,0,0
+U00680,Oman,Journey 2,Target,2026-06-02,0,,0,0
+U00681,Jordan,Journey 2,Target,2026-06-06,0,,0,0
+U00682,UAE,Journey 1,Target,2026-06-11,0,,0,0
+U00683,Kuwait,Journey 3,Target,2026-06-09,0,,0,0
+U00684,Saudi Arabia,Journey 3,Target,2026-06-11,0,,0,0
+U00685,Oman,Journey 1,Target,2026-06-17,0,,0,0
+U00686,Saudi Arabia,Journey 2,Control,2026-06-08,0,,0,0
+U00687,Qatar,Journey 3,Target,2026-06-08,0,,0,0
+U00688,Bahrain,Journey 3,Target,2026-06-03,0,,0,0
+U00689,Bahrain,Journey 1,Control,2026-06-21,0,,0,0
+U00690,Oman,Journey 2,Target,2026-06-12,0,,0,0
+U00691,Bahrain,Journey 4,Control,2026-06-09,0,,0,0
+U00692,Saudi Arabia,Journey 3,Control,2026-06-04,0,,0,0
+U00693,Oman,Journey 3,Target,2026-06-01,0,,0,0
+U00694,Qatar,Journey 4,Target,2026-06-17,0,,0,0
+U00695,Qatar,Journey 3,Target,2026-06-03,0,,0,0
+U00696,Saudi Arabia,Journey 4,Target,2026-06-10,0,,0,0
+U00697,UAE,Journey 1,Target,2026-06-01,0,,0,0
+U00698,Saudi Arabia,Journey 1,Target,2026-06-12,0,,0,0
+U00699,Qatar,Journey 1,Target,2026-06-05,0,,0,0
+U00700,Egypt,Journey 4,Target,2026-06-03,0,,0,0
+U00701,Saudi Arabia,Journey 4,Control,2026-06-08,0,,0,0
+U00702,Bahrain,Journey 4,Target,2026-06-04,0,,0,0
+U00703,Jordan,Journey 3,Target,2026-06-14,0,,0,0
+U00704,Kuwait,Journey 2,Target,2026-06-07,0,,0,0
+U00705,Bahrain,Journey 2,Target,2026-06-03,0,,0,0
+U00706,Oman,Journey 2,Target,2026-06-14,1,2026-06-18,4,250
+U00707,Oman,Journey 3,Target,2026-06-12,0,,0,0
+U00708,Bahrain,Journey 4,Target,2026-06-14,0,,0,0
+U00709,Saudi Arabia,Journey 4,Target,2026-06-05,0,,0,0
+U00710,Jordan,Journey 2,Target,2026-06-12,1,2026-06-14,2,250
+U00711,Jordan,Journey 1,Target,2026-06-13,1,2026-06-16,3,250
+U00712,Saudi Arabia,Journey 4,Control,2026-06-17,0,,0,0
+U00713,Saudi Arabia,Journey 1,Target,2026-06-21,1,2026-06-22,1,250
+U00714,Oman,Journey 3,Control,2026-06-04,0,,0,0
+U00715,Saudi Arabia,Journey 2,Target,2026-06-18,0,,0,0
+U00716,Oman,Journey 2,Target,2026-06-21,0,,0,0
+U00717,Jordan,Journey 3,Target,2026-06-01,0,,0,0
+U00718,Egypt,Journey 1,Target,2026-06-05,0,,0,0
+U00719,UAE,Journey 1,Target,2026-06-04,0,,0,0
+U00720,Oman,Journey 4,Target,2026-06-04,0,,0,0
+U00721,Oman,Journey 2,Control,2026-06-18,0,,0,0
+U00722,Oman,Journey 1,Target,2026-06-21,1,2026-06-23,2,250
+U00723,Qatar,Journey 2,Target,2026-06-18,0,,0,0
+U00724,Oman,Journey 3,Target,2026-06-04,0,,0,0
+U00725,Oman,Journey 3,Target,2026-06-13,0,,0,0
+U00726,UAE,Journey 4,Target,2026-06-14,1,2026-06-18,4,250
+U00727,Bahrain,Journey 1,Target,2026-06-02,0,,0,0
+U00728,Oman,Journey 1,Control,2026-06-12,0,,0,0
+U00729,Oman,Journey 4,Target,2026-06-06,0,,0,0
+U00730,Egypt,Journey 3,Control,2026-06-17,0,,0,0
+U00731,UAE,Journey 2,Target,2026-06-12,0,,0,0
+U00732,Kuwait,Journey 4,Target,2026-06-05,0,,0,0
+U00733,Jordan,Journey 4,Target,2026-06-21,0,,0,0
+U00734,Oman,Journey 2,Target,2026-06-17,0,,0,0
+U00735,Jordan,Journey 2,Target,2026-06-19,0,,0,0
+U00736,Kuwait,Journey 4,Target,2026-06-01,0,,0,0
+U00737,Qatar,Journey 2,Target,2026-06-04,0,,0,0
+U00738,Oman,Journey 3,Target,2026-06-08,1,2026-06-12,4,250
+U00739,Qatar,Journey 4,Target,2026-06-14,0,,0,0
+U00740,Saudi Arabia,Journey 3,Target,2026-06-03,0,,0,0
+U00741,Kuwait,Journey 1,Control,2026-06-11,1,2026-06-16,5,250
+U00742,Egypt,Journey 2,Target,2026-06-15,0,,0,0
+U00743,Egypt,Journey 2,Target,2026-06-14,0,,0,0
+U00744,Egypt,Journey 1,Target,2026-06-21,0,,0,0
+U00745,UAE,Journey 2,Target,2026-06-05,0,,0,0
+U00746,Kuwait,Journey 4,Target,2026-06-03,0,,0,0
+U00747,Oman,Journey 2,Control,2026-06-19,0,,0,0
+U00748,Kuwait,Journey 3,Target,2026-06-18,0,,0,0
+U00749,UAE,Journey 4,Target,2026-06-13,0,,0,0
+U00750,UAE,Journey 2,Target,2026-06-10,1,2026-06-14,4,250
+U00751,Oman,Journey 2,Target,2026-06-18,0,,0,0
+U00752,Egypt,Journey 3,Control,2026-06-09,0,,0,0
+U00753,Kuwait,Journey 1,Control,2026-06-06,0,,0,0
+U00754,UAE,Journey 2,Control,2026-06-20,0,,0,0
+U00755,Bahrain,Journey 1,Target,2026-06-04,0,,0,0
+U00756,Jordan,Journey 1,Target,2026-06-14,0,,0,0
+U00757,Kuwait,Journey 1,Target,2026-06-18,0,,0,0
+U00758,Kuwait,Journey 1,Target,2026-06-03,0,,0,0
+U00759,Saudi Arabia,Journey 3,Control,2026-06-14,0,,0,0
+U00760,UAE,Journey 4,Control,2026-06-09,0,,0,0
+U00761,UAE,Journey 1,Target,2026-06-08,0,,0,0
+U00762,Bahrain,Journey 4,Target,2026-06-08,1,2026-06-14,6,250
+U00763,Egypt,Journey 4,Target,2026-06-01,0,,0,0
+U00764,Saudi Arabia,Journey 4,Target,2026-06-05,0,,0,0
+U00765,Bahrain,Journey 2,Target,2026-06-04,0,,0,0
+U00766,Kuwait,Journey 3,Target,2026-06-14,0,,0,0
+U00767,Egypt,Journey 2,Target,2026-06-01,0,,0,0
+U00768,Saudi Arabia,Journey 1,Control,2026-06-08,0,,0,0
+U00769,UAE,Journey 1,Target,2026-06-06,0,,0,0
+U00770,Kuwait,Journey 3,Target,2026-06-08,0,,0,0
+U00771,Qatar,Journey 4,Target,2026-06-04,0,,0,0
+U00772,UAE,Journey 3,Control,2026-06-07,0,,0,0
+U00773,Kuwait,Journey 2,Target,2026-06-10,0,,0,0
+U00774,Jordan,Journey 2,Target,2026-06-09,0,,0,0
+U00775,UAE,Journey 1,Target,2026-06-14,0,,0,0
+U00776,Oman,Journey 3,Target,2026-06-05,0,,0,0
+U00777,Egypt,Journey 3,Target,2026-06-07,1,2026-06-12,5,250
+U00778,Qatar,Journey 1,Control,2026-06-15,0,,0,0
+U00779,Oman,Journey 1,Target,2026-06-02,0,,0,0
+U00780,Bahrain,Journey 3,Control,2026-06-03,1,2026-06-09,6,250
+U00781,Saudi Arabia,Journey 4,Target,2026-06-02,0,,0,0
+U00782,Bahrain,Journey 2,Target,2026-06-18,1,2026-06-21,3,250
+U00783,Jordan,Journey 1,Target,2026-06-12,0,,0,0
+U00784,Kuwait,Journey 3,Control,2026-06-19,0,,0,0
+U00785,Saudi Arabia,Journey 3,Target,2026-06-20,0,,0,0
+U00786,Bahrain,Journey 1,Control,2026-06-18,0,,0,0
+U00787,Jordan,Journey 4,Target,2026-06-19,0,,0,0
+U00788,Jordan,Journey 2,Control,2026-06-15,0,,0,0
+U00789,Egypt,Journey 2,Control,2026-06-09,0,,0,0
+U00790,Jordan,Journey 1,Control,2026-06-18,0,,0,0
+U00791,Bahrain,Journey 1,Target,2026-06-12,0,,0,0
+U00792,Jordan,Journey 1,Target,2026-06-19,0,,0,0
+U00793,Jordan,Journey 2,Target,2026-06-01,0,,0,0
+U00794,Oman,Journey 1,Control,2026-06-16,0,,0,0
+U00795,Egypt,Journey 4,Target,2026-06-03,0,,0,0
+U00796,Kuwait,Journey 1,Target,2026-06-09,0,,0,0
+U00797,Jordan,Journey 3,Control,2026-06-05,0,,0,0
+U00798,Qatar,Journey 2,Control,2026-06-21,1,2026-06-27,6,250
+U00799,Oman,Journey 3,Target,2026-06-08,1,2026-06-12,4,250
+U00800,Jordan,Journey 3,Target,2026-06-12,0,,0,0
+U00801,Saudi Arabia,Journey 2,Target,2026-06-03,0,,0,0
+U00802,UAE,Journey 1,Target,2026-06-11,0,,0,0
+U00803,Bahrain,Journey 1,Target,2026-06-10,1,2026-06-12,2,250
+U00804,Kuwait,Journey 4,Control,2026-06-12,0,,0,0
+U00805,Jordan,Journey 1,Target,2026-06-02,0,,0,0
+U00806,Qatar,Journey 1,Target,2026-06-07,0,,0,0
+U00807,Kuwait,Journey 2,Target,2026-06-19,1,2026-06-25,6,250
+U00808,Qatar,Journey 4,Target,2026-06-21,1,2026-06-28,7,250
+U00809,Egypt,Journey 4,Target,2026-06-04,0,,0,0
+U00810,Saudi Arabia,Journey 4,Target,2026-06-17,0,,0,0
+U00811,Jordan,Journey 2,Control,2026-06-10,0,,0,0
+U00812,Kuwait,Journey 2,Target,2026-06-12,0,,0,0
+U00813,Kuwait,Journey 1,Target,2026-06-15,0,,0,0
+U00814,Bahrain,Journey 3,Target,2026-06-18,0,,0,0
+U00815,Kuwait,Journey 4,Target,2026-06-15,0,,0,0
+U00816,Egypt,Journey 2,Control,2026-06-08,0,,0,0
+U00817,Bahrain,Journey 2,Target,2026-06-10,0,,0,0
+U00818,UAE,Journey 1,Target,2026-06-17,0,,0,0
+U00819,Oman,Journey 2,Control,2026-06-15,1,2026-06-22,7,250
+U00820,UAE,Journey 4,Target,2026-06-18,0,,0,0
+U00821,Oman,Journey 1,Target,2026-06-02,0,,0,0
+U00822,Saudi Arabia,Journey 2,Control,2026-06-05,0,,0,0
+U00823,Bahrain,Journey 4,Target,2026-06-13,0,,0,0
+U00824,Egypt,Journey 3,Target,2026-06-11,0,,0,0
+U00825,UAE,Journey 1,Target,2026-06-12,0,,0,0
+U00826,Bahrain,Journey 4,Target,2026-06-14,0,,0,0
+U00827,Oman,Journey 2,Target,2026-06-19,0,,0,0
+U00828,UAE,Journey 2,Control,2026-06-19,0,,0,0
+U00829,Oman,Journey 4,Target,2026-06-06,0,,0,0
+U00830,Jordan,Journey 1,Target,2026-06-16,0,,0,0
+U00831,Bahrain,Journey 3,Target,2026-06-11,0,,0,0
+U00832,Qatar,Journey 1,Control,2026-06-07,0,,0,0
+U00833,Jordan,Journey 3,Target,2026-06-10,0,,0,0
+U00834,Jordan,Journey 3,Target,2026-06-08,0,,0,0
+U00835,Jordan,Journey 3,Control,2026-06-04,0,,0,0
+U00836,Jordan,Journey 2,Target,2026-06-18,0,,0,0
+U00837,Qatar,Journey 1,Target,2026-06-02,0,,0,0
+U00838,Egypt,Journey 1,Target,2026-06-01,0,,0,0
+U00839,Jordan,Journey 4,Target,2026-06-17,1,2026-06-18,1,250
+U00840,UAE,Journey 4,Control,2026-06-16,0,,0,0
+U00841,Qatar,Journey 3,Target,2026-06-04,0,,0,0
+U00842,UAE,Journey 2,Target,2026-06-11,1,2026-06-16,5,250
+U00843,Kuwait,Journey 3,Target,2026-06-17,0,,0,0
+U00844,UAE,Journey 3,Control,2026-06-02,0,,0,0
+U00845,Kuwait,Journey 2,Control,2026-06-21,1,2026-06-26,5,250
+U00846,Qatar,Journey 4,Control,2026-06-08,0,,0,0
+U00847,Jordan,Journey 4,Target,2026-06-06,0,,0,0
+U00848,Jordan,Journey 2,Target,2026-06-03,0,,0,0
+U00849,Egypt,Journey 1,Target,2026-06-16,0,,0,0
+U00850,Egypt,Journey 2,Target,2026-06-09,0,,0,0
+U00851,Egypt,Journey 3,Target,2026-06-06,0,,0,0
+U00852,Egypt,Journey 3,Target,2026-06-16,0,,0,0
+U00853,Bahrain,Journey 3,Target,2026-06-10,1,2026-06-14,4,250
+U00854,UAE,Journey 3,Target,2026-06-15,0,,0,0
+U00855,Bahrain,Journey 1,Target,2026-06-11,0,,0,0
+U00856,Kuwait,Journey 4,Target,2026-06-16,0,,0,0
+U00857,Oman,Journey 4,Target,2026-06-01,0,,0,0
+U00858,Egypt,Journey 4,Target,2026-06-11,0,,0,0
+U00859,Kuwait,Journey 4,Target,2026-06-15,0,,0,0
+U00860,Jordan,Journey 1,Target,2026-06-08,0,,0,0
+U00861,Saudi Arabia,Journey 3,Target,2026-06-08,0,,0,0
+U00862,Qatar,Journey 2,Target,2026-06-04,0,,0,0
+U00863,Kuwait,Journey 2,Target,2026-06-01,0,,0,0
+U00864,Saudi Arabia,Journey 4,Target,2026-06-11,0,,0,0
+U00865,UAE,Journey 1,Target,2026-06-12,0,,0,0
+U00866,Qatar,Journey 4,Control,2026-06-08,0,,0,0
+U00867,Qatar,Journey 3,Target,2026-06-07,0,,0,0
+U00868,Egypt,Journey 1,Target,2026-06-01,0,,0,0
+U00869,UAE,Journey 4,Target,2026-06-02,1,2026-06-05,3,250
+U00870,Egypt,Journey 1,Target,2026-06-04,0,,0,0
+U00871,Bahrain,Journey 4,Target,2026-06-09,0,,0,0
+U00872,UAE,Journey 1,Target,2026-06-14,1,2026-06-19,5,250
+U00873,Qatar,Journey 1,Target,2026-06-13,0,,0,0
+U00874,Jordan,Journey 3,Target,2026-06-01,0,,0,0
+U00875,Oman,Journey 2,Target,2026-06-21,0,,0,0
+U00876,Bahrain,Journey 3,Target,2026-06-08,0,,0,0
+U00877,Jordan,Journey 4,Target,2026-06-18,0,,0,0
+U00878,Bahrain,Journey 1,Control,2026-06-13,0,,0,0
+U00879,UAE,Journey 4,Target,2026-06-01,0,,0,0
+U00880,Egypt,Journey 4,Target,2026-06-19,1,2026-06-22,3,250
+U00881,UAE,Journey 1,Target,2026-06-07,0,,0,0
+U00882,Oman,Journey 2,Target,2026-06-13,0,,0,0
+U00883,Oman,Journey 2,Target,2026-06-16,0,,0,0
+U00884,Jordan,Journey 3,Control,2026-06-02,0,,0,0
+U00885,Bahrain,Journey 1,Target,2026-06-07,0,,0,0
+U00886,Oman,Journey 4,Target,2026-06-21,0,,0,0
+U00887,Oman,Journey 4,Target,2026-06-03,0,,0,0
+U00888,Bahrain,Journey 1,Target,2026-06-01,0,,0,0
+U00889,UAE,Journey 2,Target,2026-06-04,1,2026-06-08,4,250
+U00890,Bahrain,Journey 4,Target,2026-06-17,0,,0,0
+U00891,Bahrain,Journey 4,Target,2026-06-04,0,,0,0
+U00892,Jordan,Journey 3,Target,2026-06-20,0,,0,0
+U00893,Qatar,Journey 2,Target,2026-06-07,0,,0,0
+U00894,Kuwait,Journey 3,Target,2026-06-07,0,,0,0
+U00895,Qatar,Journey 2,Target,2026-06-16,1,2026-06-19,3,250
+U00896,UAE,Journey 1,Target,2026-06-07,0,,0,0
+U00897,UAE,Journey 4,Target,2026-06-02,0,,0,0
+U00898,Qatar,Journey 1,Target,2026-06-18,0,,0,0
+U00899,Kuwait,Journey 1,Control,2026-06-09,0,,0,0
+U00900,Bahrain,Journey 3,Target,2026-06-13,0,,0,0
+U00901,Egypt,Journey 1,Target,2026-06-04,0,,0,0
+U00902,Jordan,Journey 2,Target,2026-06-04,1,2026-06-08,4,250
+U00903,Bahrain,Journey 3,Target,2026-06-19,0,,0,0
+U00904,Oman,Journey 2,Target,2026-06-08,0,,0,0
+U00905,UAE,Journey 2,Target,2026-06-16,0,,0,0
+U00906,Kuwait,Journey 1,Control,2026-06-02,0,,0,0
+U00907,Oman,Journey 4,Target,2026-06-11,0,,0,0
+U00908,UAE,Journey 2,Target,2026-06-13,0,,0,0
+U00909,Oman,Journey 3,Target,2026-06-17,0,,0,0
+U00910,UAE,Journey 2,Control,2026-06-21,0,,0,0
+U00911,Qatar,Journey 4,Target,2026-06-16,0,,0,0
+U00912,Jordan,Journey 1,Target,2026-06-14,0,,0,0
+U00913,Qatar,Journey 1,Control,2026-06-15,0,,0,0
+U00914,Kuwait,Journey 4,Target,2026-06-18,0,,0,0
+U00915,Egypt,Journey 4,Target,2026-06-01,0,,0,0
+U00916,Kuwait,Journey 2,Target,2026-06-10,0,,0,0
+U00917,Kuwait,Journey 3,Target,2026-06-01,0,,0,0
+U00918,Saudi Arabia,Journey 3,Target,2026-06-13,1,2026-06-16,3,250
+U00919,Saudi Arabia,Journey 1,Control,2026-06-16,0,,0,0
+U00920,Oman,Journey 4,Target,2026-06-21,0,,0,0
+U00921,UAE,Journey 1,Target,2026-06-20,0,,0,0
+U00922,Qatar,Journey 2,Control,2026-06-05,1,2026-06-09,4,250
+U00923,UAE,Journey 1,Target,2026-06-02,0,,0,0
+U00924,Jordan,Journey 2,Target,2026-06-01,0,,0,0
+U00925,Kuwait,Journey 2,Control,2026-06-19,0,,0,0
+U00926,Kuwait,Journey 1,Control,2026-06-13,0,,0,0
+U00927,Saudi Arabia,Journey 1,Target,2026-06-17,1,2026-06-21,4,250
+U00928,Saudi Arabia,Journey 3,Target,2026-06-17,0,,0,0
+U00929,Saudi Arabia,Journey 3,Target,2026-06-12,1,2026-06-17,5,250
+U00930,Oman,Journey 1,Target,2026-06-15,1,2026-06-20,5,250
+U00931,UAE,Journey 2,Target,2026-06-21,0,,0,0
+U00932,Qatar,Journey 1,Target,2026-06-12,0,,0,0
+U00933,Egypt,Journey 3,Control,2026-06-21,0,,0,0
+U00934,Egypt,Journey 2,Target,2026-06-13,0,,0,0
+U00935,Qatar,Journey 3,Target,2026-06-11,0,,0,0
+U00936,Egypt,Journey 3,Control,2026-06-06,0,,0,0
+U00937,Jordan,Journey 4,Target,2026-06-16,0,,0,0
+U00938,Kuwait,Journey 3,Target,2026-06-17,0,,0,0
+U00939,Qatar,Journey 1,Control,2026-06-19,0,,0,0
+U00940,Egypt,Journey 4,Target,2026-06-10,0,,0,0
+U00941,Jordan,Journey 1,Target,2026-06-07,0,,0,0
+U00942,Oman,Journey 3,Target,2026-06-04,0,,0,0
+U00943,Qatar,Journey 4,Target,2026-06-19,0,,0,0
+U00944,Bahrain,Journey 1,Target,2026-06-04,0,,0,0
+U00945,Saudi Arabia,Journey 2,Target,2026-06-11,0,,0,0
+U00946,UAE,Journey 2,Control,2026-06-10,0,,0,0
+U00947,Qatar,Journey 1,Target,2026-06-20,0,,0,0
+U00948,Bahrain,Journey 4,Target,2026-06-08,0,,0,0
+U00949,Kuwait,Journey 3,Target,2026-06-13,0,,0,0
+U00950,Egypt,Journey 1,Target,2026-06-09,0,,0,0
+U00951,Bahrain,Journey 1,Target,2026-06-06,0,,0,0
+U00952,Egypt,Journey 2,Target,2026-06-11,0,,0,0
+U00953,Saudi Arabia,Journey 1,Target,2026-06-05,0,,0,0
+U00954,Oman,Journey 4,Target,2026-06-01,0,,0,0
+U00955,Egypt,Journey 2,Target,2026-06-03,0,,0,0
+U00956,Egypt,Journey 4,Target,2026-06-08,0,,0,0
+U00957,Kuwait,Journey 1,Target,2026-06-12,1,2026-06-15,3,250
+U00958,Bahrain,Journey 2,Control,2026-06-13,0,,0,0
+U00959,Egypt,Journey 1,Target,2026-06-11,0,,0,0
+U00960,Qatar,Journey 4,Target,2026-06-10,0,,0,0
+U00961,Bahrain,Journey 4,Target,2026-06-12,0,,0,0
+U00962,Saudi Arabia,Journey 2,Control,2026-06-06,0,,0,0
+U00963,Kuwait,Journey 3,Target,2026-06-01,0,,0,0
+U00964,Bahrain,Journey 1,Target,2026-06-05,0,,0,0
+U00965,Saudi Arabia,Journey 2,Target,2026-06-03,0,,0,0
+U00966,Qatar,Journey 4,Target,2026-06-10,0,,0,0
+U00967,Oman,Journey 1,Target,2026-06-14,0,,0,0
+U00968,Bahrain,Journey 1,Target,2026-06-03,0,,0,0
+U00969,UAE,Journey 4,Control,2026-06-01,0,,0,0
+U00970,Qatar,Journey 4,Target,2026-06-01,0,,0,0
+U00971,Bahrain,Journey 4,Target,2026-06-10,0,,0,0
+U00972,UAE,Journey 4,Target,2026-06-16,0,,0,0
+U00973,Kuwait,Journey 1,Target,2026-06-14,0,,0,0
+U00974,Bahrain,Journey 1,Target,2026-06-11,0,,0,0
+U00975,Jordan,Journey 2,Target,2026-06-20,0,,0,0
+U00976,Oman,Journey 4,Target,2026-06-10,1,2026-06-15,5,250
+U00977,Saudi Arabia,Journey 3,Target,2026-06-11,0,,0,0
+U00978,Saudi Arabia,Journey 3,Target,2026-06-12,0,,0,0
+U00979,Oman,Journey 3,Target,2026-06-02,0,,0,0
+U00980,Kuwait,Journey 1,Target,2026-06-13,0,,0,0
+U00981,UAE,Journey 1,Target,2026-06-05,0,,0,0
+U00982,Bahrain,Journey 3,Target,2026-06-15,0,,0,0
+U00983,Egypt,Journey 4,Target,2026-06-11,0,,0,0
+U00984,Qatar,Journey 1,Target,2026-06-03,0,,0,0
+U00985,Jordan,Journey 4,Target,2026-06-06,0,,0,0
+U00986,Jordan,Journey 1,Control,2026-06-14,0,,0,0
+U00987,Egypt,Journey 3,Control,2026-06-20,0,,0,0
+U00988,Egypt,Journey 1,Target,2026-06-16,0,,0,0
+U00989,Bahrain,Journey 3,Target,2026-06-06,0,,0,0
+U00990,Saudi Arabia,Journey 4,Control,2026-06-10,0,,0,0
+U00991,Bahrain,Journey 2,Target,2026-06-14,0,,0,0
+U00992,Jordan,Journey 3,Target,2026-06-21,0,,0,0
+U00993,Egypt,Journey 2,Target,2026-06-11,0,,0,0
+U00994,Jordan,Journey 4,Target,2026-06-21,0,,0,0
+U00995,Bahrain,Journey 4,Control,2026-06-01,0,,0,0
+U00996,Kuwait,Journey 3,Control,2026-06-05,0,,0,0
+U00997,Oman,Journey 2,Target,2026-06-06,0,,0,0
+U00998,Jordan,Journey 4,Target,2026-06-19,0,,0,0
+U00999,Oman,Journey 3,Target,2026-06-17,0,,0,0
+U01000,Jordan,Journey 3,Target,2026-06-15,1,2026-06-17,2,250
